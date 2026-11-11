@@ -1,0 +1,1123 @@
+{
+ "_note": "Metadata verified against Crossref (api.crossref.org/works/<DOI>) on 2026-10-28 unless 'verified' says otherwise. type: JOUR = journal article, CONF = conference paper (flagged: no journal version exists).",
+ "goodfellow2015": {
+  "type": "JOUR",
+  "authors": [
+   "Goodfellow, Ian J.",
+   "Erhan, Dumitru",
+   "Carrier, Pierre Luc",
+   "Courville, Aaron",
+   "Mirza, Mehdi",
+   "Hamner, Ben",
+   "Cukierski, Will",
+   "Tang, Yichuan",
+   "Thaler, David",
+   "Lee, Dong-Hyun",
+   "Zhou, Yingbo",
+   "Ramaiah, Chetan",
+   "Feng, Fangxiang",
+   "Li, Ruifan",
+   "Wang, Xiaojie",
+   "Athanasakis, Dimitris",
+   "Shawe-Taylor, John",
+   "Milakov, Maxim",
+   "Park, John",
+   "Ionescu, Radu",
+   "Popescu, Marius",
+   "Grozea, Cristian",
+   "Bergstra, James",
+   "Xie, Jingjing",
+   "Romaszko, Lukasz",
+   "Xu, Bing",
+   "Chuang, Zhang",
+   "Bengio, Yoshua"
+  ],
+  "title": "Challenges in representation learning: A report on three machine learning contests",
+  "journal": "Neural Networks",
+  "year": 2015,
+  "volume": "64",
+  "issue": "",
+  "pages": "59-63",
+  "doi": "10.1016/j.neunet.2014.09.005",
+  "verified": "Crossref"
+ },
+ "mollahosseini2019": {
+  "type": "JOUR",
+  "authors": [
+   "Mollahosseini, Ali",
+   "Hasani, Behzad",
+   "Mahoor, Mohammad H."
+  ],
+  "title": "AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild",
+  "journal": "IEEE Transactions on Affective Computing",
+  "year": 2019,
+  "volume": "10",
+  "issue": "1",
+  "pages": "18-31",
+  "doi": "10.1109/TAFFC.2017.2740923",
+  "verified": "Crossref"
+ },
+ "li2022survey": {
+  "type": "JOUR",
+  "authors": [
+   "Li, Shan",
+   "Deng, Weihong"
+  ],
+  "title": "Deep Facial Expression Recognition: A Survey",
+  "journal": "IEEE Transactions on Affective Computing",
+  "year": 2022,
+  "volume": "13",
+  "issue": "3",
+  "pages": "1195-1215",
+  "doi": "10.1109/TAFFC.2020.2981446",
+  "verified": "Crossref"
+ },
+ "li2019rafdb": {
+  "type": "JOUR",
+  "authors": [
+   "Li, Shan",
+   "Deng, Weihong"
+  ],
+  "title": "Reliable Crowdsourcing and Deep Locality-Preserving Learning for Unconstrained Facial Expression Recognition",
+  "journal": "IEEE Transactions on Image Processing",
+  "year": 2019,
+  "volume": "28",
+  "issue": "1",
+  "pages": "356-370",
+  "doi": "10.1109/TIP.2018.2868382",
+  "verified": "Crossref"
+ },
+ "li2022bias": {
+  "type": "JOUR",
+  "authors": [
+   "Li, Shan",
+   "Deng, Weihong"
+  ],
+  "title": "A Deeper Look at Facial Expression Dataset Bias",
+  "journal": "IEEE Transactions on Affective Computing",
+  "year": 2022,
+  "volume": "13",
+  "issue": "2",
+  "pages": "881-893",
+  "doi": "10.1109/TAFFC.2020.2973158",
+  "verified": "Crossref"
+ },
+ "wang2020ran": {
+  "type": "JOUR",
+  "authors": [
+   "Wang, Kai",
+   "Peng, Xiaojiang",
+   "Yang, Jianfei",
+   "Meng, Debin",
+   "Qiao, Yu"
+  ],
+  "title": "Region Attention Networks for Pose and Occlusion Robust Facial Expression Recognition",
+  "journal": "IEEE Transactions on Image Processing",
+  "year": 2020,
+  "volume": "29",
+  "issue": "",
+  "pages": "4057-4069",
+  "doi": "10.1109/TIP.2019.2956143",
+  "verified": "Crossref"
+ },
+ "li2019acnn": {
+  "type": "JOUR",
+  "authors": [
+   "Li, Yong",
+   "Zeng, Jiabei",
+   "Shan, Shiguang",
+   "Chen, Xilin"
+  ],
+  "title": "Occlusion Aware Facial Expression Recognition Using CNN With Attention Mechanism",
+  "journal": "IEEE Transactions on Image Processing",
+  "year": 2019,
+  "volume": "28",
+  "issue": "5",
+  "pages": "2439-2450",
+  "doi": "10.1109/TIP.2018.2886767",
+  "verified": "Crossref"
+ },
+ "savchenko2022": {
+  "type": "JOUR",
+  "authors": [
+   "Savchenko, Andrey V.",
+   "Savchenko, Lyudmila V.",
+   "Makarov, Ilya"
+  ],
+  "title": "Classifying Emotions and Engagement in Online Learning Based on a Single Facial Expression Recognition Neural Network",
+  "journal": "IEEE Transactions on Affective Computing",
+  "year": 2022,
+  "volume": "13",
+  "issue": "4",
+  "pages": "2132-2143",
+  "doi": "10.1109/TAFFC.2022.3188390",
+  "verified": "Crossref"
+ },
+ "ma2023vtff": {
+  "type": "JOUR",
+  "authors": [
+   "Ma, Fuyan",
+   "Sun, Bin",
+   "Li, Shutao"
+  ],
+  "title": "Facial Expression Recognition With Visual Transformers and Attentional Selective Fusion",
+  "journal": "IEEE Transactions on Affective Computing",
+  "year": 2023,
+  "volume": "14",
+  "issue": "2",
+  "pages": "1236-1248",
+  "doi": "10.1109/TAFFC.2021.3122146",
+  "verified": "Crossref"
+ },
+ "safavi2025": {
+  "type": "JOUR",
+  "authors": [
+   "Safavi, Farshad",
+   "Patel, Kulin",
+   "Vinjamuri, Ramana"
+  ],
+  "title": "Facial Expression Recognition With an Efficient Mix Transformer for Affective Human-Robot Interaction",
+  "journal": "IEEE Transactions on Affective Computing",
+  "year": 2025,
+  "volume": "16",
+  "issue": "4",
+  "pages": "3081-3094",
+  "doi": "10.1109/TAFFC.2025.3567966",
+  "verified": "Crossref; abstract via MD-SOAR repository"
+ },
+ "muhammad2021": {
+  "type": "JOUR",
+  "authors": [
+   "Muhammad, Ghulam",
+   "Hossain, M. Shamim"
+  ],
+  "title": "Emotion Recognition for Cognitive Edge Computing Using Deep Learning",
+  "journal": "IEEE Internet of Things Journal",
+  "year": 2021,
+  "volume": "8",
+  "issue": "23",
+  "pages": "16894-16901",
+  "doi": "10.1109/JIOT.2021.3058587",
+  "verified": "Crossref"
+ },
+ "hossain2018": {
+  "type": "JOUR",
+  "authors": [
+   "Hossain, M. Shamim",
+   "Muhammad, Ghulam"
+  ],
+  "title": "Emotion-Aware Connected Healthcare Big Data Towards 5G",
+  "journal": "IEEE Internet of Things Journal",
+  "year": 2018,
+  "volume": "5",
+  "issue": "4",
+  "pages": "2399-2406",
+  "doi": "10.1109/JIOT.2017.2772959",
+  "verified": "Crossref"
+ },
+ "hossain2019": {
+  "type": "JOUR",
+  "authors": [
+   "Hossain, M. Shamim",
+   "Muhammad, Ghulam"
+  ],
+  "title": "Emotion recognition using deep learning approach from audio-visual emotional big data",
+  "journal": "Information Fusion",
+  "year": 2019,
+  "volume": "49",
+  "issue": "",
+  "pages": "69-78",
+  "doi": "10.1016/j.inffus.2018.09.008",
+  "verified": "Crossref"
+ },
+ "shi2016": {
+  "type": "JOUR",
+  "authors": [
+   "Shi, Weisong",
+   "Cao, Jie",
+   "Zhang, Quan",
+   "Li, Youhuizi",
+   "Xu, Lanyu"
+  ],
+  "title": "Edge Computing: Vision and Challenges",
+  "journal": "IEEE Internet of Things Journal",
+  "year": 2016,
+  "volume": "3",
+  "issue": "5",
+  "pages": "637-646",
+  "doi": "10.1109/JIOT.2016.2579198",
+  "verified": "Crossref"
+ },
+ "shangguan2026": {
+  "type": "JOUR",
+  "authors": [
+   "Shangguan, Zixuan",
+   "Dong, Yanjie",
+   "Guo, Song",
+   "Leung, Victor C. M.",
+   "Deen, M. Jamal",
+   "Hu, Xiping"
+  ],
+  "title": "Facial Expression Analysis and Its Potentials in IoT Systems: A Contemporary Survey",
+  "journal": "ACM Computing Surveys",
+  "year": 2026,
+  "volume": "58",
+  "issue": "2",
+  "pages": "1-39",
+  "doi": "10.1145/3737456",
+  "verified": "Crossref (container short title 'ACM Comput. Surv.')"
+ },
+ "breazeal2003": {
+  "type": "JOUR",
+  "authors": [
+   "Breazeal, Cynthia"
+  ],
+  "title": "Emotion and sociable humanoid robots",
+  "journal": "International Journal of Human-Computer Studies",
+  "year": 2003,
+  "volume": "59",
+  "issue": "1-2",
+  "pages": "119-155",
+  "doi": "10.1016/S1071-5819(03)00018-1",
+  "verified": "Crossref"
+ },
+ "fong2003": {
+  "type": "JOUR",
+  "authors": [
+   "Fong, Terrence",
+   "Nourbakhsh, Illah",
+   "Dautenhahn, Kerstin"
+  ],
+  "title": "A survey of socially interactive robots",
+  "journal": "Robotics and Autonomous Systems",
+  "year": 2003,
+  "volume": "42",
+  "issue": "3-4",
+  "pages": "143-166",
+  "doi": "10.1016/S0921-8890(02)00372-X",
+  "verified": "Crossref"
+ },
+ "belpaeme2018": {
+  "type": "JOUR",
+  "authors": [
+   "Belpaeme, Tony",
+   "Kennedy, James",
+   "Ramachandran, Aditi",
+   "Scassellati, Brian",
+   "Tanaka, Fumihide"
+  ],
+  "title": "Social robots for education: A review",
+  "journal": "Science Robotics",
+  "year": 2018,
+  "volume": "3",
+  "issue": "21",
+  "pages": "eaat5954",
+  "doi": "10.1126/scirobotics.aat5954",
+  "verified": "Crossref"
+ },
+ "rawal2022": {
+  "type": "JOUR",
+  "authors": [
+   "Rawal, Niyati",
+   "Stock-Homburg, Ruth Maria"
+  ],
+  "title": "Facial Emotion Expressions in Human-Robot Interaction: A Survey",
+  "journal": "International Journal of Social Robotics",
+  "year": 2022,
+  "volume": "14",
+  "issue": "7",
+  "pages": "1583-1604",
+  "doi": "10.1007/s12369-022-00867-0",
+  "verified": "Crossref"
+ },
+ "zepf2021": {
+  "type": "JOUR",
+  "authors": [
+   "Zepf, Sebastian",
+   "Hernandez, Javier",
+   "Schmitt, Alexander",
+   "Minker, Wolfgang",
+   "Picard, Rosalind W."
+  ],
+  "title": "Driver Emotion Recognition for Intelligent Vehicles: A Survey",
+  "journal": "ACM Computing Surveys",
+  "year": 2021,
+  "volume": "53",
+  "issue": "3",
+  "pages": "1-30",
+  "doi": "10.1145/3388790",
+  "verified": "Crossref (published online 2020, issue 2021)"
+ },
+ "ekman1971": {
+  "type": "JOUR",
+  "authors": [
+   "Ekman, Paul",
+   "Friesen, Wallace V."
+  ],
+  "title": "Constants across cultures in the face and emotion",
+  "journal": "Journal of Personality and Social Psychology",
+  "year": 1971,
+  "volume": "17",
+  "issue": "2",
+  "pages": "124-129",
+  "doi": "10.1037/h0030377",
+  "verified": "Crossref"
+ },
+ "barrett2019": {
+  "type": "JOUR",
+  "authors": [
+   "Barrett, Lisa Feldman",
+   "Adolphs, Ralph",
+   "Marsella, Stacy",
+   "Martinez, Aleix M.",
+   "Pollak, Seth D."
+  ],
+  "title": "Emotional Expressions Reconsidered: Challenges to Inferring Emotion From Human Facial Movements",
+  "journal": "Psychological Science in the Public Interest",
+  "year": 2019,
+  "volume": "20",
+  "issue": "1",
+  "pages": "1-68",
+  "doi": "10.1177/1529100619832930",
+  "verified": "Crossref; a correction notice exists (10.1177/1529100619889954); the cited content is unaffected"
+ },
+ "russakovsky2015": {
+  "type": "JOUR",
+  "authors": [
+   "Russakovsky, Olga",
+   "Deng, Jia",
+   "Su, Hao",
+   "Krause, Jonathan",
+   "Satheesh, Sanjeev",
+   "Ma, Sean",
+   "Huang, Zhiheng",
+   "Karpathy, Andrej",
+   "Khosla, Aditya",
+   "Bernstein, Michael",
+   "Berg, Alexander C.",
+   "Fei-Fei, Li"
+  ],
+  "title": "ImageNet Large Scale Visual Recognition Challenge",
+  "journal": "International Journal of Computer Vision",
+  "year": 2015,
+  "volume": "115",
+  "issue": "3",
+  "pages": "211-252",
+  "doi": "10.1007/s11263-015-0816-y",
+  "verified": "Crossref"
+ },
+ "howard2019": {
+  "type": "CONF",
+  "authors": [
+   "Howard, Andrew",
+   "Sandler, Mark",
+   "Chen, Bo",
+   "Wang, Weijun",
+   "Chen, Liang-Chieh",
+   "Tan, Mingxing",
+   "Chu, Grace",
+   "Vasudevan, Vijay",
+   "Zhu, Yukun",
+   "Pang, Ruoming",
+   "Adam, Hartwig",
+   "Le, Quoc"
+  ],
+  "title": "Searching for MobileNetV3",
+  "journal": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
+  "year": 2019,
+  "volume": "",
+  "issue": "",
+  "pages": "1314-1324",
+  "doi": "10.1109/ICCV.2019.00140",
+  "verified": "Crossref; conference-only (no journal version)"
+ },
+ "dosovitskiy2021": {
+  "type": "CONF",
+  "authors": [
+   "Dosovitskiy, Alexey",
+   "Beyer, Lucas",
+   "Kolesnikov, Alexander",
+   "Weissenborn, Dirk",
+   "Zhai, Xiaohua",
+   "Unterthiner, Thomas",
+   "Dehghani, Mostafa",
+   "Minderer, Matthias",
+   "Heigold, Georg",
+   "Gelly, Sylvain",
+   "Uszkoreit, Jakob",
+   "Houlsby, Neil"
+  ],
+  "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+  "journal": "Proceedings of the International Conference on Learning Representations (ICLR)",
+  "year": 2021,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "",
+  "url": "https://openreview.net/forum?id=YicbFdNTTy",
+  "verified": "authors/title via arXiv:2010.11929; venue ICLR 2021 (OpenReview); conference-only, no DOI"
+ },
+ "steiner2022": {
+  "type": "JOUR",
+  "authors": [
+   "Steiner, Andreas",
+   "Kolesnikov, Alexander",
+   "Zhai, Xiaohua",
+   "Wightman, Ross",
+   "Uszkoreit, Jakob",
+   "Beyer, Lucas"
+  ],
+  "title": "How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers",
+  "journal": "Transactions on Machine Learning Research",
+  "year": 2022,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "",
+  "url": "https://openreview.net/forum?id=4nPswr1KcP",
+  "verified": "authors/title via arXiv:2106.10270; venue TMLR (OpenReview, no DOI) - user should confirm publication month"
+ },
+ "radosavovic2020": {
+  "type": "CONF",
+  "authors": [
+   "Radosavovic, Ilija",
+   "Kosaraju, Raj Prateek",
+   "Girshick, Ross",
+   "He, Kaiming",
+   "Dollar, Piotr"
+  ],
+  "title": "Designing Network Design Spaces",
+  "journal": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+  "year": 2020,
+  "volume": "",
+  "issue": "",
+  "pages": "10425-10433",
+  "doi": "10.1109/CVPR42600.2020.01044",
+  "verified": "Crossref; conference-only"
+ },
+ "hu2020": {
+  "type": "JOUR",
+  "authors": [
+   "Hu, Jie",
+   "Shen, Li",
+   "Albanie, Samuel",
+   "Sun, Gang",
+   "Wu, Enhua"
+  ],
+  "title": "Squeeze-and-Excitation Networks",
+  "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "year": 2020,
+  "volume": "42",
+  "issue": "8",
+  "pages": "2011-2023",
+  "doi": "10.1109/TPAMI.2019.2913372",
+  "verified": "Crossref"
+ },
+ "he2016": {
+  "type": "CONF",
+  "authors": [
+   "He, Kaiming",
+   "Zhang, Xiangyu",
+   "Ren, Shaoqing",
+   "Sun, Jian"
+  ],
+  "title": "Deep Residual Learning for Image Recognition",
+  "journal": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+  "year": 2016,
+  "volume": "",
+  "issue": "",
+  "pages": "770-778",
+  "doi": "10.1109/CVPR.2016.90",
+  "verified": "Crossref; conference-only"
+ },
+ "han2023": {
+  "type": "JOUR",
+  "authors": [
+   "Han, Kai",
+   "Wang, Yunhe",
+   "Chen, Hanting",
+   "Chen, Xinghao",
+   "Guo, Jianyuan",
+   "Liu, Zhenhua",
+   "Tang, Yehui",
+   "Xiao, An",
+   "Xu, Chunjing",
+   "Xu, Yixing",
+   "Yang, Zhaohui",
+   "Zhang, Yiman",
+   "Tao, Dacheng"
+  ],
+  "title": "A Survey on Vision Transformer",
+  "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "year": 2023,
+  "volume": "45",
+  "issue": "1",
+  "pages": "87-110",
+  "doi": "10.1109/TPAMI.2022.3152247",
+  "verified": "Crossref"
+ },
+ "baltrusaitis2019": {
+  "type": "JOUR",
+  "authors": [
+   "Baltrusaitis, Tadas",
+   "Ahuja, Chaitanya",
+   "Morency, Louis-Philippe"
+  ],
+  "title": "Multimodal Machine Learning: A Survey and Taxonomy",
+  "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "year": 2019,
+  "volume": "41",
+  "issue": "2",
+  "pages": "423-443",
+  "doi": "10.1109/TPAMI.2018.2798607",
+  "verified": "Crossref"
+ },
+ "ganaie2022": {
+  "type": "JOUR",
+  "authors": [
+   "Ganaie, M. A.",
+   "Hu, Minghui",
+   "Malik, A. K.",
+   "Tanveer, M.",
+   "Suganthan, P. N."
+  ],
+  "title": "Ensemble deep learning: A review",
+  "journal": "Engineering Applications of Artificial Intelligence",
+  "year": 2022,
+  "volume": "115",
+  "issue": "",
+  "pages": "105151",
+  "doi": "10.1016/j.engappai.2022.105151",
+  "verified": "Crossref"
+ },
+ "lin2020": {
+  "type": "JOUR",
+  "authors": [
+   "Lin, Tsung-Yi",
+   "Goyal, Priya",
+   "Girshick, Ross",
+   "He, Kaiming",
+   "Dollar, Piotr"
+  ],
+  "title": "Focal Loss for Dense Object Detection",
+  "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "year": 2020,
+  "volume": "42",
+  "issue": "2",
+  "pages": "318-327",
+  "doi": "10.1109/TPAMI.2018.2858826",
+  "verified": "Crossref"
+ },
+ "cui2019": {
+  "type": "CONF",
+  "authors": [
+   "Cui, Yin",
+   "Jia, Menglin",
+   "Lin, Tsung-Yi",
+   "Song, Yang",
+   "Belongie, Serge"
+  ],
+  "title": "Class-Balanced Loss Based on Effective Number of Samples",
+  "journal": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+  "year": 2019,
+  "volume": "",
+  "issue": "",
+  "pages": "9260-9269",
+  "doi": "10.1109/CVPR.2019.00949",
+  "verified": "Crossref; conference-only"
+ },
+ "menon2021": {
+  "type": "CONF",
+  "authors": [
+   "Menon, Aditya Krishna",
+   "Jayasumana, Sadeep",
+   "Rawat, Ankit Singh",
+   "Jain, Himanshu",
+   "Veit, Andreas",
+   "Kumar, Sanjiv"
+  ],
+  "title": "Long-tail learning via logit adjustment",
+  "journal": "Proceedings of the International Conference on Learning Representations (ICLR)",
+  "year": 2021,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "",
+  "url": "https://openreview.net/forum?id=37nvvqkCo5",
+  "verified": "arXiv:2007.07314 comments: 'Published as a conference paper in ICLR 2021'; no DOI"
+ },
+ "zhang2023": {
+  "type": "JOUR",
+  "authors": [
+   "Zhang, Yifan",
+   "Kang, Bingyi",
+   "Hooi, Bryan",
+   "Yan, Shuicheng",
+   "Feng, Jiashi"
+  ],
+  "title": "Deep Long-Tailed Learning: A Survey",
+  "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "year": 2023,
+  "volume": "45",
+  "issue": "9",
+  "pages": "10795-10816",
+  "doi": "10.1109/TPAMI.2023.3268118",
+  "verified": "Crossref"
+ },
+ "buda2018": {
+  "type": "JOUR",
+  "authors": [
+   "Buda, Mateusz",
+   "Maki, Atsuto",
+   "Mazurowski, Maciej A."
+  ],
+  "title": "A systematic study of the class imbalance problem in convolutional neural networks",
+  "journal": "Neural Networks",
+  "year": 2018,
+  "volume": "106",
+  "issue": "",
+  "pages": "249-259",
+  "doi": "10.1016/j.neunet.2018.07.011",
+  "verified": "Crossref"
+ },
+ "loshchilov2019": {
+  "type": "CONF",
+  "authors": [
+   "Loshchilov, Ilya",
+   "Hutter, Frank"
+  ],
+  "title": "Decoupled Weight Decay Regularization",
+  "journal": "Proceedings of the International Conference on Learning Representations (ICLR)",
+  "year": 2019,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "",
+  "url": "https://openreview.net/forum?id=Bkg6RiCqY7",
+  "verified": "arXiv:1711.05101 comments: 'Published as a conference paper at ICLR 2019'; no DOI"
+ },
+ "guo2017": {
+  "type": "CONF",
+  "authors": [
+   "Guo, Chuan",
+   "Pleiss, Geoff",
+   "Sun, Yu",
+   "Weinberger, Kilian Q."
+  ],
+  "title": "On Calibration of Modern Neural Networks",
+  "journal": "Proceedings of the 34th International Conference on Machine Learning (ICML), PMLR",
+  "year": 2017,
+  "volume": "70",
+  "issue": "",
+  "pages": "1321-1330",
+  "doi": "",
+  "url": "https://proceedings.mlr.press/v70/guo17a.html",
+  "verified": "PMLR page"
+ },
+ "dietterich1998": {
+  "type": "JOUR",
+  "authors": [
+   "Dietterich, Thomas G."
+  ],
+  "title": "Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms",
+  "journal": "Neural Computation",
+  "year": 1998,
+  "volume": "10",
+  "issue": "7",
+  "pages": "1895-1923",
+  "doi": "10.1162/089976698300017197",
+  "verified": "Crossref"
+ },
+ "efron1979": {
+  "type": "JOUR",
+  "authors": [
+   "Efron, B."
+  ],
+  "title": "Bootstrap Methods: Another Look at the Jackknife",
+  "journal": "The Annals of Statistics",
+  "year": 1979,
+  "volume": "7",
+  "issue": "1",
+  "pages": "1-26",
+  "doi": "10.1214/aos/1176344552",
+  "verified": "Crossref (pages not in Crossref record; 1-26 from journal issue)"
+ },
+ "kapoor2023": {
+  "type": "JOUR",
+  "authors": [
+   "Kapoor, Sayash",
+   "Narayanan, Arvind"
+  ],
+  "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+  "journal": "Patterns",
+  "year": 2023,
+  "volume": "4",
+  "issue": "9",
+  "pages": "100804",
+  "doi": "10.1016/j.patter.2023.100804",
+  "verified": "Crossref"
+ },
+ "harris2020": {
+  "type": "JOUR",
+  "authors": [
+   "Harris, Charles R.",
+   "Millman, K. Jarrod",
+   "van der Walt, Stefan J.",
+   "Gommers, Ralf",
+   "Virtanen, Pauli",
+   "Cournapeau, David",
+   "Wieser, Eric",
+   "Taylor, Julian",
+   "Berg, Sebastian",
+   "Smith, Nathaniel J.",
+   "Kern, Robert",
+   "Picus, Matti",
+   "Hoyer, Stephan",
+   "van Kerkwijk, Marten H.",
+   "Brett, Matthew",
+   "Haldane, Allan",
+   "del Rio, Jaime Fernandez",
+   "Wiebe, Mark",
+   "Peterson, Pearu",
+   "Gerard-Marchant, Pierre",
+   "Sheppard, Kevin",
+   "Reddy, Tyler",
+   "Weckesser, Warren",
+   "Abbasi, Hameer",
+   "Gohlke, Christoph",
+   "Oliphant, Travis E."
+  ],
+  "title": "Array programming with NumPy",
+  "journal": "Nature",
+  "year": 2020,
+  "volume": "585",
+  "issue": "7825",
+  "pages": "357-362",
+  "doi": "10.1038/s41586-020-2649-2",
+  "verified": "Crossref"
+ },
+ "virtanen2020": {
+  "type": "JOUR",
+  "authors": [
+   "Virtanen, Pauli",
+   "Gommers, Ralf",
+   "Oliphant, Travis E.",
+   "Haberland, Matt",
+   "Reddy, Tyler",
+   "Cournapeau, David",
+   "Burovski, Evgeni",
+   "Peterson, Pearu",
+   "Weckesser, Warren",
+   "Bright, Jonathan",
+   "van der Walt, Stefan J.",
+   "Brett, Matthew",
+   "Wilson, Joshua",
+   "Millman, K. Jarrod",
+   "Mayorov, Nikolay",
+   "Nelson, Andrew R. J.",
+   "Jones, Eric",
+   "Kern, Robert",
+   "Larson, Eric",
+   "Carey, C J",
+   "Polat, Ilhan",
+   "Feng, Yu",
+   "Moore, Eric W.",
+   "VanderPlas, Jake",
+   "Laxalde, Denis",
+   "Perktold, Josef",
+   "Cimrman, Robert",
+   "Henriksen, Ian",
+   "Quintero, E. A.",
+   "Harris, Charles R.",
+   "Archibald, Anne M.",
+   "Ribeiro, Antonio H.",
+   "Pedregosa, Fabian",
+   "van Mulbregt, Paul",
+   "SciPy 1.0 Contributors"
+  ],
+  "title": "SciPy 1.0: fundamental algorithms for scientific computing in Python",
+  "journal": "Nature Methods",
+  "year": 2020,
+  "volume": "17",
+  "issue": "3",
+  "pages": "261-272",
+  "doi": "10.1038/s41592-019-0686-2",
+  "verified": "Crossref; author-list correction 10.1038/s41592-020-0772-5"
+ },
+ "hunter2007": {
+  "type": "JOUR",
+  "authors": [
+   "Hunter, John D."
+  ],
+  "title": "Matplotlib: A 2D Graphics Environment",
+  "journal": "Computing in Science & Engineering",
+  "year": 2007,
+  "volume": "9",
+  "issue": "3",
+  "pages": "90-95",
+  "doi": "10.1109/MCSE.2007.55",
+  "verified": "Crossref"
+ },
+ "zaman2023": {
+  "type": "JOUR",
+  "authors": [
+   "Zaman, Khalid",
+   "Zhaoyun, Sun",
+   "Shah, Babar",
+   "Hussain, Tariq",
+   "Shah, Sayyed Mudassar",
+   "Ali, Farman",
+   "Khan, Umer Sadiq"
+  ],
+  "title": "A novel driver emotion recognition system based on deep ensemble classification",
+  "journal": "Complex & Intelligent Systems",
+  "year": 2023,
+  "volume": "9",
+  "issue": "6",
+  "pages": "6927-6952",
+  "doi": "10.1007/s40747-023-01100-9",
+  "verified": "Crossref; two correction notices listed (10.1007/s40747-023-01195-0, 10.1007/s40747-023-01338-3)"
+ },
+ "zaman2025": {
+  "type": "JOUR",
+  "authors": [
+   "Zaman, Khalid",
+   "Zengkang, Gan",
+   "Zhaoyun, Sun",
+   "Shah, Sayyed Mudassar",
+   "Riaz, Waqar",
+   "Ji, Jiancheng (Charles)",
+   "Hussain, Tariq",
+   "Attar, Razaz Waheeb"
+  ],
+  "title": "A Novel Emotion Recognition System for Human–Robot Interaction (HRI) Using Deep Ensemble Classification",
+  "journal": "International Journal of Intelligent Systems",
+  "year": 2025,
+  "volume": "2025",
+  "issue": "1",
+  "pages": "6611276",
+  "doi": "10.1155/int/6611276",
+  "verified": "Crossref + full text"
+ },
+ "zaman2026": {
+  "type": "JOUR",
+  "authors": [
+   "Zaman, Khalid",
+   "Khan, Rafiullah",
+   "Zengkang, Gan",
+   "Khan, Sajjad Ullah",
+   "Ali, Farman",
+   "Hussain, Tariq"
+  ],
+  "title": "Accurately recognizing driver emotions through using CNN fused features and NasNet-large model",
+  "journal": "Alexandria Engineering Journal",
+  "year": 2026,
+  "volume": "134",
+  "issue": "",
+  "pages": "177-196",
+  "doi": "10.1016/j.aej.2025.12.010",
+  "verified": "Crossref + full text"
+ },
+ "khan2025aej": {
+  "type": "JOUR",
+  "authors": [
+   "Khan, Taimoor",
+   "Yasir, Muhammad",
+   "Choi, Chang"
+  ],
+  "title": "Attention-enhanced optimized deep ensemble network for effective facial emotion recognition",
+  "journal": "Alexandria Engineering Journal",
+  "year": 2025,
+  "volume": "119",
+  "issue": "",
+  "pages": "111-123",
+  "doi": "10.1016/j.aej.2025.01.078",
+  "verified": "Crossref"
+ },
+ "bates2021": {
+  "type": "JOUR",
+  "authors": [
+   "Bates, Stephen",
+   "Angelopoulos, Anastasios",
+   "Lei, Lihua",
+   "Malik, Jitendra",
+   "Jordan, Michael"
+  ],
+  "title": "Distribution-free, Risk-controlling Prediction Sets",
+  "journal": "Journal of the ACM",
+  "year": 2021,
+  "volume": "68",
+  "issue": "6",
+  "pages": "1-34",
+  "doi": "10.1145/3478535",
+  "verified": "Crossref"
+ },
+ "angelopoulos2025ltt": {
+  "type": "JOUR",
+  "authors": [
+   "Angelopoulos, Anastasios N.",
+   "Bates, Stephen",
+   "Candès, Emmanuel J.",
+   "Jordan, Michael I.",
+   "Lei, Lihua"
+  ],
+  "title": "Learn then test: Calibrating predictive algorithms to achieve risk control",
+  "journal": "The Annals of Applied Statistics",
+  "year": 2025,
+  "volume": "19",
+  "issue": "2",
+  "pages": "1641-1662",
+  "doi": "10.1214/24-AOAS1998",
+  "verified": "Crossref"
+ },
+ "angelopoulos2023": {
+  "type": "JOUR",
+  "authors": [
+   "Angelopoulos, Anastasios N.",
+   "Bates, Stephen"
+  ],
+  "title": "Conformal Prediction: A Gentle Introduction",
+  "journal": "Foundations and Trends in Machine Learning",
+  "year": 2023,
+  "volume": "16",
+  "issue": "4",
+  "pages": "494-591",
+  "doi": "10.1561/2200000101",
+  "verified": "Crossref"
+ },
+ "vovk2022": {
+  "type": "BOOK",
+  "authors": [
+   "Vovk, Vladimir",
+   "Gammerman, Alexander",
+   "Shafer, Glenn"
+  ],
+  "title": "Algorithmic Learning in a Random World",
+  "journal": "Springer, Cham",
+  "year": 2022,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "10.1007/978-3-031-06649-8",
+  "verified": "Crossref (2nd ed.)"
+ },
+ "shafer2008": {
+  "type": "JOUR",
+  "authors": [
+   "Shafer, Glenn",
+   "Vovk, Vladimir"
+  ],
+  "title": "A tutorial on conformal prediction",
+  "journal": "Journal of Machine Learning Research",
+  "year": 2008,
+  "volume": "9",
+  "issue": "",
+  "pages": "371-421",
+  "doi": "",
+  "url": "https://www.jmlr.org/papers/v9/shafer08a.html",
+  "verified": "as cited in Barber et al. (Ann. Stat. 2023) reference list; JMLR has no DOI"
+ },
+ "gibbs2021": {
+  "type": "CONF",
+  "authors": [
+   "Gibbs, Isaac",
+   "Candès, Emmanuel"
+  ],
+  "title": "Adaptive Conformal Inference Under Distribution Shift",
+  "journal": "Advances in Neural Information Processing Systems 34 (NeurIPS 2021)",
+  "year": 2021,
+  "volume": "34",
+  "issue": "",
+  "pages": "1660-1672",
+  "doi": "",
+  "url": "https://proceedings.neurips.cc/paper/2021/hash/0d441de75945e5acbc865406fc9a2559-Abstract.html",
+  "verified": "NeurIPS proceedings page; conference-only"
+ },
+ "barber2023": {
+  "type": "JOUR",
+  "authors": [
+   "Barber, Rina Foygel",
+   "Candès, Emmanuel J.",
+   "Ramdas, Aaditya",
+   "Tibshirani, Ryan J."
+  ],
+  "title": "Conformal prediction beyond exchangeability",
+  "journal": "The Annals of Statistics",
+  "year": 2023,
+  "volume": "51",
+  "issue": "2",
+  "pages": "816-845",
+  "doi": "10.1214/23-AOS2276",
+  "verified": "Crossref (pages not in record)"
+ },
+ "lidard2024": {
+  "type": "PREPRINT",
+  "authors": [
+   "Lidard, Justin",
+   "Pham, Hang",
+   "Bachman, Ariel",
+   "Boateng, Bryan",
+   "Majumdar, Anirudha"
+  ],
+  "title": "Risk-Calibrated Human-Robot Interaction via Set-Valued Intent Prediction",
+  "journal": "arXiv preprint arXiv:2403.15959",
+  "year": 2024,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "",
+  "url": "https://arxiv.org/abs/2403.15959",
+  "verified": "arXiv (preprint, no venue found)"
+ },
+ "jia2025": {
+  "type": "PREPRINT",
+  "authors": [
+   "Jia, Zijun",
+   "Yu, Jinsong",
+   "Long, Hongyu",
+   "Tang, Diyin"
+  ],
+  "title": "Coverage-Guaranteed Speech Emotion Recognition via Calibrated Uncertainty-Adaptive Prediction Sets",
+  "journal": "arXiv preprint arXiv:2503.22712",
+  "year": 2025,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "",
+  "url": "https://arxiv.org/abs/2503.22712",
+  "verified": "arXiv abstract page (preprint)"
+ },
+ "dou2026": {
+  "type": "PREPRINT",
+  "authors": [
+   "Dou, Yifan",
+   "Lian, Shikan",
+   "Li, Shibo"
+  ],
+  "title": "Conformal Cascade: Distribution-Free Accuracy Guarantees for Multi-Tier LLM Inference",
+  "journal": "arXiv preprint arXiv:2607.25018",
+  "year": 2026,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "",
+  "url": "https://arxiv.org/abs/2607.25018",
+  "verified": "arXiv (preprint)"
+ },
+ "inoshita2026": {
+  "type": "PREPRINT",
+  "authors": [
+   "Inoshita, Keito",
+   "Ueno, Takato"
+  ],
+  "title": "Interpretable Uncertainty Routing Separating Emotion Ambiguity from Distribution Shift in Facial Expression Recognition",
+  "journal": "arXiv preprint arXiv:2606.22725",
+  "year": 2026,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "",
+  "url": "https://arxiv.org/abs/2606.22725",
+  "verified": "arXiv (preprint)"
+ }
+}

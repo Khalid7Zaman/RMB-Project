@@ -1,0 +1,140 @@
+# RMB-FF frozen-backbone (Regime A) experiment registry.
+# Branch keys: m=MobileNetV3-L, v=ViT-S/16, r=RegNetY-1.6GF, s=SE-ResNet-50.
+# All selections (loss, fusion, hyper-parameters) are made on the validation split.
+
+defaults: &d
+  protocol: fer_official
+  d: 256
+  dropout: 0.3
+  lr: 0.001
+  wd: 0.05
+  epochs: 30
+  patience: 6
+  bs: 256
+  fusion: concat
+  proj: true
+  branch_drop: 0.0
+  loss: ce
+
+# E1: objective selection for each single backbone and for the 4-branch fusion
+fer_loss:
+  base: *d
+  grid:
+    branches: [[m], [v], [r], [s], [m, v, r, s]]
+    loss: [ce, wce, cb_focal, la]
+    seed: [0, 1, 2, 3, 4]
+
+# E1b: equal-budget regularisation search on validation (objective fixed from E1).
+# Every model gets the same 12-point grid; the 4-branch model additionally searches branch dropout
+# (a component of RMB-FF that has no meaning for one branch).
+fer_tune:
+  base: {<<: *d, loss: SELECTED_LOSS}
+  grid:
+    branches: [[m], [v], [r], [s], [m, v, r, s]]
+    d: [128, 256]
+    dropout: [0.3, 0.5, 0.7]
+    wd: [0.05, 0.5]
+    seed: [0, 1]
+
+fer_tune_bd:
+  base: {<<: *d, loss: SELECTED_LOSS, branches: [m, v, r, s], branch_drop: 0.25}
+  grid:
+    d: [128, 256]
+    dropout: [0.3, 0.5, 0.7]
+    wd: [0.05, 0.5]
+    seed: [0, 1]
+
+# E1c: main comparison, every model with its own validation-selected configuration, 5 seeds
+fer_main:
+  base: {<<: *d, tuned: self}
+  grid:
+    branches: [[m], [v], [r], [s], [m, v, r, s], [m, v]]
+    seed: [0, 1, 2, 3, 4]
+
+# E2: backbone-subset ablation (all 2- and 3-branch subsets); loss fixed to the
+# validation-selected objective of the 4-branch model (set after E1).
+fer_subsets:
+  base: {<<: *d, tuned: fused}
+  grid:
+    branches: [[m, v], [m, r], [m, s], [v, r], [v, s], [r, s],
+               [m, v, r], [m, v, s], [m, r, s], [v, r, s]]
+    seed: [0, 1, 2, 3, 4]
+
+# E3: fusion operator ablation
+fer_fusion:
+  base: {<<: *d, tuned: fused, branches: [m, v, r, s]}
+  grid:
+    fusion: [concat, gated, mean]
+    seed: [0, 1, 2, 3, 4]
+
+fer_noproj:
+  base: {<<: *d, tuned: fused, branches: [m, v, r, s], proj: false}
+  grid:
+    seed: [0, 1, 2, 3, 4]
+
+# E4: branch dropout -> robustness to a missing / degraded branch and to corruptions
+fer_robust:
+  base:
+    <<: *d
+    tuned: fused
+    branches: [m, v, r, s]
+    eval_missing: true
+    eval_variants: [gauss_noise_s3, blur_s3, low_light_s3, jpeg_s3, low_res_s3, occlusion_s3]
+  grid:
+    branch_drop: [0.0, 0.1, 0.25]
+    seed: [0, 1, 2, 3, 4]
+
+fer_robust_mv:
+  base:
+    <<: *d
+    tuned: fused
+    branches: [m, v]
+    eval_missing: true
+    eval_variants: [gauss_noise_s3, blur_s3, low_light_s3, jpeg_s3, low_res_s3, occlusion_s3]
+  grid:
+    branch_drop: [0.0, 0.25]
+    seed: [0, 1, 2, 3, 4]
+
+fer_robust_single:
+  base:
+    <<: *d
+    tuned: self
+    eval_variants: [gauss_noise_s3, blur_s3, low_light_s3, jpeg_s3, low_res_s3, occlusion_s3]
+  grid:
+    branches: [[m], [v], [r], [s]]
+    seed: [0, 1, 2, 3, 4]
+
+# E5: sensitivity of the fusion head to width and dropout (validation only)
+fer_sensitivity:
+  base: {<<: *d, tuned: fused, branches: [m, v, r, s]}
+  grid:
+    d: [128, 256, 512]
+    dropout: [0.1, 0.3, 0.5, 0.7]
+    seed: [0, 1, 2]
+
+# E6: deduplicated FER2013 val/test (exact train duplicates removed)
+fer_dedup:
+  base: {<<: *d, dedup: true, tuned: self}
+  grid:
+    branches: [[m], [v], [r], [s], [m, v, r, s], [m, v]]
+    seed: [0, 1, 2, 3, 4]
+
+# E7: cross-dataset generalisation FER2013 -> CMD on the 6 shared classes
+cross_fer2cmd:
+  base: {<<: *d, protocol: fer_to_cmd, tuned: self}
+  grid:
+    branches: [[m], [v], [r], [s], [m, v, r, s], [m, v]]
+    seed: [0, 1, 2, 3, 4]
+
+# E8: within-CMD, group-disjoint 5-fold CV vs leaky frame-level CV
+cmd_group:
+  base: {<<: *d, protocol: cmd_group, seed: 0, tuned: self}
+  grid:
+    branches: [[m], [v], [r], [s], [m, v, r, s], [m, v]]
+    fold: [0, 1, 2, 3, 4]
+
+cmd_random:
+  base: {<<: *d, protocol: cmd_random, seed: 0, tuned: self}
+  grid:
+    branches: [[m], [v], [r], [s], [m, v, r, s], [m, v]]
+    fold: [0, 1, 2, 3, 4]

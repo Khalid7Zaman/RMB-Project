@@ -1,0 +1,14 @@
+# Tested with Python 3.11 (GPU fine-tuning, CUDA 12.8) and Python 3.13 (CPU analysis).
+torch>=2.5
+torchvision>=0.20
+timm>=1.0.30
+safetensors>=0.4
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+scikit-learn>=1.4
+statsmodels>=0.14
+matplotlib>=3.8
+pillow>=10.0
+pyyaml>=6.0
+opencv-python-headless>=4.8

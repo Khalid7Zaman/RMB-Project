@@ -1,0 +1,1513 @@
+setting,model,unit,eps,group,n,t0,method,risk,decisive
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_0,5847,0.85,static (calibrated on source),0.18949888831879597,0.28305113733538567
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_0,5847,0.85,person-adaptive (gamma=0.005),0.053873781426372495,0.16777834787070292
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_0,5847,0.85,person-adaptive (gamma=0.02),0.05096630750812382,0.2387549170514794
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_1,1537,0.85,static (calibrated on source),0.014964216005204945,0.06571242680546518
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_1,1537,0.85,person-adaptive (gamma=0.005),0.03708523096942095,0.16851008458035133
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_1,1537,0.85,person-adaptive (gamma=0.02),0.043591411841249185,0.23877683799609628
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_11,2777,0.85,static (calibrated on source),0.08138278718041052,0.1328772056175729
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_11,2777,0.85,person-adaptive (gamma=0.005),0.05725603168887288,0.10334893770255671
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_11,2777,0.85,person-adaptive (gamma=0.02),0.05257472092185812,0.11091105509542672
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_12,245,0.85,static (calibrated on source),0.036734693877551024,0.08163265306122448
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_12,245,0.85,person-adaptive (gamma=0.005),0.036734693877551024,0.06938775510204082
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_12,245,0.85,person-adaptive (gamma=0.02),0.04081632653061224,0.10612244897959183
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_13,16,0.85,static (calibrated on source),0.4375,0.4375
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_13,16,0.85,person-adaptive (gamma=0.005),0.375,0.375
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_13,16,0.85,person-adaptive (gamma=0.02),0.3125,0.3125
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_2,942,0.85,static (calibrated on source),0.018046709129511677,0.37898089171974525
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_2,942,0.85,person-adaptive (gamma=0.005),0.045647558386411886,0.4713375796178344
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_2,942,0.85,person-adaptive (gamma=0.02),0.049893842887473464,0.5456475583864119
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_22,47,0.85,static (calibrated on source),0.0425531914893617,0.06382978723404255
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_22,47,0.85,person-adaptive (gamma=0.005),0.0425531914893617,0.06382978723404255
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_22,47,0.85,person-adaptive (gamma=0.02),0.02127659574468085,0.06382978723404255
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_3,1355,0.85,static (calibrated on source),0.0007380073800738007,0.004428044280442804
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_3,1355,0.85,person-adaptive (gamma=0.005),0.03025830258302583,0.04206642066420664
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_3,1355,0.85,person-adaptive (gamma=0.02),0.043542435424354244,0.08782287822878229
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_33,1797,0.85,static (calibrated on source),0.0,0.023928770172509738
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_33,1797,0.85,person-adaptive (gamma=0.005),0.035058430717863104,0.07790762381747357
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_33,1797,0.85,person-adaptive (gamma=0.02),0.04730105731775181,0.13244296048970505
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_4,2299,0.85,static (calibrated on source),0.041757285776424534,0.08525445846020009
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_4,2299,0.85,person-adaptive (gamma=0.005),0.0508916920400174,0.10787298825576337
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_4,2299,0.85,person-adaptive (gamma=0.02),0.0508916920400174,0.21661591996520227
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_44,321,0.85,static (calibrated on source),0.09345794392523364,0.16510903426791276
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_44,321,0.85,person-adaptive (gamma=0.005),0.09345794392523364,0.10903426791277258
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_44,321,0.85,person-adaptive (gamma=0.02),0.04984423676012461,0.09968847352024922
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_5,1296,0.85,static (calibrated on source),0.006172839506172839,0.2006172839506173
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_5,1296,0.85,person-adaptive (gamma=0.005),0.022376543209876542,0.3341049382716049
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_5,1296,0.85,person-adaptive (gamma=0.02),0.03935185185185185,0.3680555555555556
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_55,195,0.85,static (calibrated on source),0.020512820512820513,0.02564102564102564
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_55,195,0.85,person-adaptive (gamma=0.005),0.02564102564102564,0.03076923076923077
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_55,195,0.85,person-adaptive (gamma=0.02),0.03076923076923077,0.041025641025641026
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_6,1966,0.85,static (calibrated on source),0.1683621566632757,0.36266531027466936
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_6,1966,0.85,person-adaptive (gamma=0.005),0.06205493387589013,0.2293997965412004
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_6,1966,0.85,person-adaptive (gamma=0.02),0.05340793489318413,0.25940996948118006
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_7,1351,0.85,static (calibrated on source),0.03256846780162842,0.0843819393042191
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_7,1351,0.85,person-adaptive (gamma=0.005),0.04515173945225759,0.11695040710584752
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_7,1351,0.85,person-adaptive (gamma=0.02),0.049592894152479645,0.14137675795706883
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_77,579,0.85,static (calibrated on source),0.37132987910189985,0.37132987910189985
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_77,579,0.85,person-adaptive (gamma=0.005),0.07426597582037997,0.07426597582037997
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_77,579,0.85,person-adaptive (gamma=0.02),0.0535405872193437,0.0535405872193437
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_8,3060,0.85,static (calibrated on source),0.04215686274509804,0.10947712418300654
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_8,3060,0.85,person-adaptive (gamma=0.005),0.05261437908496732,0.1477124183006536
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_8,3060,0.85,person-adaptive (gamma=0.02),0.05032679738562092,0.17352941176470588
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_9,3706,0.85,static (calibrated on source),0.06449001618996222,0.17026443604964922
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_9,3706,0.85,person-adaptive (gamma=0.005),0.05045871559633028,0.1988667026443605
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_9,3706,0.85,person-adaptive (gamma=0.02),0.049919050188882895,0.25903939557474365
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_A,136,0.85,static (calibrated on source),0.16176470588235295,0.16176470588235295
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_A,136,0.85,person-adaptive (gamma=0.005),0.11764705882352941,0.11764705882352941
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_A,136,0.85,person-adaptive (gamma=0.02),0.07352941176470588,0.07352941176470588
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_img,1033,0.85,static (calibrated on source),0.002904162633107454,0.11423039690222653
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_img,1033,0.85,person-adaptive (gamma=0.005),0.02032913843175218,0.32623426911907066
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_img,1033,0.85,person-adaptive (gamma=0.02),0.041626331074540175,0.5333978702807357
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_imgi,180,0.85,static (calibrated on source),0.005555555555555556,0.25
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_imgi,180,0.85,person-adaptive (gamma=0.005),0.011111111111111112,0.3
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.05,cmd_imgi,180,0.85,person-adaptive (gamma=0.02),0.016666666666666666,0.39444444444444443
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_0,5847,0.7,static (calibrated on source),0.36411835129126047,0.5657602189156833
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_0,5847,0.7,person-adaptive (gamma=0.005),0.10808961860783307,0.30100906447750986
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_0,5847,0.7,person-adaptive (gamma=0.02),0.10227467077133573,0.3523174277407217
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_1,1537,0.7,static (calibrated on source),0.08588158750813273,0.26284970722186074
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_1,1537,0.7,person-adaptive (gamma=0.005),0.09108653220559532,0.29017566688353935
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_1,1537,0.7,person-adaptive (gamma=0.02),0.09694209499024073,0.4053350683148991
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_11,2777,0.7,static (calibrated on source),0.24594886568239108,0.35433921498019444
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_11,2777,0.7,person-adaptive (gamma=0.005),0.11523226503420958,0.1840115232265034
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_11,2777,0.7,person-adaptive (gamma=0.02),0.10514944184371625,0.18617212819589485
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_12,245,0.7,static (calibrated on source),0.20816326530612245,0.4204081632653061
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_12,245,0.7,person-adaptive (gamma=0.005),0.13877551020408163,0.3183673469387755
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_12,245,0.7,person-adaptive (gamma=0.02),0.10612244897959183,0.3510204081632653
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_13,16,0.7,static (calibrated on source),0.8125,0.8125
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_13,16,0.7,person-adaptive (gamma=0.005),0.8125,0.8125
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_13,16,0.7,person-adaptive (gamma=0.02),0.6875,0.6875
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_2,942,0.7,static (calibrated on source),0.10934182590233546,0.5902335456475584
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_2,942,0.7,person-adaptive (gamma=0.005),0.11995753715498939,0.6348195329087049
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_2,942,0.7,person-adaptive (gamma=0.02),0.10615711252653928,0.6560509554140127
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_22,47,0.7,static (calibrated on source),0.3404255319148936,0.46808510638297873
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_22,47,0.7,person-adaptive (gamma=0.005),0.2553191489361702,0.3617021276595745
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_22,47,0.7,person-adaptive (gamma=0.02),0.19148936170212766,0.23404255319148937
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_3,1355,0.7,static (calibrated on source),0.07084870848708487,0.11660516605166052
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_3,1355,0.7,person-adaptive (gamma=0.005),0.09225092250922509,0.18450184501845018
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_3,1355,0.7,person-adaptive (gamma=0.02),0.09667896678966789,0.24501845018450186
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_33,1797,0.7,static (calibrated on source),0.03450194769059544,0.1196438508625487
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_33,1797,0.7,person-adaptive (gamma=0.005),0.09794101279910963,0.22036727879799667
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_33,1797,0.7,person-adaptive (gamma=0.02),0.09961046188091263,0.2598775737340011
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_4,2299,0.7,static (calibrated on source),0.1300565463244889,0.2905611135276207
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_4,2299,0.7,person-adaptive (gamma=0.005),0.10787298825576337,0.30969986950848194
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_4,2299,0.7,person-adaptive (gamma=0.02),0.10308829926054806,0.37233579817311874
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_44,321,0.7,static (calibrated on source),0.2367601246105919,0.3707165109034268
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_44,321,0.7,person-adaptive (gamma=0.005),0.16822429906542055,0.24610591900311526
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_44,321,0.7,person-adaptive (gamma=0.02),0.1059190031152648,0.21495327102803738
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_5,1296,0.7,static (calibrated on source),0.04089506172839506,0.3680555555555556
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_5,1296,0.7,person-adaptive (gamma=0.005),0.07330246913580248,0.44290123456790126
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_5,1296,0.7,person-adaptive (gamma=0.02),0.08950617283950617,0.4729938271604938
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_55,195,0.7,static (calibrated on source),0.11794871794871795,0.13333333333333333
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_55,195,0.7,person-adaptive (gamma=0.005),0.11282051282051282,0.12307692307692308
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_55,195,0.7,person-adaptive (gamma=0.02),0.10256410256410256,0.11282051282051282
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_6,1966,0.7,static (calibrated on source),0.3819938962360122,0.6525940996948117
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_6,1966,0.7,person-adaptive (gamma=0.005),0.12614445574771108,0.3326551373346897
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_6,1966,0.7,person-adaptive (gamma=0.02),0.10681586978636826,0.3652085452695829
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_7,1351,0.7,static (calibrated on source),0.12805329385640266,0.24056254626202814
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_7,1351,0.7,person-adaptive (gamma=0.005),0.10954848260547742,0.22945965951147299
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_7,1351,0.7,person-adaptive (gamma=0.02),0.10362694300518134,0.27387120651369357
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_77,579,0.7,static (calibrated on source),0.5215889464594128,0.531951640759931
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_77,579,0.7,person-adaptive (gamma=0.005),0.16407599309153714,0.16407599309153714
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_77,579,0.7,person-adaptive (gamma=0.02),0.10880829015544041,0.10880829015544041
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_8,3060,0.7,static (calibrated on source),0.17973856209150327,0.3254901960784314
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_8,3060,0.7,person-adaptive (gamma=0.005),0.10980392156862745,0.25098039215686274
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_8,3060,0.7,person-adaptive (gamma=0.02),0.10261437908496732,0.26601307189542484
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_9,3706,0.7,static (calibrated on source),0.2328656233135456,0.4373988127361036
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_9,3706,0.7,person-adaptive (gamma=0.005),0.10550458715596331,0.3273070696168376
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_9,3706,0.7,person-adaptive (gamma=0.02),0.10091743119266056,0.364543982730707
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_A,136,0.7,static (calibrated on source),0.36764705882352944,0.4117647058823529
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_A,136,0.7,person-adaptive (gamma=0.005),0.2647058823529412,0.2647058823529412
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_A,136,0.7,person-adaptive (gamma=0.02),0.15441176470588236,0.15441176470588236
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_img,1033,0.7,static (calibrated on source),0.027105517909002903,0.43756050338818975
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_img,1033,0.7,person-adaptive (gamma=0.005),0.08228460793804453,0.6969990319457889
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_img,1033,0.7,person-adaptive (gamma=0.02),0.09583736689254599,0.7512100677637947
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_imgi,180,0.7,static (calibrated on source),0.044444444444444446,0.5666666666666667
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_imgi,180,0.7,person-adaptive (gamma=0.005),0.05555555555555555,0.5777777777777777
+FER2013 -> DFERCD (cross-dataset),mrsv,0,0.1,cmd_imgi,180,0.7,person-adaptive (gamma=0.02),0.07222222222222222,0.6277777777777778
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_0,5847,0.9,static (calibrated on source),0.20608859244056782,0.29211561484521975
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_0,5847,0.9,person-adaptive (gamma=0.005),0.04908500085513939,0.18248674533949033
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_0,5847,0.9,person-adaptive (gamma=0.02),0.04942705661022747,0.2546605096630751
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_1,1537,0.9,static (calibrated on source),0.022121014964216004,0.02797657774886142
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_1,1537,0.9,person-adaptive (gamma=0.005),0.03708523096942095,0.0605074821080026
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_1,1537,0.9,person-adaptive (gamma=0.02),0.04424202992843201,0.14313597918022122
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_11,2777,0.9,static (calibrated on source),0.07274036730284479,0.11127115592365862
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_11,2777,0.9,person-adaptive (gamma=0.005),0.04789341015484336,0.08678429960388909
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_11,2777,0.9,person-adaptive (gamma=0.02),0.04861361181130717,0.1094706517824991
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_12,245,0.9,static (calibrated on source),0.05714285714285714,0.10612244897959183
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_12,245,0.9,person-adaptive (gamma=0.005),0.04897959183673469,0.09387755102040816
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_12,245,0.9,person-adaptive (gamma=0.02),0.036734693877551024,0.10204081632653061
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_13,16,0.9,static (calibrated on source),0.5,0.5
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_13,16,0.9,person-adaptive (gamma=0.005),0.375,0.375
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_13,16,0.9,person-adaptive (gamma=0.02),0.25,0.25
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_2,942,0.9,static (calibrated on source),0.041401273885350316,0.3503184713375796
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_2,942,0.9,person-adaptive (gamma=0.005),0.03184713375796178,0.36942675159235666
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_2,942,0.9,person-adaptive (gamma=0.02),0.040339702760084924,0.4150743099787686
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_22,47,0.9,static (calibrated on source),0.3829787234042553,0.48936170212765956
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_22,47,0.9,person-adaptive (gamma=0.005),0.2765957446808511,0.2978723404255319
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_22,47,0.9,person-adaptive (gamma=0.02),0.10638297872340426,0.1276595744680851
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_3,1355,0.9,static (calibrated on source),0.02730627306273063,0.028044280442804426
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_3,1355,0.9,person-adaptive (gamma=0.005),0.03247232472324723,0.03837638376383764
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_3,1355,0.9,person-adaptive (gamma=0.02),0.04428044280442804,0.07601476014760147
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_33,1797,0.9,static (calibrated on source),0.042292710072342796,0.09293266555370061
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_33,1797,0.9,person-adaptive (gamma=0.005),0.048414023372287146,0.15581524763494714
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_33,1797,0.9,person-adaptive (gamma=0.02),0.04952698942682248,0.2865887590428492
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_4,2299,0.9,static (calibrated on source),0.040452370595911266,0.12396694214876033
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_4,2299,0.9,person-adaptive (gamma=0.005),0.027838190517616355,0.2592431491953023
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_4,2299,0.9,person-adaptive (gamma=0.02),0.04088734232274902,0.430622009569378
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_44,321,0.9,static (calibrated on source),0.2336448598130841,0.26479750778816197
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_44,321,0.9,person-adaptive (gamma=0.005),0.08722741433021806,0.09968847352024922
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_44,321,0.9,person-adaptive (gamma=0.02),0.056074766355140186,0.06542056074766354
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_5,1296,0.9,static (calibrated on source),0.047839506172839504,0.2191358024691358
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_5,1296,0.9,person-adaptive (gamma=0.005),0.04861111111111111,0.22376543209876543
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_5,1296,0.9,person-adaptive (gamma=0.02),0.04938271604938271,0.26003086419753085
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_55,195,0.9,static (calibrated on source),0.02564102564102564,0.02564102564102564
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_55,195,0.9,person-adaptive (gamma=0.005),0.03076923076923077,0.035897435897435895
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_55,195,0.9,person-adaptive (gamma=0.02),0.046153846153846156,0.05641025641025641
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_6,1966,0.9,static (calibrated on source),0.10274669379450661,0.2624618514750763
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_6,1966,0.9,person-adaptive (gamma=0.005),0.05239064089521872,0.20142421159715157
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_6,1966,0.9,person-adaptive (gamma=0.02),0.049338758901322485,0.24262461851475076
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_7,1351,0.9,static (calibrated on source),0.03552923760177646,0.0917838638045892
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_7,1351,0.9,person-adaptive (gamma=0.005),0.049592894152479645,0.10362694300518134
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_7,1351,0.9,person-adaptive (gamma=0.02),0.049592894152479645,0.1236121391561806
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_77,579,0.9,static (calibrated on source),0.10189982728842832,0.10535405872193437
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_77,579,0.9,person-adaptive (gamma=0.005),0.06217616580310881,0.06735751295336788
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_77,579,0.9,person-adaptive (gamma=0.02),0.0535405872193437,0.06217616580310881
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_8,3060,0.9,static (calibrated on source),0.03104575163398693,0.07549019607843137
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_8,3060,0.9,person-adaptive (gamma=0.005),0.041176470588235294,0.11666666666666667
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_8,3060,0.9,person-adaptive (gamma=0.02),0.0457516339869281,0.1650326797385621
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_9,3706,0.9,static (calibrated on source),0.09902860226659471,0.18807339449541285
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_9,3706,0.9,person-adaptive (gamma=0.005),0.05153804641122504,0.18537506745817592
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_9,3706,0.9,person-adaptive (gamma=0.02),0.05045871559633028,0.26524554776038856
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_A,136,0.9,static (calibrated on source),0.14705882352941177,0.14705882352941177
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_A,136,0.9,person-adaptive (gamma=0.005),0.09558823529411764,0.09558823529411764
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_A,136,0.9,person-adaptive (gamma=0.02),0.058823529411764705,0.058823529411764705
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_img,1033,0.9,static (calibrated on source),0.000968054211035818,0.1887705711519845
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_img,1033,0.9,person-adaptive (gamma=0.005),0.005808325266214908,0.46853823814133594
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_img,1033,0.9,person-adaptive (gamma=0.02),0.031945788964181994,0.707647628267183
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_imgi,180,0.9,static (calibrated on source),0.0,0.45
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_imgi,180,0.9,person-adaptive (gamma=0.005),0.0,0.5222222222222223
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.05,cmd_imgi,180,0.9,person-adaptive (gamma=0.02),0.0,0.5833333333333334
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_0,5847,0.78,static (calibrated on source),0.3560800410466906,0.539250897896357
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_0,5847,0.78,person-adaptive (gamma=0.005),0.09988028048571918,0.3047716777834787
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_0,5847,0.78,person-adaptive (gamma=0.02),0.09902514109799897,0.366341713699333
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_1,1537,0.78,static (calibrated on source),0.06441119063109954,0.12036434612882238
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_1,1537,0.78,person-adaptive (gamma=0.005),0.08913467794404685,0.1977878985035784
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_1,1537,0.78,person-adaptive (gamma=0.02),0.09564085881587508,0.346779440468445
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_11,2777,0.78,static (calibrated on source),0.21317969031328773,0.3114872164205978
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_11,2777,0.78,person-adaptive (gamma=0.005),0.1019085343896291,0.16708678429960389
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_11,2777,0.78,person-adaptive (gamma=0.02),0.09974792942023766,0.1901332373064458
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_12,245,0.78,static (calibrated on source),0.18775510204081633,0.37142857142857144
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_12,245,0.78,person-adaptive (gamma=0.005),0.11836734693877551,0.2530612244897959
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_12,245,0.78,person-adaptive (gamma=0.02),0.08163265306122448,0.3020408163265306
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_13,16,0.78,static (calibrated on source),0.75,0.75
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_13,16,0.78,person-adaptive (gamma=0.005),0.75,0.75
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_13,16,0.78,person-adaptive (gamma=0.02),0.5,0.5
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_2,942,0.78,static (calibrated on source),0.16454352441613587,0.5934182590233545
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_2,942,0.78,person-adaptive (gamma=0.005),0.08598726114649681,0.4851380042462845
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_2,942,0.78,person-adaptive (gamma=0.02),0.08598726114649681,0.554140127388535
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_22,47,0.78,static (calibrated on source),0.5531914893617021,0.6808510638297872
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_22,47,0.78,person-adaptive (gamma=0.005),0.5319148936170213,0.6382978723404256
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_22,47,0.78,person-adaptive (gamma=0.02),0.2553191489361702,0.3191489361702128
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_3,1355,0.78,static (calibrated on source),0.08191881918819188,0.1047970479704797
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_3,1355,0.78,person-adaptive (gamma=0.005),0.08413284132841328,0.13284132841328414
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_3,1355,0.78,person-adaptive (gamma=0.02),0.0959409594095941,0.196309963099631
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_33,1797,0.78,static (calibrated on source),0.15358931552587646,0.3021702838063439
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_33,1797,0.78,person-adaptive (gamma=0.005),0.10517529215358931,0.34390651085141904
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_33,1797,0.78,person-adaptive (gamma=0.02),0.10127991096271564,0.4251530328324986
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_4,2299,0.78,static (calibrated on source),0.12048716833405829,0.407568508046977
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_4,2299,0.78,person-adaptive (gamma=0.005),0.07220530665506741,0.4588951718138321
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_4,2299,0.78,person-adaptive (gamma=0.02),0.08786428882122663,0.5632883862548934
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_44,321,0.78,static (calibrated on source),0.40809968847352024,0.514018691588785
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_44,321,0.78,person-adaptive (gamma=0.005),0.19626168224299065,0.22741433021806853
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_44,321,0.78,person-adaptive (gamma=0.02),0.11214953271028037,0.14953271028037382
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_5,1296,0.78,static (calibrated on source),0.1743827160493827,0.4359567901234568
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_5,1296,0.78,person-adaptive (gamma=0.005),0.11033950617283951,0.35185185185185186
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_5,1296,0.78,person-adaptive (gamma=0.02),0.10262345679012345,0.37191358024691357
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_55,195,0.78,static (calibrated on source),0.13846153846153847,0.17435897435897435
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_55,195,0.78,person-adaptive (gamma=0.005),0.11794871794871795,0.14871794871794872
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_55,195,0.78,person-adaptive (gamma=0.02),0.10256410256410256,0.14358974358974358
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_6,1966,0.78,static (calibrated on source),0.27212614445574773,0.4928789420142421
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_6,1966,0.78,person-adaptive (gamma=0.005),0.11139369277721262,0.2960325534079349
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_6,1966,0.78,person-adaptive (gamma=0.02),0.10122075279755849,0.3168870803662258
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_7,1351,0.78,static (calibrated on source),0.11769059955588453,0.21021465581051074
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_7,1351,0.78,person-adaptive (gamma=0.005),0.10954848260547742,0.20207253886010362
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_7,1351,0.78,person-adaptive (gamma=0.02),0.10288675055514433,0.21095484826054775
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_77,579,0.78,static (calibrated on source),0.21070811744386875,0.24352331606217617
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_77,579,0.78,person-adaptive (gamma=0.005),0.14162348877374784,0.17443868739205526
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_77,579,0.78,person-adaptive (gamma=0.02),0.11226252158894647,0.14680483592400692
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_8,3060,0.78,static (calibrated on source),0.14052287581699346,0.24901960784313726
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_8,3060,0.78,person-adaptive (gamma=0.005),0.09019607843137255,0.21209150326797385
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_8,3060,0.78,person-adaptive (gamma=0.02),0.09509803921568627,0.26666666666666666
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_9,3706,0.78,static (calibrated on source),0.2668645439827307,0.45493793847814357
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_9,3706,0.78,person-adaptive (gamma=0.005),0.10604425256341068,0.3197517539125742
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_9,3706,0.78,person-adaptive (gamma=0.02),0.10118726389638424,0.372369131138694
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_A,136,0.78,static (calibrated on source),0.3897058823529412,0.39705882352941174
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_A,136,0.78,person-adaptive (gamma=0.005),0.2647058823529412,0.2647058823529412
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_A,136,0.78,person-adaptive (gamma=0.02),0.13970588235294118,0.13970588235294118
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_img,1033,0.78,static (calibrated on source),0.00484027105517909,0.4753146176185866
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_img,1033,0.78,person-adaptive (gamma=0.005),0.03388189738625363,0.7415295256534365
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_img,1033,0.78,person-adaptive (gamma=0.02),0.06098741529525654,0.8547918683446273
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_imgi,180,0.78,static (calibrated on source),0.0,0.7222222222222222
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_imgi,180,0.78,person-adaptive (gamma=0.005),0.0,0.7555555555555555
+FER2013 -> DFERCD (cross-dataset),mrsv,1,0.1,cmd_imgi,180,0.78,person-adaptive (gamma=0.02),0.016666666666666666,0.8833333333333333
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_0,5847,0.75,static (calibrated on source),0.2081409269710963,0.31195484864032835
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_0,5847,0.75,person-adaptive (gamma=0.005),0.0555840602018129,0.23345305284761417
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_0,5847,0.75,person-adaptive (gamma=0.02),0.051137335385667865,0.30716606806909524
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_1,1537,0.75,static (calibrated on source),0.011711125569290826,0.09433962264150944
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_1,1537,0.75,person-adaptive (gamma=0.005),0.034482758620689655,0.14964216005204944
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_1,1537,0.75,person-adaptive (gamma=0.02),0.04749512036434613,0.22706571242680545
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_11,2777,0.75,static (calibrated on source),0.14079942383867483,0.19625495138638818
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_11,2777,0.75,person-adaptive (gamma=0.005),0.054375225063017646,0.08282319049333814
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_11,2777,0.75,person-adaptive (gamma=0.02),0.04969391429600288,0.09290601368383147
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_12,245,0.75,static (calibrated on source),0.061224489795918366,0.17551020408163265
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_12,245,0.75,person-adaptive (gamma=0.005),0.053061224489795916,0.1346938775510204
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_12,245,0.75,person-adaptive (gamma=0.02),0.036734693877551024,0.15510204081632653
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_13,16,0.75,static (calibrated on source),0.8125,0.8125
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_13,16,0.75,person-adaptive (gamma=0.005),0.75,0.75
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_13,16,0.75,person-adaptive (gamma=0.02),0.4375,0.4375
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_2,942,0.75,static (calibrated on source),0.01167728237791932,0.34501061571125263
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_2,942,0.75,person-adaptive (gamma=0.005),0.032908704883227176,0.416135881104034
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_2,942,0.75,person-adaptive (gamma=0.02),0.045647558386411886,0.5106157112526539
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_22,47,0.75,static (calibrated on source),0.0851063829787234,0.2765957446808511
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_22,47,0.75,person-adaptive (gamma=0.005),0.0851063829787234,0.23404255319148937
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_22,47,0.75,person-adaptive (gamma=0.02),0.0851063829787234,0.2127659574468085
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_3,1355,0.75,static (calibrated on source),0.0,0.0
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_3,1355,0.75,person-adaptive (gamma=0.005),0.03468634686346864,0.03837638376383764
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_3,1355,0.75,person-adaptive (gamma=0.02),0.045756457564575644,0.0929889298892989
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_33,1797,0.75,static (calibrated on source),0.00333889816360601,0.023928770172509738
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_33,1797,0.75,person-adaptive (gamma=0.005),0.03171953255425709,0.10740122426266
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_33,1797,0.75,person-adaptive (gamma=0.02),0.045631608235948806,0.19421257651641624
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_4,2299,0.75,static (calibrated on source),0.03566768160069596,0.07525010874293171
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_4,2299,0.75,person-adaptive (gamma=0.005),0.02957807742496738,0.11135276207046542
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_4,2299,0.75,person-adaptive (gamma=0.02),0.0430622009569378,0.39408438451500655
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_44,321,0.75,static (calibrated on source),0.1277258566978193,0.205607476635514
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_44,321,0.75,person-adaptive (gamma=0.005),0.11214953271028037,0.19003115264797507
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_44,321,0.75,person-adaptive (gamma=0.02),0.06542056074766354,0.14953271028037382
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_5,1296,0.75,static (calibrated on source),0.023148148148148147,0.14660493827160495
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_5,1296,0.75,person-adaptive (gamma=0.005),0.030864197530864196,0.16820987654320987
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_5,1296,0.75,person-adaptive (gamma=0.02),0.04398148148148148,0.21450617283950618
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_55,195,0.75,static (calibrated on source),0.015384615384615385,0.015384615384615385
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_55,195,0.75,person-adaptive (gamma=0.005),0.020512820512820513,0.020512820512820513
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_55,195,0.75,person-adaptive (gamma=0.02),0.02564102564102564,0.02564102564102564
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_6,1966,0.75,static (calibrated on source),0.3672431332655137,0.5757884028484231
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_6,1966,0.75,person-adaptive (gamma=0.005),0.06612410986775177,0.2034587995930824
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_6,1966,0.75,person-adaptive (gamma=0.02),0.05340793489318413,0.2451678535096643
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_7,1351,0.75,static (calibrated on source),0.0925240562546262,0.18208734270910437
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_7,1351,0.75,person-adaptive (gamma=0.005),0.05107327905255366,0.11028867505551443
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_7,1351,0.75,person-adaptive (gamma=0.02),0.04515173945225759,0.11250925240562547
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_77,579,0.75,static (calibrated on source),0.2141623488773748,0.2141623488773748
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_77,579,0.75,person-adaptive (gamma=0.005),0.09153713298791019,0.09153713298791019
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_77,579,0.75,person-adaptive (gamma=0.02),0.06390328151986183,0.07426597582037997
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_8,3060,0.75,static (calibrated on source),0.19640522875816993,0.29934640522875816
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_8,3060,0.75,person-adaptive (gamma=0.005),0.04934640522875817,0.14640522875816994
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_8,3060,0.75,person-adaptive (gamma=0.02),0.04542483660130719,0.15784313725490196
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_9,3706,0.75,static (calibrated on source),0.10280626011872639,0.24365893146249326
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_9,3706,0.75,person-adaptive (gamma=0.005),0.05504587155963303,0.24446842957366433
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_9,3706,0.75,person-adaptive (gamma=0.02),0.05153804641122504,0.26848354020507287
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_A,136,0.75,static (calibrated on source),0.1323529411764706,0.1323529411764706
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_A,136,0.75,person-adaptive (gamma=0.005),0.07352941176470588,0.07352941176470588
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_A,136,0.75,person-adaptive (gamma=0.02),0.051470588235294115,0.051470588235294115
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_img,1033,0.75,static (calibrated on source),0.0,0.12971926427879962
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_img,1033,0.75,person-adaptive (gamma=0.005),0.007744433688286544,0.4298160696999032
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_img,1033,0.75,person-adaptive (gamma=0.02),0.036786060019361085,0.707647628267183
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_imgi,180,0.75,static (calibrated on source),0.0,0.16666666666666666
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_imgi,180,0.75,person-adaptive (gamma=0.005),0.0,0.21666666666666667
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.05,cmd_imgi,180,0.75,person-adaptive (gamma=0.02),0.0,0.37222222222222223
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_0,5847,0.63,static (calibrated on source),0.4003762613305969,0.6146741918932787
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_0,5847,0.63,person-adaptive (gamma=0.005),0.1086027022404652,0.3680519924747734
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_0,5847,0.63,person-adaptive (gamma=0.02),0.10210364289379169,0.4164528818197366
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_1,1537,0.63,static (calibrated on source),0.06506180871828236,0.2192582953806116
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_1,1537,0.63,person-adaptive (gamma=0.005),0.09694209499024073,0.29277813923227064
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_1,1537,0.63,person-adaptive (gamma=0.02),0.10019518542615485,0.4118412491867274
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_11,2777,0.63,static (calibrated on source),0.29708318329132155,0.3867482895210659
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_11,2777,0.63,person-adaptive (gamma=0.005),0.10803024846957147,0.15088224702916816
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_11,2777,0.63,person-adaptive (gamma=0.02),0.10010803024846956,0.17176809506661866
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_12,245,0.63,static (calibrated on source),0.1673469387755102,0.43673469387755104
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_12,245,0.63,person-adaptive (gamma=0.005),0.11428571428571428,0.33877551020408164
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_12,245,0.63,person-adaptive (gamma=0.02),0.08979591836734693,0.35918367346938773
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_13,16,0.63,static (calibrated on source),0.9375,0.9375
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_13,16,0.63,person-adaptive (gamma=0.005),0.9375,0.9375
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_13,16,0.63,person-adaptive (gamma=0.02),0.8125,0.8125
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_2,942,0.63,static (calibrated on source),0.06157112526539278,0.49469214437367304
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_2,942,0.63,person-adaptive (gamma=0.005),0.09872611464968153,0.5796178343949044
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_2,942,0.63,person-adaptive (gamma=0.02),0.09978768577494693,0.6125265392781316
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_22,47,0.63,static (calibrated on source),0.2127659574468085,0.48936170212765956
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_22,47,0.63,person-adaptive (gamma=0.005),0.19148936170212766,0.44680851063829785
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_22,47,0.63,person-adaptive (gamma=0.02),0.1702127659574468,0.3829787234042553
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_3,1355,0.63,static (calibrated on source),0.037638376383763834,0.03911439114391144
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_3,1355,0.63,person-adaptive (gamma=0.005),0.0974169741697417,0.15940959409594097
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_3,1355,0.63,person-adaptive (gamma=0.02),0.0974169741697417,0.1896678966789668
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_33,1797,0.63,static (calibrated on source),0.013912075681691708,0.07957707289927657
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_33,1797,0.63,person-adaptive (gamma=0.005),0.09126321647189761,0.26933778519755147
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_33,1797,0.63,person-adaptive (gamma=0.02),0.09794101279910963,0.37506956037840844
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_4,2299,0.63,static (calibrated on source),0.09960852544584602,0.21879077859939103
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_4,2299,0.63,person-adaptive (gamma=0.005),0.078294910830796,0.40365376250543716
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_4,2299,0.63,person-adaptive (gamma=0.02),0.0900391474554154,0.5793823401478904
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_44,321,0.63,static (calibrated on source),0.19937694704049844,0.3177570093457944
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_44,321,0.63,person-adaptive (gamma=0.005),0.1838006230529595,0.3052959501557632
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_44,321,0.63,person-adaptive (gamma=0.02),0.12149532710280374,0.24610591900311526
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_5,1296,0.63,static (calibrated on source),0.0763888888888889,0.3194444444444444
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_5,1296,0.63,person-adaptive (gamma=0.005),0.09104938271604938,0.3148148148148148
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_5,1296,0.63,person-adaptive (gamma=0.02),0.09799382716049383,0.3387345679012346
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_55,195,0.63,static (calibrated on source),0.07692307692307693,0.08717948717948718
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_55,195,0.63,person-adaptive (gamma=0.005),0.07692307692307693,0.08717948717948718
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_55,195,0.63,person-adaptive (gamma=0.02),0.08717948717948718,0.11282051282051282
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_6,1966,0.63,static (calibrated on source),0.5325534079348931,0.7660223804679552
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_6,1966,0.63,person-adaptive (gamma=0.005),0.12461851475076297,0.29399796541200407
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_6,1966,0.63,person-adaptive (gamma=0.02),0.10478128179043744,0.3168870803662258
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_7,1351,0.63,static (calibrated on source),0.20133234641006661,0.33678756476683935
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_7,1351,0.63,person-adaptive (gamma=0.005),0.10584752035529238,0.19689119170984457
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_7,1351,0.63,person-adaptive (gamma=0.02),0.09696521095484827,0.231680236861584
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_77,579,0.63,static (calibrated on source),0.3281519861830743,0.3488773747841105
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_77,579,0.63,person-adaptive (gamma=0.005),0.17443868739205526,0.20379965457685664
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_77,579,0.63,person-adaptive (gamma=0.02),0.12435233160621761,0.16753022452504318
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_8,3060,0.63,static (calibrated on source),0.35228758169934643,0.4781045751633987
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_8,3060,0.63,person-adaptive (gamma=0.005),0.09738562091503268,0.20718954248366014
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_8,3060,0.63,person-adaptive (gamma=0.02),0.09084967320261438,0.20980392156862746
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_9,3706,0.63,static (calibrated on source),0.2509444144630329,0.44495412844036697
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_9,3706,0.63,person-adaptive (gamma=0.005),0.10982191041554236,0.3448461953588775
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_9,3706,0.63,person-adaptive (gamma=0.02),0.10280626011872639,0.36400431732325955
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_A,136,0.63,static (calibrated on source),0.5220588235294118,0.5367647058823529
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_A,136,0.63,person-adaptive (gamma=0.005),0.2426470588235294,0.2426470588235294
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_A,136,0.63,person-adaptive (gamma=0.02),0.13970588235294118,0.13970588235294118
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_img,1033,0.63,static (calibrated on source),0.011616650532429816,0.409486931268151
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_img,1033,0.63,person-adaptive (gamma=0.005),0.057115198451113264,0.7763794772507261
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_img,1033,0.63,person-adaptive (gamma=0.02),0.0755082284607938,0.8780251694094869
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_imgi,180,0.63,static (calibrated on source),0.0,0.42777777777777776
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_imgi,180,0.63,person-adaptive (gamma=0.005),0.005555555555555556,0.5777777777777777
+FER2013 -> DFERCD (cross-dataset),mrsv,2,0.1,cmd_imgi,180,0.63,person-adaptive (gamma=0.02),0.05,0.7722222222222223
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_0,5847,0.94,static (calibrated on source),0.15272789464682743,0.21788951599110656
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_0,5847,0.94,person-adaptive (gamma=0.005),0.051308363263211906,0.1434923892594493
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_0,5847,0.94,person-adaptive (gamma=0.02),0.050282195997947664,0.17923721566615358
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_1,1537,0.94,static (calibrated on source),0.03057905009759271,0.12426805465191933
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_1,1537,0.94,person-adaptive (gamma=0.005),0.0468445022771633,0.1867273910214704
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_1,1537,0.94,person-adaptive (gamma=0.02),0.048796356538711776,0.24528301886792453
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_11,2777,0.94,static (calibrated on source),0.10550954267194815,0.15520345696795101
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_11,2777,0.94,person-adaptive (gamma=0.005),0.04933381346777098,0.08822470291681671
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_11,2777,0.94,person-adaptive (gamma=0.02),0.04933381346777098,0.10334893770255671
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_12,245,0.94,static (calibrated on source),0.04081632653061224,0.05714285714285714
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_12,245,0.94,person-adaptive (gamma=0.005),0.036734693877551024,0.053061224489795916
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_12,245,0.94,person-adaptive (gamma=0.02),0.0326530612244898,0.08979591836734693
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_13,16,0.94,static (calibrated on source),0.1875,0.1875
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_13,16,0.94,person-adaptive (gamma=0.005),0.1875,0.1875
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_13,16,0.94,person-adaptive (gamma=0.02),0.125,0.125
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_2,942,0.94,static (calibrated on source),0.029723991507430998,0.4267515923566879
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_2,942,0.94,person-adaptive (gamma=0.005),0.03184713375796178,0.4713375796178344
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_2,942,0.94,person-adaptive (gamma=0.02),0.045647558386411886,0.5467091295116773
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_22,47,0.94,static (calibrated on source),0.2127659574468085,0.2765957446808511
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_22,47,0.94,person-adaptive (gamma=0.005),0.14893617021276595,0.2127659574468085
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_22,47,0.94,person-adaptive (gamma=0.02),0.0851063829787234,0.14893617021276595
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_3,1355,0.94,static (calibrated on source),0.0051660516605166054,0.008856088560885609
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_3,1355,0.94,person-adaptive (gamma=0.005),0.03247232472324723,0.05608856088560885
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_3,1355,0.94,person-adaptive (gamma=0.02),0.045756457564575644,0.09225092250922509
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_33,1797,0.94,static (calibrated on source),0.00667779632721202,0.022815804117974403
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_33,1797,0.94,person-adaptive (gamma=0.005),0.04284919309961046,0.09460211463550362
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_33,1797,0.94,person-adaptive (gamma=0.02),0.048414023372287146,0.16082359488035614
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_4,2299,0.94,static (calibrated on source),0.029143105698129623,0.1252718573292736
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_4,2299,0.94,person-adaptive (gamma=0.005),0.043932144410613314,0.19138755980861244
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_4,2299,0.94,person-adaptive (gamma=0.02),0.04784688995215311,0.26924749891257066
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_44,321,0.94,static (calibrated on source),0.12149532710280374,0.1557632398753894
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_44,321,0.94,person-adaptive (gamma=0.005),0.07165109034267912,0.08722741433021806
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_44,321,0.94,person-adaptive (gamma=0.02),0.0529595015576324,0.08722741433021806
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_5,1296,0.94,static (calibrated on source),0.032407407407407406,0.26851851851851855
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_5,1296,0.94,person-adaptive (gamma=0.005),0.04398148148148148,0.2993827160493827
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_5,1296,0.94,person-adaptive (gamma=0.02),0.046296296296296294,0.3271604938271605
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_55,195,0.94,static (calibrated on source),0.041025641025641026,0.05128205128205128
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_55,195,0.94,person-adaptive (gamma=0.005),0.041025641025641026,0.05128205128205128
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_55,195,0.94,person-adaptive (gamma=0.02),0.035897435897435895,0.05128205128205128
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_6,1966,0.94,static (calibrated on source),0.2782299084435402,0.4735503560528993
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_6,1966,0.94,person-adaptive (gamma=0.005),0.054933875890132246,0.23143438453713122
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_6,1966,0.94,person-adaptive (gamma=0.02),0.0508646998982706,0.2578840284842319
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_7,1351,0.94,static (calibrated on source),0.09844559585492228,0.18652849740932642
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_7,1351,0.94,person-adaptive (gamma=0.005),0.056254626202812734,0.15914137675795706
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_7,1351,0.94,person-adaptive (gamma=0.02),0.05107327905255366,0.17764618800888232
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_77,579,0.94,static (calibrated on source),0.22279792746113988,0.22625215889464595
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_77,579,0.94,person-adaptive (gamma=0.005),0.05008635578583765,0.05008635578583765
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_77,579,0.94,person-adaptive (gamma=0.02),0.04835924006908463,0.05008635578583765
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_8,3060,0.94,static (calibrated on source),0.046405228758169936,0.11470588235294117
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_8,3060,0.94,person-adaptive (gamma=0.005),0.05032679738562092,0.14967320261437908
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_8,3060,0.94,person-adaptive (gamma=0.02),0.05032679738562092,0.16176470588235295
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_9,3706,0.94,static (calibrated on source),0.06314085267134377,0.19050188882892607
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_9,3706,0.94,person-adaptive (gamma=0.005),0.05099838100377766,0.21829465731246628
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_9,3706,0.94,person-adaptive (gamma=0.02),0.05018888289260658,0.23367512142471666
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_A,136,0.94,static (calibrated on source),0.0661764705882353,0.07352941176470588
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_A,136,0.94,person-adaptive (gamma=0.005),0.04411764705882353,0.051470588235294115
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_A,136,0.94,person-adaptive (gamma=0.02),0.03676470588235294,0.051470588235294115
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_img,1033,0.94,static (calibrated on source),0.003872216844143272,0.10648596321393998
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_img,1033,0.94,person-adaptive (gamma=0.005),0.026137463697967087,0.26137463697967084
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_img,1033,0.94,person-adaptive (gamma=0.02),0.04259438528557599,0.32526621490803487
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_imgi,180,0.94,static (calibrated on source),0.0,0.24444444444444444
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_imgi,180,0.94,person-adaptive (gamma=0.005),0.005555555555555556,0.32222222222222224
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.05,cmd_imgi,180,0.94,person-adaptive (gamma=0.02),0.016666666666666666,0.46111111111111114
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_0,5847,0.83,static (calibrated on source),0.3030613990080383,0.44723789977766376
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_0,5847,0.83,person-adaptive (gamma=0.005),0.1043270053018642,0.2426885582349923
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_0,5847,0.83,person-adaptive (gamma=0.02),0.10090644775098341,0.28202497007012145
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_1,1537,0.83,static (calibrated on source),0.09824333116460637,0.30644111906310995
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_1,1537,0.83,person-adaptive (gamma=0.005),0.10409889394925179,0.32335718932986335
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_1,1537,0.83,person-adaptive (gamma=0.02),0.1014964216005205,0.36759921925829536
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_11,2777,0.83,static (calibrated on source),0.2535109830752611,0.34821750090025205
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_11,2777,0.83,person-adaptive (gamma=0.005),0.10334893770255671,0.159164566078502
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_11,2777,0.83,person-adaptive (gamma=0.02),0.09902772776377386,0.18005041411595246
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_12,245,0.83,static (calibrated on source),0.15510204081632653,0.2857142857142857
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_12,245,0.83,person-adaptive (gamma=0.005),0.10612244897959183,0.2
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_12,245,0.83,person-adaptive (gamma=0.02),0.07755102040816327,0.2163265306122449
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_13,16,0.83,static (calibrated on source),0.6875,0.6875
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_13,16,0.83,person-adaptive (gamma=0.005),0.625,0.625
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_13,16,0.83,person-adaptive (gamma=0.02),0.4375,0.4375
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_2,942,0.83,static (calibrated on source),0.10191082802547771,0.6019108280254777
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_2,942,0.83,person-adaptive (gamma=0.005),0.0870488322717622,0.5923566878980892
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_2,942,0.83,person-adaptive (gamma=0.02),0.09554140127388536,0.6528662420382165
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_22,47,0.83,static (calibrated on source),0.5957446808510638,0.723404255319149
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_22,47,0.83,person-adaptive (gamma=0.005),0.46808510638297873,0.5957446808510638
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_22,47,0.83,person-adaptive (gamma=0.02),0.2553191489361702,0.3829787234042553
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_3,1355,0.83,static (calibrated on source),0.05608856088560885,0.08413284132841328
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_3,1355,0.83,person-adaptive (gamma=0.005),0.08634686346863468,0.13948339483394834
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_3,1355,0.83,person-adaptive (gamma=0.02),0.0974169741697417,0.17490774907749077
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_33,1797,0.83,static (calibrated on source),0.04618809126321647,0.112409571508069
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_33,1797,0.83,person-adaptive (gamma=0.005),0.09961046188091263,0.24540901502504173
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_33,1797,0.83,person-adaptive (gamma=0.02),0.1001669449081803,0.3055091819699499
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_4,2299,0.83,static (calibrated on source),0.1017833840800348,0.3349282296650718
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_4,2299,0.83,person-adaptive (gamma=0.005),0.09612875163114397,0.35841670291431055
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_4,2299,0.83,person-adaptive (gamma=0.02),0.09917355371900827,0.4410613310134841
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_44,321,0.83,static (calibrated on source),0.19626168224299065,0.29595015576323985
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_44,321,0.83,person-adaptive (gamma=0.005),0.1557632398753894,0.19937694704049844
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_44,321,0.83,person-adaptive (gamma=0.02),0.09968847352024922,0.19314641744548286
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_5,1296,0.83,static (calibrated on source),0.12731481481481483,0.44521604938271603
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_5,1296,0.83,person-adaptive (gamma=0.005),0.0933641975308642,0.3942901234567901
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_5,1296,0.83,person-adaptive (gamma=0.02),0.09490740740740741,0.41898148148148145
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_55,195,0.83,static (calibrated on source),0.15897435897435896,0.2205128205128205
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_55,195,0.83,person-adaptive (gamma=0.005),0.1282051282051282,0.16923076923076924
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_55,195,0.83,person-adaptive (gamma=0.02),0.09230769230769231,0.1282051282051282
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_6,1966,0.83,static (calibrated on source),0.4643947100712106,0.6973550356052899
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_6,1966,0.83,person-adaptive (gamma=0.005),0.11495422177009156,0.3199389623601221
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_6,1966,0.83,person-adaptive (gamma=0.02),0.10376398779247202,0.3326551373346897
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_7,1351,0.83,static (calibrated on source),0.23464100666173204,0.38638045891931905
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_7,1351,0.83,person-adaptive (gamma=0.005),0.12065136935603257,0.2716506291635825
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_7,1351,0.83,person-adaptive (gamma=0.02),0.10436713545521836,0.2783123612139156
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_77,579,0.83,static (calibrated on source),0.4473229706390328,0.48877374784110533
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_77,579,0.83,person-adaptive (gamma=0.005),0.12780656303972365,0.12953367875647667
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_77,579,0.83,person-adaptive (gamma=0.02),0.10362694300518134,0.11398963730569948
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_8,3060,0.83,static (calibrated on source),0.15588235294117647,0.2784313725490196
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_8,3060,0.83,person-adaptive (gamma=0.005),0.10588235294117647,0.23366013071895425
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_8,3060,0.83,person-adaptive (gamma=0.02),0.1022875816993464,0.24803921568627452
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_9,3706,0.83,static (calibrated on source),0.18537506745817592,0.38990825688073394
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_9,3706,0.83,person-adaptive (gamma=0.005),0.10469508904479223,0.30302212628170533
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_9,3706,0.83,person-adaptive (gamma=0.02),0.10118726389638424,0.3046411225040475
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_A,136,0.83,static (calibrated on source),0.19117647058823528,0.2867647058823529
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_A,136,0.83,person-adaptive (gamma=0.005),0.1323529411764706,0.20588235294117646
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_A,136,0.83,person-adaptive (gamma=0.02),0.10294117647058823,0.16176470588235295
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_img,1033,0.83,static (calibrated on source),0.04356243949661181,0.31268151016456924
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_img,1033,0.83,person-adaptive (gamma=0.005),0.07357212003872217,0.4365924491771539
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_img,1033,0.83,person-adaptive (gamma=0.02),0.0909970958373669,0.5121006776379478
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_imgi,180,0.83,static (calibrated on source),0.016666666666666666,0.5444444444444444
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_imgi,180,0.83,person-adaptive (gamma=0.005),0.016666666666666666,0.5833333333333334
+FER2013 -> DFERCD (cross-dataset),mrsv,3,0.1,cmd_imgi,180,0.83,person-adaptive (gamma=0.02),0.03888888888888889,0.6944444444444444
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_0,5847,0.94,static (calibrated on source),0.20318111852231913,0.31657260133401743
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_0,5847,0.94,person-adaptive (gamma=0.005),0.04754574995724303,0.19634000342055755
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_0,5847,0.94,person-adaptive (gamma=0.02),0.04874294510005131,0.23311099709252608
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_1,1537,0.94,static (calibrated on source),0.026024723487312947,0.11515940143135979
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_1,1537,0.94,person-adaptive (gamma=0.005),0.034482758620689655,0.20104098893949252
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_1,1537,0.94,person-adaptive (gamma=0.02),0.04554326610279766,0.25764476252439816
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_11,2777,0.94,static (calibrated on source),0.17788980914656105,0.2560316888728844
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_11,2777,0.94,person-adaptive (gamma=0.005),0.04933381346777098,0.10767014764133957
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_11,2777,0.94,person-adaptive (gamma=0.02),0.04825351098307526,0.1314368023046453
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_12,245,0.94,static (calibrated on source),0.08163265306122448,0.11836734693877551
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_12,245,0.94,person-adaptive (gamma=0.005),0.07346938775510205,0.12244897959183673
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_12,245,0.94,person-adaptive (gamma=0.02),0.05714285714285714,0.15510204081632653
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_13,16,0.94,static (calibrated on source),0.5,0.5
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_13,16,0.94,person-adaptive (gamma=0.005),0.4375,0.4375
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_13,16,0.94,person-adaptive (gamma=0.02),0.25,0.25
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_2,942,0.94,static (calibrated on source),0.06263269639065817,0.3980891719745223
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_2,942,0.94,person-adaptive (gamma=0.005),0.058386411889596604,0.4564755838641189
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_2,942,0.94,person-adaptive (gamma=0.02),0.050955414012738856,0.47983014861995754
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_22,47,0.94,static (calibrated on source),0.3191489361702128,0.3191489361702128
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_22,47,0.94,person-adaptive (gamma=0.005),0.2127659574468085,0.2127659574468085
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_22,47,0.94,person-adaptive (gamma=0.02),0.10638297872340426,0.10638297872340426
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_3,1355,0.94,static (calibrated on source),0.022878228782287822,0.055350553505535055
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_3,1355,0.94,person-adaptive (gamma=0.005),0.05018450184501845,0.14317343173431735
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_3,1355,0.94,person-adaptive (gamma=0.02),0.04944649446494465,0.25904059040590405
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_33,1797,0.94,static (calibrated on source),0.014468558708959377,0.04006677796327212
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_33,1797,0.94,person-adaptive (gamma=0.005),0.03951029493600445,0.1302170283806344
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_33,1797,0.94,person-adaptive (gamma=0.02),0.047857540345019475,0.16638842515303284
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_4,2299,0.94,static (calibrated on source),0.047411918225315354,0.15615484993475423
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_4,2299,0.94,person-adaptive (gamma=0.005),0.043932144410613314,0.21400608960417572
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_4,2299,0.94,person-adaptive (gamma=0.02),0.0430622009569378,0.34841235319704217
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_44,321,0.94,static (calibrated on source),0.19003115264797507,0.27102803738317754
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_44,321,0.94,person-adaptive (gamma=0.005),0.07165109034267912,0.1308411214953271
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_44,321,0.94,person-adaptive (gamma=0.02),0.0529595015576324,0.09657320872274143
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_5,1296,0.94,static (calibrated on source),0.05169753086419753,0.3441358024691358
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_5,1296,0.94,person-adaptive (gamma=0.005),0.05246913580246913,0.36496913580246915
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_5,1296,0.94,person-adaptive (gamma=0.02),0.04938271604938271,0.39274691358024694
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_55,195,0.94,static (calibrated on source),0.11282051282051282,0.14871794871794872
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_55,195,0.94,person-adaptive (gamma=0.005),0.08205128205128205,0.09743589743589744
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_55,195,0.94,person-adaptive (gamma=0.02),0.05128205128205128,0.07179487179487179
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_6,1966,0.94,static (calibrated on source),0.25076297049847407,0.4643947100712106
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_6,1966,0.94,person-adaptive (gamma=0.005),0.055442522889114956,0.24211597151576805
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_6,1966,0.94,person-adaptive (gamma=0.02),0.0508646998982706,0.2706002034587996
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_7,1351,0.94,static (calibrated on source),0.08068097705403404,0.16728349370836418
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_7,1351,0.94,person-adaptive (gamma=0.005),0.04515173945225759,0.12953367875647667
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_7,1351,0.94,person-adaptive (gamma=0.02),0.046632124352331605,0.14877868245743894
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_77,579,0.94,static (calibrated on source),0.39896373056994816,0.4006908462867012
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_77,579,0.94,person-adaptive (gamma=0.005),0.06563039723661486,0.06563039723661486
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_77,579,0.94,person-adaptive (gamma=0.02),0.05181347150259067,0.05699481865284974
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_8,3060,0.94,static (calibrated on source),0.1303921568627451,0.21176470588235294
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_8,3060,0.94,person-adaptive (gamma=0.005),0.05261437908496732,0.12581699346405228
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_8,3060,0.94,person-adaptive (gamma=0.02),0.05065359477124183,0.1480392156862745
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_9,3706,0.94,static (calibrated on source),0.2018348623853211,0.3704803022126282
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_9,3706,0.94,person-adaptive (gamma=0.005),0.0528872099298435,0.23772261198057204
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_9,3706,0.94,person-adaptive (gamma=0.02),0.050728548300053966,0.251753912574204
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_A,136,0.94,static (calibrated on source),0.16911764705882354,0.16911764705882354
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_A,136,0.94,person-adaptive (gamma=0.005),0.08823529411764706,0.08823529411764706
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_A,136,0.94,person-adaptive (gamma=0.02),0.058823529411764705,0.058823529411764705
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_img,1033,0.94,static (calibrated on source),0.005808325266214908,0.31268151016456924
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_img,1033,0.94,person-adaptive (gamma=0.005),0.02032913843175218,0.48209099709583736
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_img,1033,0.94,person-adaptive (gamma=0.02),0.03581800580832527,0.5788964181994192
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_imgi,180,0.94,static (calibrated on source),0.0,0.38333333333333336
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_imgi,180,0.94,person-adaptive (gamma=0.005),0.0,0.45
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.05,cmd_imgi,180,0.94,person-adaptive (gamma=0.02),0.005555555555555556,0.5555555555555556
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_0,5847,0.84,static (calibrated on source),0.349067898067385,0.547631263896015
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_0,5847,0.84,person-adaptive (gamma=0.005),0.09714383444501454,0.2926286984778519
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_0,5847,0.84,person-adaptive (gamma=0.02),0.09817000171027877,0.3297417479049085
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_1,1537,0.84,static (calibrated on source),0.09694209499024073,0.2778139232270657
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_1,1537,0.84,person-adaptive (gamma=0.005),0.08327911515940144,0.32010409889394925
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_1,1537,0.84,person-adaptive (gamma=0.02),0.09694209499024073,0.3884189980481457
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_11,2777,0.84,static (calibrated on source),0.34353619013323733,0.4598487576521426
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_11,2777,0.84,person-adaptive (gamma=0.005),0.10046813107670148,0.1829312207418077
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_11,2777,0.84,person-adaptive (gamma=0.02),0.09794742527907814,0.19841555635577962
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_12,245,0.84,static (calibrated on source),0.20816326530612245,0.35918367346938773
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_12,245,0.84,person-adaptive (gamma=0.005),0.17551020408163265,0.34285714285714286
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_12,245,0.84,person-adaptive (gamma=0.02),0.12653061224489795,0.3551020408163265
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_13,16,0.84,static (calibrated on source),0.6875,0.6875
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_13,16,0.84,person-adaptive (gamma=0.005),0.6875,0.6875
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_13,16,0.84,person-adaptive (gamma=0.02),0.5625,0.5625
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_2,942,0.84,static (calibrated on source),0.15392781316348195,0.6050955414012739
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_2,942,0.84,person-adaptive (gamma=0.005),0.12314225053078556,0.6114649681528662
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_2,942,0.84,person-adaptive (gamma=0.02),0.10509554140127389,0.6008492569002123
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_22,47,0.84,static (calibrated on source),0.48936170212765956,0.6170212765957447
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_22,47,0.84,person-adaptive (gamma=0.005),0.425531914893617,0.5319148936170213
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_22,47,0.84,person-adaptive (gamma=0.02),0.2765957446808511,0.3829787234042553
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_3,1355,0.84,static (calibrated on source),0.11439114391143912,0.2656826568265683
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_3,1355,0.84,person-adaptive (gamma=0.005),0.1077490774907749,0.32767527675276753
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_3,1355,0.84,person-adaptive (gamma=0.02),0.1018450184501845,0.39114391143911437
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_33,1797,0.84,static (calibrated on source),0.06232609905397885,0.15191986644407346
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_33,1797,0.84,person-adaptive (gamma=0.005),0.09181969949916527,0.24151363383416805
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_33,1797,0.84,person-adaptive (gamma=0.02),0.09738452977184196,0.27712854757929883
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_4,2299,0.84,static (calibrated on source),0.11874728142670726,0.41104828186167897
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_4,2299,0.84,person-adaptive (gamma=0.005),0.09134406263592866,0.38190517616354935
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_4,2299,0.84,person-adaptive (gamma=0.02),0.0900391474554154,0.4949978251413658
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_44,321,0.84,static (calibrated on source),0.3364485981308411,0.45482866043613707
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_44,321,0.84,person-adaptive (gamma=0.005),0.17133956386292834,0.2866043613707165
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_44,321,0.84,person-adaptive (gamma=0.02),0.11214953271028037,0.19626168224299065
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_5,1296,0.84,static (calibrated on source),0.1527777777777778,0.5169753086419753
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_5,1296,0.84,person-adaptive (gamma=0.005),0.11033950617283951,0.48148148148148145
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_5,1296,0.84,person-adaptive (gamma=0.02),0.10185185185185185,0.48842592592592593
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_55,195,0.84,static (calibrated on source),0.2358974358974359,0.3384615384615385
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_55,195,0.84,person-adaptive (gamma=0.005),0.18461538461538463,0.2512820512820513
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_55,195,0.84,person-adaptive (gamma=0.02),0.11794871794871795,0.1641025641025641
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_6,1966,0.84,static (calibrated on source),0.42675483214649035,0.6734486266531028
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_6,1966,0.84,person-adaptive (gamma=0.005),0.11444557477110885,0.32604272634791454
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_6,1966,0.84,person-adaptive (gamma=0.02),0.10376398779247202,0.34282807731434384
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_7,1351,0.84,static (calibrated on source),0.18134715025906736,0.32124352331606215
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_7,1351,0.84,person-adaptive (gamma=0.005),0.09918578830495929,0.21243523316062177
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_7,1351,0.84,person-adaptive (gamma=0.02),0.09844559585492228,0.23538119911176905
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_77,579,0.84,static (calibrated on source),0.5561312607944733,0.5751295336787565
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_77,579,0.84,person-adaptive (gamma=0.005),0.14507772020725387,0.15544041450777202
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_77,579,0.84,person-adaptive (gamma=0.02),0.10880829015544041,0.12435233160621761
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_8,3060,0.84,static (calibrated on source),0.26633986928104575,0.39771241830065357
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_8,3060,0.84,person-adaptive (gamma=0.005),0.1084967320261438,0.20522875816993463
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_8,3060,0.84,person-adaptive (gamma=0.02),0.1022875816993464,0.2258169934640523
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_9,3706,0.84,static (calibrated on source),0.35806799784133836,0.5723151645979493
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_9,3706,0.84,person-adaptive (gamma=0.005),0.10793308148947653,0.3159740960604425
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_9,3706,0.84,person-adaptive (gamma=0.02),0.10199676200755532,0.32784673502428496
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_A,136,0.84,static (calibrated on source),0.3161764705882353,0.36764705882352944
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_A,136,0.84,person-adaptive (gamma=0.005),0.21323529411764705,0.22058823529411764
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_A,136,0.84,person-adaptive (gamma=0.02),0.11764705882352941,0.1323529411764706
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_img,1033,0.84,static (calibrated on source),0.030009680542110357,0.5430784123910939
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_img,1033,0.84,person-adaptive (gamma=0.005),0.06292352371732816,0.6698935140367861
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_img,1033,0.84,person-adaptive (gamma=0.02),0.08228460793804453,0.7483059051306873
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_imgi,180,0.84,static (calibrated on source),0.0,0.6111111111111112
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_imgi,180,0.84,person-adaptive (gamma=0.005),0.011111111111111112,0.6666666666666666
+FER2013 -> DFERCD (cross-dataset),mrsv,4,0.1,cmd_imgi,180,0.84,person-adaptive (gamma=0.02),0.027777777777777776,0.7722222222222223
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_0,5847,0.83,static (calibrated on source),0.024799042243885752,0.10911578587309731
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_0,5847,0.83,person-adaptive (gamma=0.005),0.046177526936890714,0.21617923721566615
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_0,5847,0.83,person-adaptive (gamma=0.02),0.049598084487771504,0.2685137677441423
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_1,1537,0.83,static (calibrated on source),0.004554326610279766,0.05465191932335719
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_1,1537,0.83,person-adaptive (gamma=0.005),0.03643461288223813,0.19193233571893298
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_1,1537,0.83,person-adaptive (gamma=0.02),0.04749512036434613,0.2687052700065062
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_11,2777,0.83,static (calibrated on source),0.22902412675549152,0.3179690313287721
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_11,2777,0.83,person-adaptive (gamma=0.005),0.060857039971191934,0.13395750810226864
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_11,2777,0.83,person-adaptive (gamma=0.02),0.05257472092185812,0.13431760893050054
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_12,245,0.83,static (calibrated on source),0.0653061224489796,0.14285714285714285
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_12,245,0.83,person-adaptive (gamma=0.005),0.053061224489795916,0.12653061224489795
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_12,245,0.83,person-adaptive (gamma=0.02),0.04897959183673469,0.19183673469387755
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_13,16,0.83,static (calibrated on source),0.875,0.875
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_13,16,0.83,person-adaptive (gamma=0.005),0.8125,0.8125
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_13,16,0.83,person-adaptive (gamma=0.02),0.5,0.5
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_2,942,0.83,static (calibrated on source),0.016985138004246284,0.5159235668789809
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_2,942,0.83,person-adaptive (gamma=0.005),0.03821656050955414,0.5700636942675159
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_2,942,0.83,person-adaptive (gamma=0.02),0.04883227176220807,0.6252653927813163
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_22,47,0.83,static (calibrated on source),0.1276595744680851,0.46808510638297873
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_22,47,0.83,person-adaptive (gamma=0.005),0.1276595744680851,0.46808510638297873
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_22,47,0.83,person-adaptive (gamma=0.02),0.1276595744680851,0.40425531914893614
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_3,1355,0.83,static (calibrated on source),0.013284132841328414,0.06863468634686347
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_3,1355,0.83,person-adaptive (gamma=0.005),0.03985239852398524,0.12988929889298892
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_3,1355,0.83,person-adaptive (gamma=0.02),0.04649446494464945,0.21697416974169742
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_33,1797,0.83,static (calibrated on source),0.06343906510851419,0.14301613800779076
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_33,1797,0.83,person-adaptive (gamma=0.005),0.057317751808569836,0.15859766277128548
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_33,1797,0.83,person-adaptive (gamma=0.02),0.05286588759042849,0.17640511964385086
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_4,2299,0.83,static (calibrated on source),0.03566768160069596,0.2531535450195737
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_4,2299,0.83,person-adaptive (gamma=0.005),0.05437146585471944,0.2992605480643758
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_4,2299,0.83,person-adaptive (gamma=0.02),0.0508916920400174,0.311439756415833
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_44,321,0.83,static (calibrated on source),0.059190031152647975,0.14330218068535824
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_44,321,0.83,person-adaptive (gamma=0.005),0.056074766355140186,0.13707165109034267
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_44,321,0.83,person-adaptive (gamma=0.02),0.04672897196261682,0.1277258566978193
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_5,1296,0.83,static (calibrated on source),0.035493827160493825,0.3888888888888889
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_5,1296,0.83,person-adaptive (gamma=0.005),0.033950617283950615,0.408179012345679
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_5,1296,0.83,person-adaptive (gamma=0.02),0.044753086419753084,0.44290123456790126
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_55,195,0.83,static (calibrated on source),0.046153846153846156,0.07179487179487179
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_55,195,0.83,person-adaptive (gamma=0.005),0.046153846153846156,0.07179487179487179
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_55,195,0.83,person-adaptive (gamma=0.02),0.041025641025641026,0.08205128205128205
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_6,1966,0.83,static (calibrated on source),0.4328585961342828,0.6658189216683622
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_6,1966,0.83,person-adaptive (gamma=0.005),0.0671414038657172,0.245676500508647
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_6,1966,0.83,person-adaptive (gamma=0.02),0.05442522889114954,0.25839267548321465
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_7,1351,0.83,static (calibrated on source),0.1080680977054034,0.1680236861584012
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_7,1351,0.83,person-adaptive (gamma=0.005),0.06439674315321983,0.11102886750555144
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_7,1351,0.83,person-adaptive (gamma=0.02),0.053293856402664694,0.13249444855662473
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_77,579,0.83,static (calibrated on source),0.2659758203799655,0.27288428324697755
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_77,579,0.83,person-adaptive (gamma=0.005),0.08290155440414508,0.08290155440414508
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_77,579,0.83,person-adaptive (gamma=0.02),0.04835924006908463,0.055267702936096716
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_8,3060,0.83,static (calibrated on source),0.03888888888888889,0.0915032679738562
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_8,3060,0.83,person-adaptive (gamma=0.005),0.05130718954248366,0.13333333333333333
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_8,3060,0.83,person-adaptive (gamma=0.02),0.05,0.18169934640522875
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_9,3706,0.83,static (calibrated on source),0.024284943335132217,0.20426335671883433
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_9,3706,0.83,person-adaptive (gamma=0.005),0.046141392336751214,0.24932541824069077
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_9,3706,0.83,person-adaptive (gamma=0.02),0.04937938478143551,0.26497571505666484
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_A,136,0.83,static (calibrated on source),0.0,0.125
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_A,136,0.83,person-adaptive (gamma=0.005),0.0,0.13970588235294118
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_A,136,0.83,person-adaptive (gamma=0.02),0.014705882352941176,0.27205882352941174
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_img,1033,0.83,static (calibrated on source),0.049370764762826716,0.06679574056147145
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_img,1033,0.83,person-adaptive (gamma=0.005),0.049370764762826716,0.06679574056147145
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_img,1033,0.83,person-adaptive (gamma=0.02),0.0484027105517909,0.08615682478218781
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_imgi,180,0.83,static (calibrated on source),0.0,0.14444444444444443
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_imgi,180,0.83,person-adaptive (gamma=0.005),0.0,0.2111111111111111
+FER2013 -> DFERCD (cross-dataset),mv,0,0.05,cmd_imgi,180,0.83,person-adaptive (gamma=0.02),0.005555555555555556,0.31666666666666665
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_0,5847,0.71,static (calibrated on source),0.10962886950572943,0.28253805370275353
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_0,5847,0.71,person-adaptive (gamma=0.005),0.09799897383273473,0.36103984949546775
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_0,5847,0.71,person-adaptive (gamma=0.02),0.10022233624080726,0.3974687874123482
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_1,1537,0.71,static (calibrated on source),0.044892648015614836,0.21014964216005205
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_1,1537,0.71,person-adaptive (gamma=0.005),0.09824333116460637,0.36629798308392975
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_1,1537,0.71,person-adaptive (gamma=0.02),0.10084580351333768,0.4346128822381262
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_11,2777,0.71,static (calibrated on source),0.3813467770975873,0.49765934461649264
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_11,2777,0.71,person-adaptive (gamma=0.005),0.11847317248829672,0.22326251350378107
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_11,2777,0.71,person-adaptive (gamma=0.02),0.10442924018725243,0.20813827871804105
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_12,245,0.71,static (calibrated on source),0.17142857142857143,0.4
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_12,245,0.71,person-adaptive (gamma=0.005),0.13877551020408163,0.3224489795918367
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_12,245,0.71,person-adaptive (gamma=0.02),0.11428571428571428,0.4
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_13,16,0.71,static (calibrated on source),0.875,0.875
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_13,16,0.71,person-adaptive (gamma=0.005),0.875,0.875
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_13,16,0.71,person-adaptive (gamma=0.02),0.8125,0.8125
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_2,942,0.71,static (calibrated on source),0.06369426751592357,0.6072186836518046
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_2,942,0.71,person-adaptive (gamma=0.005),0.1029723991507431,0.6794055201698513
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_2,942,0.71,person-adaptive (gamma=0.02),0.10084925690021232,0.6995753715498938
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_22,47,0.71,static (calibrated on source),0.2127659574468085,0.5531914893617021
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_22,47,0.71,person-adaptive (gamma=0.005),0.2127659574468085,0.5531914893617021
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_22,47,0.71,person-adaptive (gamma=0.02),0.1702127659574468,0.5106382978723404
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_3,1355,0.71,static (calibrated on source),0.09003690036900369,0.26642066420664207
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_3,1355,0.71,person-adaptive (gamma=0.005),0.1003690036900369,0.31808118081180814
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_3,1355,0.71,person-adaptive (gamma=0.02),0.0988929889298893,0.33948339483394835
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_33,1797,0.71,static (calibrated on source),0.23984418475236505,0.3617139677239844
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_33,1797,0.71,person-adaptive (gamma=0.005),0.11797440178074568,0.24707846410684475
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_33,1797,0.71,person-adaptive (gamma=0.02),0.10461880912632164,0.2498608792431831
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_4,2299,0.71,static (calibrated on source),0.12875163114397564,0.3975641583297086
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_4,2299,0.71,person-adaptive (gamma=0.005),0.11178773379730318,0.3993040452370596
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_4,2299,0.71,person-adaptive (gamma=0.02),0.10265332753371031,0.41931274467159635
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_44,321,0.71,static (calibrated on source),0.23052959501557632,0.37383177570093457
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_44,321,0.71,person-adaptive (gamma=0.005),0.14641744548286603,0.2834890965732087
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_44,321,0.71,person-adaptive (gamma=0.02),0.09657320872274143,0.2398753894080997
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_5,1296,0.71,static (calibrated on source),0.1087962962962963,0.5092592592592593
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_5,1296,0.71,person-adaptive (gamma=0.005),0.07947530864197531,0.49691358024691357
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_5,1296,0.71,person-adaptive (gamma=0.02),0.08641975308641975,0.5254629629629629
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_55,195,0.71,static (calibrated on source),0.14871794871794872,0.3230769230769231
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_55,195,0.71,person-adaptive (gamma=0.005),0.13333333333333333,0.23076923076923078
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_55,195,0.71,person-adaptive (gamma=0.02),0.09743589743589744,0.24102564102564103
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_6,1966,0.71,static (calibrated on source),0.534587995930824,0.788911495422177
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_6,1966,0.71,person-adaptive (gamma=0.005),0.12919633774160733,0.32807731434384535
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_6,1966,0.71,person-adaptive (gamma=0.02),0.10732451678535096,0.3301119023397762
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_7,1351,0.71,static (calibrated on source),0.21169504071058476,0.3271650629163583
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_7,1351,0.71,person-adaptive (gamma=0.005),0.12435233160621761,0.21169504071058476
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_7,1351,0.71,person-adaptive (gamma=0.02),0.10658771280532939,0.22871946706143598
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_77,579,0.71,static (calibrated on source),0.4058721934369603,0.46113989637305697
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_77,579,0.71,person-adaptive (gamma=0.005),0.15544041450777202,0.15716753022452504
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_77,579,0.71,person-adaptive (gamma=0.02),0.09499136442141623,0.14335060449050085
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_8,3060,0.71,static (calibrated on source),0.10947712418300654,0.22483660130718955
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_8,3060,0.71,person-adaptive (gamma=0.005),0.10163398692810457,0.257516339869281
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_8,3060,0.71,person-adaptive (gamma=0.02),0.1,0.2872549019607843
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_9,3706,0.71,static (calibrated on source),0.09228278467350243,0.31624392876416624
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_9,3706,0.71,person-adaptive (gamma=0.005),0.09956826767404209,0.3340528872099298
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_9,3706,0.71,person-adaptive (gamma=0.02),0.09956826767404209,0.3502428494333513
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_A,136,0.71,static (calibrated on source),0.022058823529411766,0.38235294117647056
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_A,136,0.71,person-adaptive (gamma=0.005),0.051470588235294115,0.45588235294117646
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_A,136,0.71,person-adaptive (gamma=0.02),0.07352941176470588,0.5588235294117647
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_img,1033,0.71,static (calibrated on source),0.1771539206195547,0.22555663117134558
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_img,1033,0.71,person-adaptive (gamma=0.005),0.1122942884801549,0.14811229428848016
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_img,1033,0.71,person-adaptive (gamma=0.02),0.09874152952565343,0.1606969990319458
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_imgi,180,0.71,static (calibrated on source),0.05555555555555555,0.36666666666666664
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_imgi,180,0.71,person-adaptive (gamma=0.005),0.05555555555555555,0.38333333333333336
+FER2013 -> DFERCD (cross-dataset),mv,0,0.1,cmd_imgi,180,0.71,person-adaptive (gamma=0.02),0.06111111111111111,0.4222222222222222
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_0,5847,0.86,static (calibrated on source),0.06328031469129468,0.1633316230545579
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_0,5847,0.86,person-adaptive (gamma=0.005),0.04874294510005131,0.14503164015734565
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_0,5847,0.86,person-adaptive (gamma=0.02),0.04874294510005131,0.1970241149307337
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_1,1537,0.86,static (calibrated on source),0.01236174365647365,0.1398828887443071
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_1,1537,0.86,person-adaptive (gamma=0.005),0.03188028627195836,0.2680546519193234
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_1,1537,0.86,person-adaptive (gamma=0.02),0.04098893949251789,0.39752765126870526
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_11,2777,0.86,static (calibrated on source),0.3266114512063378,0.4288800864241988
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_11,2777,0.86,person-adaptive (gamma=0.005),0.05905653583003241,0.12459488656823911
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_11,2777,0.86,person-adaptive (gamma=0.02),0.052214620093626214,0.1317969031328772
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_12,245,0.86,static (calibrated on source),0.3795918367346939,0.7346938775510204
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_12,245,0.86,person-adaptive (gamma=0.005),0.1306122448979592,0.2979591836734694
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_12,245,0.86,person-adaptive (gamma=0.02),0.05714285714285714,0.3673469387755102
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_13,16,0.86,static (calibrated on source),0.8125,0.8125
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_13,16,0.86,person-adaptive (gamma=0.005),0.8125,0.8125
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_13,16,0.86,person-adaptive (gamma=0.02),0.4375,0.4375
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_2,942,0.86,static (calibrated on source),0.025477707006369428,0.5254777070063694
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_2,942,0.86,person-adaptive (gamma=0.005),0.025477707006369428,0.5360934182590233
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_2,942,0.86,person-adaptive (gamma=0.02),0.02653927813163482,0.5679405520169851
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_22,47,0.86,static (calibrated on source),0.14893617021276595,0.40425531914893614
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_22,47,0.86,person-adaptive (gamma=0.005),0.14893617021276595,0.3829787234042553
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_22,47,0.86,person-adaptive (gamma=0.02),0.1276595744680851,0.2553191489361702
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_3,1355,0.86,static (calibrated on source),0.025092250922509225,0.047232472324723246
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_3,1355,0.86,person-adaptive (gamma=0.005),0.041328413284132844,0.07822878228782287
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_3,1355,0.86,person-adaptive (gamma=0.02),0.045018450184501846,0.10627306273062731
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_33,1797,0.86,static (calibrated on source),0.09682804674457429,0.18753478018920422
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_33,1797,0.86,person-adaptive (gamma=0.005),0.048414023372287146,0.13912075681691707
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_33,1797,0.86,person-adaptive (gamma=0.02),0.048414023372287146,0.14969393433500278
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_4,2299,0.86,static (calibrated on source),0.0674206176598521,0.2474989125706829
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_4,2299,0.86,person-adaptive (gamma=0.005),0.046107003044802086,0.23053501522401043
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_4,2299,0.86,person-adaptive (gamma=0.02),0.04784688995215311,0.27838190517616357
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_44,321,0.86,static (calibrated on source),0.2118380062305296,0.3613707165109034
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_44,321,0.86,person-adaptive (gamma=0.005),0.12149532710280374,0.27414330218068533
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_44,321,0.86,person-adaptive (gamma=0.02),0.056074766355140186,0.21495327102803738
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_5,1296,0.86,static (calibrated on source),0.09104938271604938,0.5
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_5,1296,0.86,person-adaptive (gamma=0.005),0.05632716049382716,0.47685185185185186
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_5,1296,0.86,person-adaptive (gamma=0.02),0.05246913580246913,0.4837962962962963
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_55,195,0.86,static (calibrated on source),0.1641025641025641,0.35384615384615387
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_55,195,0.86,person-adaptive (gamma=0.005),0.11794871794871795,0.17435897435897435
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_55,195,0.86,person-adaptive (gamma=0.02),0.06153846153846154,0.1282051282051282
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_6,1966,0.86,static (calibrated on source),0.5788402848423194,0.818413021363174
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_6,1966,0.86,person-adaptive (gamma=0.005),0.06307222787385554,0.2619532044760936
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_6,1966,0.86,person-adaptive (gamma=0.02),0.052899287894201424,0.27009155645981686
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_7,1351,0.86,static (calibrated on source),0.12879348630643966,0.2546262028127313
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_7,1351,0.86,person-adaptive (gamma=0.005),0.06513693560325684,0.14877868245743894
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_7,1351,0.86,person-adaptive (gamma=0.02),0.053293856402664694,0.14951887490747595
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_77,579,0.86,static (calibrated on source),0.4542314335060449,0.45595854922279794
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_77,579,0.86,person-adaptive (gamma=0.005),0.09671848013816926,0.09671848013816926
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_77,579,0.86,person-adaptive (gamma=0.02),0.06217616580310881,0.06217616580310881
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_8,3060,0.86,static (calibrated on source),0.1022875816993464,0.24901960784313726
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_8,3060,0.86,person-adaptive (gamma=0.005),0.045098039215686274,0.16797385620915034
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_8,3060,0.86,person-adaptive (gamma=0.02),0.04771241830065359,0.20130718954248367
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_9,3706,0.86,static (calibrated on source),0.08014031300593633,0.2725310307609282
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_9,3706,0.86,person-adaptive (gamma=0.005),0.053157042633567186,0.23070696168375607
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_9,3706,0.86,person-adaptive (gamma=0.02),0.050728548300053966,0.24284943335132217
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_A,136,0.86,static (calibrated on source),0.03676470588235294,0.03676470588235294
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_A,136,0.86,person-adaptive (gamma=0.005),0.04411764705882353,0.04411764705882353
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_A,136,0.86,person-adaptive (gamma=0.02),0.04411764705882353,0.051470588235294115
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_img,1033,0.86,static (calibrated on source),0.09777347531461762,0.1181026137463698
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_img,1033,0.86,person-adaptive (gamma=0.005),0.05517909002904162,0.06485963213939981
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_img,1033,0.86,person-adaptive (gamma=0.02),0.049370764762826716,0.0803484995159729
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_imgi,180,0.86,static (calibrated on source),0.005555555555555556,0.16111111111111112
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_imgi,180,0.86,person-adaptive (gamma=0.005),0.005555555555555556,0.19444444444444445
+FER2013 -> DFERCD (cross-dataset),mv,1,0.05,cmd_imgi,180,0.86,person-adaptive (gamma=0.02),0.016666666666666666,0.2611111111111111
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_0,5847,0.73,static (calibrated on source),0.1831708568496665,0.37626133059688727
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_0,5847,0.73,person-adaptive (gamma=0.005),0.09902514109799897,0.26133059688729265
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_0,5847,0.73,person-adaptive (gamma=0.02),0.09799897383273473,0.3078501795792714
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_1,1537,0.73,static (calibrated on source),0.06180871828236825,0.38386467143786596
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_1,1537,0.73,person-adaptive (gamma=0.005),0.08002602472348731,0.4886141834743006
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_1,1537,0.73,person-adaptive (gamma=0.02),0.08978529603122967,0.5836044242029929
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_11,2777,0.73,static (calibrated on source),0.4879366222542312,0.6236946344976594
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_11,2777,0.73,person-adaptive (gamma=0.005),0.1166726683471372,0.19121353979114153
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_11,2777,0.73,person-adaptive (gamma=0.02),0.10442924018725243,0.19733525387108392
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_12,245,0.73,static (calibrated on source),0.5020408163265306,0.8775510204081632
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_12,245,0.73,person-adaptive (gamma=0.005),0.2612244897959184,0.5428571428571428
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_12,245,0.73,person-adaptive (gamma=0.02),0.11020408163265306,0.4530612244897959
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_13,16,0.73,static (calibrated on source),0.9375,0.9375
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_13,16,0.73,person-adaptive (gamma=0.005),0.875,0.875
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_13,16,0.73,person-adaptive (gamma=0.02),0.8125,0.8125
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_2,942,0.73,static (calibrated on source),0.11995753715498939,0.6560509554140127
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_2,942,0.73,person-adaptive (gamma=0.005),0.07006369426751592,0.6019108280254777
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_2,942,0.73,person-adaptive (gamma=0.02),0.06157112526539278,0.6348195329087049
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_22,47,0.73,static (calibrated on source),0.19148936170212766,0.5106382978723404
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_22,47,0.73,person-adaptive (gamma=0.005),0.2127659574468085,0.5319148936170213
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_22,47,0.73,person-adaptive (gamma=0.02),0.19148936170212766,0.46808510638297873
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_3,1355,0.73,static (calibrated on source),0.13431734317343175,0.21845018450184503
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_3,1355,0.73,person-adaptive (gamma=0.005),0.0996309963099631,0.2066420664206642
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_3,1355,0.73,person-adaptive (gamma=0.02),0.0974169741697417,0.23394833948339483
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_33,1797,0.73,static (calibrated on source),0.24151363383416805,0.37061769616026713
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_33,1797,0.73,person-adaptive (gamma=0.005),0.10239287701725097,0.21758486366165833
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_33,1797,0.73,person-adaptive (gamma=0.02),0.09905397885364496,0.224819143016138
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_4,2299,0.73,static (calibrated on source),0.15311004784688995,0.4449760765550239
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_4,2299,0.73,person-adaptive (gamma=0.005),0.1017833840800348,0.3501522401043932
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_4,2299,0.73,person-adaptive (gamma=0.02),0.09830361026533276,0.4441061331013484
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_44,321,0.73,static (calibrated on source),0.32710280373831774,0.5295950155763239
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_44,321,0.73,person-adaptive (gamma=0.005),0.21495327102803738,0.411214953271028
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_44,321,0.73,person-adaptive (gamma=0.02),0.11838006230529595,0.3333333333333333
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_5,1296,0.73,static (calibrated on source),0.1867283950617284,0.6319444444444444
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_5,1296,0.73,person-adaptive (gamma=0.005),0.11959876543209877,0.5717592592592593
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_5,1296,0.73,person-adaptive (gamma=0.02),0.10570987654320987,0.5640432098765432
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_55,195,0.73,static (calibrated on source),0.27692307692307694,0.6410256410256411
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_55,195,0.73,person-adaptive (gamma=0.005),0.2153846153846154,0.4358974358974359
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_55,195,0.73,person-adaptive (gamma=0.02),0.13333333333333333,0.3076923076923077
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_6,1966,0.73,static (calibrated on source),0.6510681586978637,0.9003051881993896
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_6,1966,0.73,person-adaptive (gamma=0.005),0.12563580874872837,0.3336724313326551
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_6,1966,0.73,person-adaptive (gamma=0.02),0.10579857578840285,0.3326551373346897
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_7,1351,0.73,static (calibrated on source),0.2694300518134715,0.45817912657290893
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_7,1351,0.73,person-adaptive (gamma=0.005),0.13175425610658772,0.2686898593634345
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_7,1351,0.73,person-adaptive (gamma=0.02),0.10658771280532939,0.26202812731310143
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_77,579,0.73,static (calibrated on source),0.5803108808290155,0.5975820379965457
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_77,579,0.73,person-adaptive (gamma=0.005),0.18998272884283246,0.18998272884283246
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_77,579,0.73,person-adaptive (gamma=0.02),0.1226252158894646,0.1226252158894646
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_8,3060,0.73,static (calibrated on source),0.21241830065359477,0.46862745098039216
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_8,3060,0.73,person-adaptive (gamma=0.005),0.09836601307189542,0.27483660130718957
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_8,3060,0.73,person-adaptive (gamma=0.02),0.09869281045751634,0.2996732026143791
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_9,3706,0.73,static (calibrated on source),0.19400971397733405,0.43874797625472206
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_9,3706,0.73,person-adaptive (gamma=0.005),0.10820291419320022,0.3127361036157582
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_9,3706,0.73,person-adaptive (gamma=0.02),0.10145709660010793,0.3259579060982191
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_A,136,0.73,static (calibrated on source),0.22058823529411764,0.29411764705882354
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_A,136,0.73,person-adaptive (gamma=0.005),0.16176470588235295,0.22058823529411764
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_A,136,0.73,person-adaptive (gamma=0.02),0.1323529411764706,0.16176470588235295
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_img,1033,0.73,static (calibrated on source),0.2536302032913843,0.33494675701839305
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_img,1033,0.73,person-adaptive (gamma=0.005),0.11907066795740562,0.14617618586640851
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_img,1033,0.73,person-adaptive (gamma=0.02),0.10067763794772508,0.15488867376573087
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_imgi,180,0.73,static (calibrated on source),0.044444444444444446,0.36666666666666664
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_imgi,180,0.73,person-adaptive (gamma=0.005),0.05,0.37777777777777777
+FER2013 -> DFERCD (cross-dataset),mv,1,0.1,cmd_imgi,180,0.73,person-adaptive (gamma=0.02),0.06111111111111111,0.4
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_0,5847,0.86,static (calibrated on source),0.09372327689413375,0.1840259962373867
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_0,5847,0.86,person-adaptive (gamma=0.005),0.051992474773388066,0.15050453223875493
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_0,5847,0.86,person-adaptive (gamma=0.02),0.05079527963057978,0.18624935864545922
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_1,1537,0.86,static (calibrated on source),0.043591411841249185,0.15029277813923228
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_1,1537,0.86,person-adaptive (gamma=0.005),0.04554326610279766,0.16265452179570591
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_1,1537,0.86,person-adaptive (gamma=0.02),0.048796356538711776,0.2420299284320104
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_11,2777,0.86,static (calibrated on source),0.15772416276557435,0.2329852358660425
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_11,2777,0.86,person-adaptive (gamma=0.005),0.05689593086064098,0.11055095426719481
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_11,2777,0.86,person-adaptive (gamma=0.02),0.0511343176089305,0.12495498739647101
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_12,245,0.86,static (calibrated on source),0.17551020408163265,0.49795918367346936
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_12,245,0.86,person-adaptive (gamma=0.005),0.10204081632653061,0.2693877551020408
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_12,245,0.86,person-adaptive (gamma=0.02),0.044897959183673466,0.3346938775510204
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_13,16,0.86,static (calibrated on source),0.875,0.875
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_13,16,0.86,person-adaptive (gamma=0.005),0.875,0.875
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_13,16,0.86,person-adaptive (gamma=0.02),0.5,0.5
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_2,942,0.86,static (calibrated on source),0.059447983014861996,0.5222929936305732
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_2,942,0.86,person-adaptive (gamma=0.005),0.06369426751592357,0.5636942675159236
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_2,942,0.86,person-adaptive (gamma=0.02),0.055201698513800426,0.6008492569002123
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_22,47,0.86,static (calibrated on source),0.1276595744680851,0.44680851063829785
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_22,47,0.86,person-adaptive (gamma=0.005),0.1276595744680851,0.425531914893617
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_22,47,0.86,person-adaptive (gamma=0.02),0.10638297872340426,0.3617021276595745
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_3,1355,0.86,static (calibrated on source),0.024354243542435424,0.19335793357933578
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_3,1355,0.86,person-adaptive (gamma=0.005),0.03837638376383764,0.26420664206642064
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_3,1355,0.86,person-adaptive (gamma=0.02),0.047232472324723246,0.33653136531365313
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_33,1797,0.86,static (calibrated on source),0.06232609905397885,0.15247634947134112
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_33,1797,0.86,person-adaptive (gamma=0.005),0.054535336672231496,0.17250973845297718
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_33,1797,0.86,person-adaptive (gamma=0.02),0.05175292153589316,0.18141346688925988
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_4,2299,0.86,static (calibrated on source),0.09090909090909091,0.23923444976076555
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_4,2299,0.86,person-adaptive (gamma=0.005),0.03610265332753371,0.215311004784689
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_4,2299,0.86,person-adaptive (gamma=0.02),0.04567203131796433,0.4658547194432362
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_44,321,0.86,static (calibrated on source),0.2087227414330218,0.37694704049844235
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_44,321,0.86,person-adaptive (gamma=0.005),0.12461059190031153,0.2897196261682243
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_44,321,0.86,person-adaptive (gamma=0.02),0.06230529595015576,0.2398753894080997
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_5,1296,0.86,static (calibrated on source),0.03935185185185185,0.38117283950617287
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_5,1296,0.86,person-adaptive (gamma=0.005),0.04552469135802469,0.36419753086419754
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_5,1296,0.86,person-adaptive (gamma=0.02),0.04861111111111111,0.39737654320987653
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_55,195,0.86,static (calibrated on source),0.041025641025641026,0.26666666666666666
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_55,195,0.86,person-adaptive (gamma=0.005),0.046153846153846156,0.28205128205128205
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_55,195,0.86,person-adaptive (gamma=0.02),0.05128205128205128,0.31794871794871793
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_6,1966,0.86,static (calibrated on source),0.4318413021363174,0.6531027466937945
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_6,1966,0.86,person-adaptive (gamma=0.005),0.0595116988809766,0.22533062054933875
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_6,1966,0.86,person-adaptive (gamma=0.02),0.05188199389623601,0.24872838250254323
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_7,1351,0.86,static (calibrated on source),0.07846039970392302,0.16210214655810512
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_7,1351,0.86,person-adaptive (gamma=0.005),0.0540340488527017,0.1236121391561806
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_7,1351,0.86,person-adaptive (gamma=0.02),0.04885270170244264,0.13323464100666174
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_77,579,0.86,static (calibrated on source),0.30915371329879104,0.31088082901554404
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_77,579,0.86,person-adaptive (gamma=0.005),0.09671848013816926,0.09671848013816926
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_77,579,0.86,person-adaptive (gamma=0.02),0.06217616580310881,0.06217616580310881
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_8,3060,0.86,static (calibrated on source),0.08496732026143791,0.17516339869281045
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_8,3060,0.86,person-adaptive (gamma=0.005),0.04150326797385621,0.1454248366013072
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_8,3060,0.86,person-adaptive (gamma=0.02),0.04542483660130719,0.1784313725490196
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_9,3706,0.86,static (calibrated on source),0.07123583378305451,0.22611980572045332
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_9,3706,0.86,person-adaptive (gamma=0.005),0.05207771181867242,0.2325957906098219
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_9,3706,0.86,person-adaptive (gamma=0.02),0.050728548300053966,0.2487857528332434
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_A,136,0.86,static (calibrated on source),0.08088235294117647,0.08088235294117647
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_A,136,0.86,person-adaptive (gamma=0.005),0.08088235294117647,0.08088235294117647
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_A,136,0.86,person-adaptive (gamma=0.02),0.07352941176470588,0.07352941176470588
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_img,1033,0.86,static (calibrated on source),0.003872216844143272,0.1403678606001936
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_img,1033,0.86,person-adaptive (gamma=0.005),0.023233301064859633,0.3688286544046467
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_img,1033,0.86,person-adaptive (gamma=0.02),0.041626331074540175,0.4937076476282672
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_imgi,180,0.86,static (calibrated on source),0.011111111111111112,0.37222222222222223
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_imgi,180,0.86,person-adaptive (gamma=0.005),0.011111111111111112,0.38333333333333336
+FER2013 -> DFERCD (cross-dataset),mv,2,0.05,cmd_imgi,180,0.86,person-adaptive (gamma=0.02),0.011111111111111112,0.46111111111111114
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_0,5847,0.71,static (calibrated on source),0.27809132888660854,0.4843509492047204
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_0,5847,0.71,person-adaptive (gamma=0.005),0.10637933983239269,0.27261843680519926
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_0,5847,0.71,person-adaptive (gamma=0.02),0.10193261501624765,0.30460064990593466
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_1,1537,0.71,static (calibrated on source),0.15875081327260898,0.41054001301236176
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_1,1537,0.71,person-adaptive (gamma=0.005),0.10605074821080027,0.3188028627195836
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_1,1537,0.71,person-adaptive (gamma=0.02),0.10084580351333768,0.3929733246584255
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_11,2777,0.71,static (calibrated on source),0.33777457688152684,0.45048613611811306
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_11,2777,0.71,person-adaptive (gamma=0.005),0.11451206337774576,0.18473172488296724
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_11,2777,0.71,person-adaptive (gamma=0.02),0.1019085343896291,0.19409434641699677
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_12,245,0.71,static (calibrated on source),0.4163265306122449,0.7795918367346939
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_12,245,0.71,person-adaptive (gamma=0.005),0.22857142857142856,0.49795918367346936
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_12,245,0.71,person-adaptive (gamma=0.02),0.11020408163265306,0.4448979591836735
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_13,16,0.71,static (calibrated on source),0.9375,0.9375
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_13,16,0.71,person-adaptive (gamma=0.005),0.9375,0.9375
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_13,16,0.71,person-adaptive (gamma=0.02),0.875,0.875
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_2,942,0.71,static (calibrated on source),0.18046709129511676,0.6932059447983014
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_2,942,0.71,person-adaptive (gamma=0.005),0.13800424628450106,0.6772823779193206
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_2,942,0.71,person-adaptive (gamma=0.02),0.11040339702760085,0.6836518046709129
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_22,47,0.71,static (calibrated on source),0.2978723404255319,0.6382978723404256
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_22,47,0.71,person-adaptive (gamma=0.005),0.2553191489361702,0.574468085106383
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_22,47,0.71,person-adaptive (gamma=0.02),0.2127659574468085,0.5319148936170213
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_3,1355,0.71,static (calibrated on source),0.14833948339483394,0.4088560885608856
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_3,1355,0.71,person-adaptive (gamma=0.005),0.0988929889298893,0.3808118081180812
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_3,1355,0.71,person-adaptive (gamma=0.02),0.0996309963099631,0.4354243542435424
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_33,1797,0.71,static (calibrated on source),0.2142459654980523,0.34056761268781305
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_33,1797,0.71,person-adaptive (gamma=0.005),0.11686143572621036,0.24707846410684475
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_33,1797,0.71,person-adaptive (gamma=0.02),0.10461880912632164,0.25264329437952143
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_4,2299,0.71,static (calibrated on source),0.18747281426707263,0.5811222270552414
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_4,2299,0.71,person-adaptive (gamma=0.005),0.09047411918225315,0.45672031317964334
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_4,2299,0.71,person-adaptive (gamma=0.02),0.09743366681165724,0.6215745976511526
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_44,321,0.71,static (calibrated on source),0.3333333333333333,0.5638629283489096
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_44,321,0.71,person-adaptive (gamma=0.005),0.24299065420560748,0.4735202492211838
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_44,321,0.71,person-adaptive (gamma=0.02),0.12461059190031153,0.35202492211838005
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_5,1296,0.71,static (calibrated on source),0.11882716049382716,0.5270061728395061
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_5,1296,0.71,person-adaptive (gamma=0.005),0.10570987654320987,0.5138888888888888
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_5,1296,0.71,person-adaptive (gamma=0.02),0.10262345679012345,0.5061728395061729
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_55,195,0.71,static (calibrated on source),0.18461538461538463,0.5384615384615384
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_55,195,0.71,person-adaptive (gamma=0.005),0.15384615384615385,0.5076923076923077
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_55,195,0.71,person-adaptive (gamma=0.02),0.1282051282051282,0.47692307692307695
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_6,1966,0.71,static (calibrated on source),0.5681586978636826,0.8229908443540183
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_6,1966,0.71,person-adaptive (gamma=0.005),0.12207527975584945,0.30773143438453715
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_6,1966,0.71,person-adaptive (gamma=0.02),0.10478128179043744,0.3240081383519837
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_7,1351,0.71,static (calibrated on source),0.22353811991117692,0.39378238341968913
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_7,1351,0.71,person-adaptive (gamma=0.005),0.11472982975573649,0.24056254626202814
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_7,1351,0.71,person-adaptive (gamma=0.02),0.10288675055514433,0.2472242783123612
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_77,579,0.71,static (calibrated on source),0.459412780656304,0.4905008635578584
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_77,579,0.71,person-adaptive (gamma=0.005),0.19861830742659758,0.20898100172711573
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_77,579,0.71,person-adaptive (gamma=0.02),0.12607944732297063,0.13298791018998274
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_8,3060,0.71,static (calibrated on source),0.20718954248366014,0.3892156862745098
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_8,3060,0.71,person-adaptive (gamma=0.005),0.09084967320261438,0.23333333333333334
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_8,3060,0.71,person-adaptive (gamma=0.02),0.09607843137254903,0.2879084967320261
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_9,3706,0.71,static (calibrated on source),0.2641662169454938,0.4843497031840259
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_9,3706,0.71,person-adaptive (gamma=0.005),0.10766324878575283,0.3310847274689692
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_9,3706,0.71,person-adaptive (gamma=0.02),0.10199676200755532,0.34430652995143013
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_A,136,0.71,static (calibrated on source),0.35294117647058826,0.39705882352941174
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_A,136,0.71,person-adaptive (gamma=0.005),0.25735294117647056,0.2867647058823529
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_A,136,0.71,person-adaptive (gamma=0.02),0.16176470588235295,0.17647058823529413
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_img,1033,0.71,static (calibrated on source),0.04356243949661181,0.48209099709583736
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_img,1033,0.71,person-adaptive (gamma=0.005),0.08228460793804453,0.6505324298160697
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_img,1033,0.71,person-adaptive (gamma=0.02),0.09486931268151017,0.6921587608906099
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_imgi,180,0.71,static (calibrated on source),0.022222222222222223,0.6
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_imgi,180,0.71,person-adaptive (gamma=0.005),0.022222222222222223,0.6166666666666667
+FER2013 -> DFERCD (cross-dataset),mv,2,0.1,cmd_imgi,180,0.71,person-adaptive (gamma=0.02),0.03888888888888889,0.7166666666666667
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_0,5847,0.9,static (calibrated on source),0.0935522490165897,0.20147083974687874
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_0,5847,0.9,person-adaptive (gamma=0.005),0.04788780571233111,0.31674362921156146
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_0,5847,0.9,person-adaptive (gamma=0.02),0.049598084487771504,0.4041388746365658
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_1,1537,0.9,static (calibrated on source),0.03253090435914118,0.10800260247234873
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_1,1537,0.9,person-adaptive (gamma=0.005),0.03383214053350683,0.2173064411190631
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_1,1537,0.9,person-adaptive (gamma=0.02),0.0468445022771633,0.32270657124268054
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_11,2777,0.9,static (calibrated on source),0.14079942383867483,0.20633777457688152
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_11,2777,0.9,person-adaptive (gamma=0.005),0.0511343176089305,0.10118833273316528
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_11,2777,0.9,person-adaptive (gamma=0.02),0.04861361181130717,0.10839034929780339
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_12,245,0.9,static (calibrated on source),0.05714285714285714,0.0653061224489796
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_12,245,0.9,person-adaptive (gamma=0.005),0.04081632653061224,0.04897959183673469
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_12,245,0.9,person-adaptive (gamma=0.02),0.0326530612244898,0.04081632653061224
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_13,16,0.9,static (calibrated on source),0.625,0.625
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_13,16,0.9,person-adaptive (gamma=0.005),0.5625,0.5625
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_13,16,0.9,person-adaptive (gamma=0.02),0.25,0.25
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_2,942,0.9,static (calibrated on source),0.040339702760084924,0.3991507430997877
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_2,942,0.9,person-adaptive (gamma=0.005),0.044585987261146494,0.4140127388535032
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_2,942,0.9,person-adaptive (gamma=0.02),0.050955414012738856,0.440552016985138
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_22,47,0.9,static (calibrated on source),0.1276595744680851,0.3404255319148936
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_22,47,0.9,person-adaptive (gamma=0.005),0.10638297872340426,0.3191489361702128
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_22,47,0.9,person-adaptive (gamma=0.02),0.10638297872340426,0.3404255319148936
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_3,1355,0.9,static (calibrated on source),0.014760147601476014,0.028044280442804426
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_3,1355,0.9,person-adaptive (gamma=0.005),0.03985239852398524,0.1047970479704797
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_3,1355,0.9,person-adaptive (gamma=0.02),0.05092250922509225,0.15940959409594097
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_33,1797,0.9,static (calibrated on source),0.012242626599888704,0.02949360044518642
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_33,1797,0.9,person-adaptive (gamma=0.005),0.03672787979966611,0.07679465776293823
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_33,1797,0.9,person-adaptive (gamma=0.02),0.04340567612687813,0.09794101279910963
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_4,2299,0.9,static (calibrated on source),0.117442366246194,0.29143105698129623
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_4,2299,0.9,person-adaptive (gamma=0.005),0.04088734232274902,0.20487168334058287
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_4,2299,0.9,person-adaptive (gamma=0.02),0.04480208786428882,0.4032187907785994
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_44,321,0.9,static (calibrated on source),0.04672897196261682,0.09968847352024922
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_44,321,0.9,person-adaptive (gamma=0.005),0.04672897196261682,0.09968847352024922
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_44,321,0.9,person-adaptive (gamma=0.02),0.04361370716510903,0.09657320872274143
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_5,1296,0.9,static (calibrated on source),0.029320987654320986,0.26003086419753085
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_5,1296,0.9,person-adaptive (gamma=0.005),0.040123456790123455,0.2962962962962963
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_5,1296,0.9,person-adaptive (gamma=0.02),0.043209876543209874,0.3125
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_55,195,0.9,static (calibrated on source),0.041025641025641026,0.21025641025641026
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_55,195,0.9,person-adaptive (gamma=0.005),0.046153846153846156,0.2205128205128205
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_55,195,0.9,person-adaptive (gamma=0.02),0.046153846153846156,0.24615384615384617
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_6,1966,0.9,static (calibrated on source),0.3652085452695829,0.5773143438453713
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_6,1966,0.9,person-adaptive (gamma=0.005),0.06002034587995931,0.23296032553407936
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_6,1966,0.9,person-adaptive (gamma=0.02),0.052899287894201424,0.25737538148524924
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_7,1351,0.9,static (calibrated on source),0.0688378978534419,0.11176905995558846
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_7,1351,0.9,person-adaptive (gamma=0.005),0.053293856402664694,0.08882309400444116
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_7,1351,0.9,person-adaptive (gamma=0.02),0.049592894152479645,0.13989637305699482
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_77,579,0.9,static (calibrated on source),0.23834196891191708,0.3126079447322971
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_77,579,0.9,person-adaptive (gamma=0.005),0.06390328151986183,0.06563039723661486
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_77,579,0.9,person-adaptive (gamma=0.02),0.05181347150259067,0.07253886010362694
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_8,3060,0.9,static (calibrated on source),0.07941176470588235,0.165359477124183
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_8,3060,0.9,person-adaptive (gamma=0.005),0.05228758169934641,0.2022875816993464
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_8,3060,0.9,person-adaptive (gamma=0.02),0.05032679738562092,0.27712418300653596
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_9,3706,0.9,static (calibrated on source),0.027792768483540203,0.17485159201295197
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_9,3706,0.9,person-adaptive (gamma=0.005),0.048569886670264434,0.32137075013491634
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_9,3706,0.9,person-adaptive (gamma=0.02),0.0496492174851592,0.39827307069616835
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_A,136,0.9,static (calibrated on source),0.007352941176470588,0.08088235294117647
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_A,136,0.9,person-adaptive (gamma=0.005),0.014705882352941176,0.11764705882352941
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_A,136,0.9,person-adaptive (gamma=0.02),0.022058823529411766,0.19117647058823528
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_img,1033,0.9,static (calibrated on source),0.05324298160696999,0.09002904162633107
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_img,1033,0.9,person-adaptive (gamma=0.005),0.05324298160696999,0.08422071636011616
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_img,1033,0.9,person-adaptive (gamma=0.02),0.04743465634075508,0.0968054211035818
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_imgi,180,0.9,static (calibrated on source),0.0,0.19444444444444445
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_imgi,180,0.9,person-adaptive (gamma=0.005),0.0,0.22777777777777777
+FER2013 -> DFERCD (cross-dataset),mv,3,0.05,cmd_imgi,180,0.9,person-adaptive (gamma=0.02),0.011111111111111112,0.3333333333333333
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_0,5847,0.78,static (calibrated on source),0.23567641525568667,0.5036770993671968
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_0,5847,0.78,person-adaptive (gamma=0.005),0.0986830853429109,0.4732341371643578
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_0,5847,0.78,person-adaptive (gamma=0.02),0.09970925260817513,0.5067556011629896
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_1,1537,0.78,static (calibrated on source),0.12426805465191933,0.3597918022121015
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_1,1537,0.78,person-adaptive (gamma=0.005),0.08588158750813273,0.3656473649967469
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_1,1537,0.78,person-adaptive (gamma=0.02),0.09954456733897202,0.43331164606376055
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_11,2777,0.78,static (calibrated on source),0.2664746128916097,0.3655023406553835
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_11,2777,0.78,person-adaptive (gamma=0.005),0.10370903853078862,0.16564638098667628
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_11,2777,0.78,person-adaptive (gamma=0.02),0.09758732445084624,0.17320849837954627
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_12,245,0.78,static (calibrated on source),0.2612244897959184,0.33877551020408164
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_12,245,0.78,person-adaptive (gamma=0.005),0.14285714285714285,0.15510204081632653
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_12,245,0.78,person-adaptive (gamma=0.02),0.09387755102040816,0.12244897959183673
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_13,16,0.78,static (calibrated on source),0.8125,0.8125
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_13,16,0.78,person-adaptive (gamma=0.005),0.8125,0.8125
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_13,16,0.78,person-adaptive (gamma=0.02),0.5625,0.5625
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_2,942,0.78,static (calibrated on source),0.15817409766454352,0.5615711252653928
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_2,942,0.78,person-adaptive (gamma=0.005),0.10828025477707007,0.5084925690021231
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_2,942,0.78,person-adaptive (gamma=0.02),0.10509554140127389,0.5276008492569002
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_22,47,0.78,static (calibrated on source),0.1702127659574468,0.48936170212765956
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_22,47,0.78,person-adaptive (gamma=0.005),0.1702127659574468,0.48936170212765956
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_22,47,0.78,person-adaptive (gamma=0.02),0.19148936170212766,0.5106382978723404
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_3,1355,0.78,static (calibrated on source),0.1070110701107011,0.21033210332103322
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_3,1355,0.78,person-adaptive (gamma=0.005),0.0996309963099631,0.2154981549815498
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_3,1355,0.78,person-adaptive (gamma=0.02),0.1033210332103321,0.2833948339483395
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_33,1797,0.78,static (calibrated on source),0.15080690038953812,0.21535893155258765
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_33,1797,0.78,person-adaptive (gamma=0.005),0.08848080133555926,0.16082359488035614
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_33,1797,0.78,person-adaptive (gamma=0.02),0.09404563160823595,0.1986644407345576
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_4,2299,0.78,static (calibrated on source),0.20139190952588082,0.5706829056111353
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_4,2299,0.78,person-adaptive (gamma=0.005),0.08786428882122663,0.4140930839495433
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_4,2299,0.78,person-adaptive (gamma=0.02),0.09525880817746847,0.5502392344497608
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_44,321,0.78,static (calibrated on source),0.1526479750778816,0.2398753894080997
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_44,321,0.78,person-adaptive (gamma=0.005),0.11526479750778816,0.19314641744548286
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_44,321,0.78,person-adaptive (gamma=0.02),0.09657320872274143,0.17445482866043613
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_5,1296,0.78,static (calibrated on source),0.1095679012345679,0.4097222222222222
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_5,1296,0.78,person-adaptive (gamma=0.005),0.09104938271604938,0.3896604938271605
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_5,1296,0.78,person-adaptive (gamma=0.02),0.09104938271604938,0.4012345679012346
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_55,195,0.78,static (calibrated on source),0.13846153846153847,0.4666666666666667
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_55,195,0.78,person-adaptive (gamma=0.005),0.1282051282051282,0.4307692307692308
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_55,195,0.78,person-adaptive (gamma=0.02),0.11794871794871795,0.4205128205128205
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_6,1966,0.78,static (calibrated on source),0.4801627670396745,0.7217700915564598
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_6,1966,0.78,person-adaptive (gamma=0.005),0.12207527975584945,0.31841302136317395
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_6,1966,0.78,person-adaptive (gamma=0.02),0.10579857578840285,0.3275686673448627
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_7,1351,0.78,static (calibrated on source),0.19615099925980756,0.3338267949666913
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_7,1351,0.78,person-adaptive (gamma=0.005),0.11695040710584752,0.21169504071058476
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_7,1351,0.78,person-adaptive (gamma=0.02),0.10214655810510732,0.2820133234641007
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_77,579,0.78,static (calibrated on source),0.5008635578583766,0.6355785837651122
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_77,579,0.78,person-adaptive (gamma=0.005),0.14853195164075994,0.15716753022452504
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_77,579,0.78,person-adaptive (gamma=0.02),0.10880829015544041,0.16753022452504318
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_8,3060,0.78,static (calibrated on source),0.234640522875817,0.46078431372549017
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_8,3060,0.78,person-adaptive (gamma=0.005),0.10816993464052288,0.36176470588235293
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_8,3060,0.78,person-adaptive (gamma=0.02),0.10163398692810457,0.4147058823529412
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_9,3706,0.78,static (calibrated on source),0.1025364274150027,0.38720992984349706
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_9,3706,0.78,person-adaptive (gamma=0.005),0.10226659471127901,0.514031300593632
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_9,3706,0.78,person-adaptive (gamma=0.02),0.10010793308148948,0.54020507285483
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_A,136,0.78,static (calibrated on source),0.058823529411764705,0.3382352941176471
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_A,136,0.78,person-adaptive (gamma=0.005),0.0661764705882353,0.39705882352941174
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_A,136,0.78,person-adaptive (gamma=0.02),0.08823529411764706,0.47794117647058826
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_img,1033,0.78,static (calibrated on source),0.1887705711519845,0.27686350435624396
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_img,1033,0.78,person-adaptive (gamma=0.005),0.11713455953533398,0.1771539206195547
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_img,1033,0.78,person-adaptive (gamma=0.02),0.09777347531461762,0.18393030009680542
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_imgi,180,0.78,static (calibrated on source),0.08333333333333333,0.46111111111111114
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_imgi,180,0.78,person-adaptive (gamma=0.005),0.06666666666666667,0.43333333333333335
+FER2013 -> DFERCD (cross-dataset),mv,3,0.1,cmd_imgi,180,0.78,person-adaptive (gamma=0.02),0.05,0.46111111111111114
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_0,5847,0.88,static (calibrated on source),0.030100906447750982,0.07747562852744998
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_0,5847,0.88,person-adaptive (gamma=0.005),0.04788780571233111,0.13904566444330427
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_0,5847,0.88,person-adaptive (gamma=0.02),0.04822986146741919,0.16794937574824698
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_1,1537,0.88,static (calibrated on source),0.018867924528301886,0.06571242680546518
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_1,1537,0.88,person-adaptive (gamma=0.005),0.03773584905660377,0.18477553675992192
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_1,1537,0.88,person-adaptive (gamma=0.02),0.0468445022771633,0.2524398178269356
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_11,2777,0.88,static (calibrated on source),0.2639539070939863,0.356139719121354
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_11,2777,0.88,person-adaptive (gamma=0.005),0.04897371263953907,0.12531508822470291
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_11,2777,0.88,person-adaptive (gamma=0.02),0.04645300684191574,0.14007922218221103
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_12,245,0.88,static (calibrated on source),0.42448979591836733,0.763265306122449
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_12,245,0.88,person-adaptive (gamma=0.005),0.12653061224489795,0.46938775510204084
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_12,245,0.88,person-adaptive (gamma=0.02),0.06938775510204082,0.4163265306122449
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_13,16,0.88,static (calibrated on source),0.8125,0.8125
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_13,16,0.88,person-adaptive (gamma=0.005),0.75,0.75
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_13,16,0.88,person-adaptive (gamma=0.02),0.375,0.375
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_2,942,0.88,static (calibrated on source),0.058386411889596604,0.5626326963906582
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_2,942,0.88,person-adaptive (gamma=0.005),0.055201698513800426,0.5509554140127388
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_2,942,0.88,person-adaptive (gamma=0.02),0.05307855626326964,0.6072186836518046
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_22,47,0.88,static (calibrated on source),0.19148936170212766,0.48936170212765956
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_22,47,0.88,person-adaptive (gamma=0.005),0.19148936170212766,0.48936170212765956
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_22,47,0.88,person-adaptive (gamma=0.02),0.1702127659574468,0.46808510638297873
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_3,1355,0.88,static (calibrated on source),0.055350553505535055,0.06199261992619926
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_3,1355,0.88,person-adaptive (gamma=0.005),0.05904059040590406,0.08708487084870849
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_3,1355,0.88,person-adaptive (gamma=0.02),0.05239852398523985,0.12988929889298892
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_33,1797,0.88,static (calibrated on source),0.27156371730662215,0.36894824707846413
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_33,1797,0.88,person-adaptive (gamma=0.005),0.06121313299944352,0.14524207011686144
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_33,1797,0.88,person-adaptive (gamma=0.02),0.05286588759042849,0.16638842515303284
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_4,2299,0.88,static (calibrated on source),0.055241409308394954,0.24488908220965638
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_4,2299,0.88,person-adaptive (gamma=0.005),0.03871248368856024,0.26663766855154414
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_4,2299,0.88,person-adaptive (gamma=0.02),0.046107003044802086,0.32753371030882994
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_44,321,0.88,static (calibrated on source),0.11838006230529595,0.20249221183800623
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_44,321,0.88,person-adaptive (gamma=0.005),0.08722741433021806,0.17445482866043613
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_44,321,0.88,person-adaptive (gamma=0.02),0.0529595015576324,0.14018691588785046
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_5,1296,0.88,static (calibrated on source),0.06172839506172839,0.41435185185185186
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_5,1296,0.88,person-adaptive (gamma=0.005),0.04861111111111111,0.38271604938271603
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_5,1296,0.88,person-adaptive (gamma=0.02),0.04861111111111111,0.39814814814814814
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_55,195,0.88,static (calibrated on source),0.07179487179487179,0.11282051282051282
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_55,195,0.88,person-adaptive (gamma=0.005),0.07179487179487179,0.12307692307692308
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_55,195,0.88,person-adaptive (gamma=0.02),0.06666666666666667,0.12307692307692308
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_6,1966,0.88,static (calibrated on source),0.5264496439471007,0.7619532044760936
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_6,1966,0.88,person-adaptive (gamma=0.005),0.06205493387589013,0.2589013224821974
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_6,1966,0.88,person-adaptive (gamma=0.02),0.052899287894201424,0.2644964394710071
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_7,1351,0.88,static (calibrated on source),0.07475943745373798,0.13249444855662473
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_7,1351,0.88,person-adaptive (gamma=0.005),0.0540340488527017,0.11250925240562547
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_7,1351,0.88,person-adaptive (gamma=0.02),0.05107327905255366,0.12435233160621761
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_77,579,0.88,static (calibrated on source),0.6269430051813472,0.6597582037996546
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_77,579,0.88,person-adaptive (gamma=0.005),0.08635578583765112,0.09499136442141623
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_77,579,0.88,person-adaptive (gamma=0.02),0.05699481865284974,0.07081174438687392
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_8,3060,0.88,static (calibrated on source),0.059803921568627454,0.14673202614379086
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_8,3060,0.88,person-adaptive (gamma=0.005),0.05261437908496732,0.1650326797385621
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_8,3060,0.88,person-adaptive (gamma=0.02),0.05065359477124183,0.17614379084967322
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_9,3706,0.88,static (calibrated on source),0.017539125742039936,0.1648677819751754
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_9,3706,0.88,person-adaptive (gamma=0.005),0.04641122504047491,0.23340528872099298
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_9,3706,0.88,person-adaptive (gamma=0.02),0.04937938478143551,0.2547220723151646
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_A,136,0.88,static (calibrated on source),0.014705882352941176,0.014705882352941176
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_A,136,0.88,person-adaptive (gamma=0.005),0.014705882352941176,0.014705882352941176
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_A,136,0.88,person-adaptive (gamma=0.02),0.014705882352941176,0.022058823529411766
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_img,1033,0.88,static (calibrated on source),0.01452081316553727,0.02516940948693127
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_img,1033,0.88,person-adaptive (gamma=0.005),0.04259438528557599,0.06582768635043562
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_img,1033,0.88,person-adaptive (gamma=0.02),0.0484027105517909,0.08325266214908035
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_imgi,180,0.88,static (calibrated on source),0.08333333333333333,0.25
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_imgi,180,0.88,person-adaptive (gamma=0.005),0.06111111111111111,0.2
+FER2013 -> DFERCD (cross-dataset),mv,4,0.05,cmd_imgi,180,0.88,person-adaptive (gamma=0.02),0.03888888888888889,0.19444444444444445
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_0,5847,0.76,static (calibrated on source),0.12553446211732514,0.2591072344792201
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_0,5847,0.76,person-adaptive (gamma=0.005),0.0969728065674705,0.25055584060201813
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_0,5847,0.76,person-adaptive (gamma=0.02),0.09799897383273473,0.27792030100906445
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_1,1537,0.76,static (calibrated on source),0.05204944697462589,0.22446324007807417
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_1,1537,0.76,person-adaptive (gamma=0.005),0.09499024072869226,0.3741054001301236
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_1,1537,0.76,person-adaptive (gamma=0.02),0.0988939492517892,0.42810670136629797
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_11,2777,0.76,static (calibrated on source),0.40295282679150163,0.5199855959668708
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_11,2777,0.76,person-adaptive (gamma=0.005),0.09938782859200576,0.18797263233705439
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_11,2777,0.76,person-adaptive (gamma=0.02),0.0943464169967591,0.20201656463809867
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_12,245,0.76,static (calibrated on source),0.5306122448979592,0.8979591836734694
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_12,245,0.76,person-adaptive (gamma=0.005),0.2612244897959184,0.6285714285714286
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_12,245,0.76,person-adaptive (gamma=0.02),0.14285714285714285,0.5224489795918368
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_13,16,0.76,static (calibrated on source),0.9375,0.9375
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_13,16,0.76,person-adaptive (gamma=0.005),0.9375,0.9375
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_13,16,0.76,person-adaptive (gamma=0.02),0.75,0.75
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_2,942,0.76,static (calibrated on source),0.15605095541401273,0.7165605095541401
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_2,942,0.76,person-adaptive (gamma=0.005),0.11995753715498939,0.6740976645435244
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_2,942,0.76,person-adaptive (gamma=0.02),0.10615711252653928,0.6910828025477707
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_22,47,0.76,static (calibrated on source),0.2553191489361702,0.5957446808510638
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_22,47,0.76,person-adaptive (gamma=0.005),0.2553191489361702,0.5957446808510638
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_22,47,0.76,person-adaptive (gamma=0.02),0.2553191489361702,0.5957446808510638
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_3,1355,0.76,static (calibrated on source),0.15424354243542435,0.21476014760147602
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_3,1355,0.76,person-adaptive (gamma=0.005),0.12250922509225093,0.22287822878228783
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_3,1355,0.76,person-adaptive (gamma=0.02),0.10405904059040591,0.24501845018450186
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_33,1797,0.76,static (calibrated on source),0.4607679465776294,0.6021146355036171
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_33,1797,0.76,person-adaptive (gamma=0.005),0.12353923205342238,0.23483583750695602
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_33,1797,0.76,person-adaptive (gamma=0.02),0.10517529215358931,0.24485253199777407
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_4,2299,0.76,static (calibrated on source),0.1348412353197042,0.4080034797738147
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_4,2299,0.76,person-adaptive (gamma=0.005),0.09090909090909091,0.389734667246629
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_4,2299,0.76,person-adaptive (gamma=0.02),0.09699869508481948,0.4828186167899087
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_44,321,0.76,static (calibrated on source),0.22741433021806853,0.34890965732087226
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_44,321,0.76,person-adaptive (gamma=0.005),0.16822429906542055,0.30218068535825543
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_44,321,0.76,person-adaptive (gamma=0.02),0.1059190031152648,0.24299065420560748
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_5,1296,0.76,static (calibrated on source),0.14814814814814814,0.5509259259259259
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_5,1296,0.76,person-adaptive (gamma=0.005),0.10802469135802469,0.5216049382716049
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_5,1296,0.76,person-adaptive (gamma=0.02),0.10185185185185185,0.5146604938271605
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_55,195,0.76,static (calibrated on source),0.1641025641025641,0.4307692307692308
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_55,195,0.76,person-adaptive (gamma=0.005),0.15384615384615385,0.40512820512820513
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_55,195,0.76,person-adaptive (gamma=0.02),0.13846153846153847,0.41025641025641024
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_6,1966,0.76,static (calibrated on source),0.6119023397761953,0.8657171922685656
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_6,1966,0.76,person-adaptive (gamma=0.005),0.12410986775178026,0.33621566632756866
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_6,1966,0.76,person-adaptive (gamma=0.02),0.10579857578840285,0.33214649033570703
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_7,1351,0.76,static (calibrated on source),0.17616580310880828,0.2871946706143597
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_7,1351,0.76,person-adaptive (gamma=0.005),0.11695040710584752,0.20725388601036268
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_7,1351,0.76,person-adaptive (gamma=0.02),0.10362694300518134,0.20651369356032567
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_77,579,0.76,static (calibrated on source),0.768566493955095,0.8151986183074266
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_77,579,0.76,person-adaptive (gamma=0.005),0.17443868739205526,0.20552677029360966
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_77,579,0.76,person-adaptive (gamma=0.02),0.1157167530224525,0.14507772020725387
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_8,3060,0.76,static (calibrated on source),0.14019607843137255,0.28823529411764703
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_8,3060,0.76,person-adaptive (gamma=0.005),0.10882352941176471,0.2781045751633987
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_8,3060,0.76,person-adaptive (gamma=0.02),0.1022875816993464,0.29150326797385623
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_9,3706,0.76,static (calibrated on source),0.07825148407987048,0.28413383702104694
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_9,3706,0.76,person-adaptive (gamma=0.005),0.10010793308148948,0.33135456017269294
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_9,3706,0.76,person-adaptive (gamma=0.02),0.10010793308148948,0.3513221802482461
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_A,136,0.76,static (calibrated on source),0.058823529411764705,0.09558823529411764
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_A,136,0.76,person-adaptive (gamma=0.005),0.058823529411764705,0.09558823529411764
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_A,136,0.76,person-adaptive (gamma=0.02),0.0661764705882353,0.11029411764705882
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_img,1033,0.76,static (calibrated on source),0.1132623426911907,0.15876089060987417
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_img,1033,0.76,person-adaptive (gamma=0.005),0.10648596321393998,0.15392061955469508
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_img,1033,0.76,person-adaptive (gamma=0.02),0.10164569215876089,0.1665053242981607
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_imgi,180,0.76,static (calibrated on source),0.18888888888888888,0.5611111111111111
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_imgi,180,0.76,person-adaptive (gamma=0.005),0.1388888888888889,0.4388888888888889
+FER2013 -> DFERCD (cross-dataset),mv,4,0.1,cmd_imgi,180,0.76,person-adaptive (gamma=0.02),0.09444444444444444,0.3333333333333333
+DFERCD group-disjoint folds,mrsv,0,0.05,cmd_0,6261,0.82,static (calibrated on source),0.0293882766331257,0.1026992493211947
+DFERCD group-disjoint folds,mrsv,0,0.05,cmd_0,6261,0.82,person-adaptive (gamma=0.005),0.03881169142309535,0.3501038172815844
+DFERCD group-disjoint folds,mrsv,0,0.05,cmd_0,6261,0.82,person-adaptive (gamma=0.02),0.043283820475962305,0.48267049992014055
+DFERCD group-disjoint folds,mrsv,0,0.05,cmd_22,47,0.82,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,0,0.05,cmd_22,47,0.82,person-adaptive (gamma=0.005),0.0,0.0
+DFERCD group-disjoint folds,mrsv,0,0.05,cmd_22,47,0.82,person-adaptive (gamma=0.02),0.0,0.0
+DFERCD group-disjoint folds,mrsv,0,0.05,cmd_44,352,0.82,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,0,0.05,cmd_44,352,0.82,person-adaptive (gamma=0.005),0.0,0.011363636363636364
+DFERCD group-disjoint folds,mrsv,0,0.05,cmd_44,352,0.82,person-adaptive (gamma=0.02),0.008522727272727272,0.06818181818181818
+DFERCD group-disjoint folds,mrsv,0,0.05,cmd_55,278,0.82,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,0,0.05,cmd_55,278,0.82,person-adaptive (gamma=0.005),0.0,0.0
+DFERCD group-disjoint folds,mrsv,0,0.05,cmd_55,278,0.82,person-adaptive (gamma=0.02),0.0,0.0
+DFERCD group-disjoint folds,mrsv,0,0.1,cmd_0,6261,0.72,static (calibrated on source),0.10158121705797796,0.3282223287014854
+DFERCD group-disjoint folds,mrsv,0,0.1,cmd_0,6261,0.72,person-adaptive (gamma=0.005),0.07985944737262418,0.5104615876058137
+DFERCD group-disjoint folds,mrsv,0,0.1,cmd_0,6261,0.72,person-adaptive (gamma=0.02),0.07730394505670021,0.5660437629771602
+DFERCD group-disjoint folds,mrsv,0,0.1,cmd_22,47,0.72,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,0,0.1,cmd_22,47,0.72,person-adaptive (gamma=0.005),0.0,0.0
+DFERCD group-disjoint folds,mrsv,0,0.1,cmd_22,47,0.72,person-adaptive (gamma=0.02),0.0,0.0
+DFERCD group-disjoint folds,mrsv,0,0.1,cmd_44,352,0.72,static (calibrated on source),0.0,0.017045454545454544
+DFERCD group-disjoint folds,mrsv,0,0.1,cmd_44,352,0.72,person-adaptive (gamma=0.005),0.008522727272727272,0.06534090909090909
+DFERCD group-disjoint folds,mrsv,0,0.1,cmd_44,352,0.72,person-adaptive (gamma=0.02),0.06534090909090909,0.1534090909090909
+DFERCD group-disjoint folds,mrsv,0,0.1,cmd_55,278,0.72,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,0,0.1,cmd_55,278,0.72,person-adaptive (gamma=0.005),0.0,0.0035971223021582736
+DFERCD group-disjoint folds,mrsv,0,0.1,cmd_55,278,0.72,person-adaptive (gamma=0.02),0.0539568345323741,0.16546762589928057
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_13,16,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_13,16,1.01,person-adaptive (gamma=0.005),0.0,0.0
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_13,16,1.01,person-adaptive (gamma=0.02),0.0,0.0
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_2,942,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_2,942,1.01,person-adaptive (gamma=0.005),0.02335456475583864,0.42144373673036095
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_2,942,1.01,person-adaptive (gamma=0.02),0.045647558386411886,0.5764331210191083
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_3,1355,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_3,1355,1.01,person-adaptive (gamma=0.005),0.017712177121771217,0.05166051660516605
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_3,1355,1.01,person-adaptive (gamma=0.02),0.041328413284132844,0.12619926199261994
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_33,1797,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_33,1797,1.01,person-adaptive (gamma=0.005),0.025598219254312743,0.07568169170840289
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_33,1797,1.01,person-adaptive (gamma=0.02),0.04284919309961046,0.10851419031719532
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_7,1620,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_7,1620,1.01,person-adaptive (gamma=0.005),0.037037037037037035,0.10308641975308643
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_7,1620,1.01,person-adaptive (gamma=0.02),0.04567901234567901,0.14629629629629629
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_img,1033,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_img,1033,1.01,person-adaptive (gamma=0.005),0.04743465634075508,0.04743465634075508
+DFERCD group-disjoint folds,mrsv,1,0.05,cmd_img,1033,1.01,person-adaptive (gamma=0.02),0.049370764762826716,0.049370764762826716
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_13,16,0.97,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_13,16,0.97,person-adaptive (gamma=0.005),0.0,0.0
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_13,16,0.97,person-adaptive (gamma=0.02),0.0,0.0
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_2,942,0.97,static (calibrated on source),0.0031847133757961785,0.3821656050955414
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_2,942,0.97,person-adaptive (gamma=0.005),0.07218683651804671,0.618895966029724
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_2,942,0.97,person-adaptive (gamma=0.02),0.09554140127388536,0.7250530785562632
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_3,1355,0.97,static (calibrated on source),0.0007380073800738007,0.0007380073800738007
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_3,1355,0.97,person-adaptive (gamma=0.005),0.06494464944649446,0.13800738007380073
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_3,1355,0.97,person-adaptive (gamma=0.02),0.09151291512915129,0.2007380073800738
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_33,1797,0.97,static (calibrated on source),0.0,0.00333889816360601
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_33,1797,0.97,person-adaptive (gamma=0.005),0.07011686143572621,0.13967723984418476
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_33,1797,0.97,person-adaptive (gamma=0.02),0.09181969949916527,0.17139677239844184
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_7,1620,0.97,static (calibrated on source),0.05555555555555555,0.08518518518518518
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_7,1620,0.97,person-adaptive (gamma=0.005),0.08641975308641975,0.18703703703703703
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_7,1620,0.97,person-adaptive (gamma=0.02),0.09506172839506173,0.24567901234567902
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_img,1033,0.97,static (calibrated on source),0.38818973862536305,0.38915779283639884
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_img,1033,0.97,person-adaptive (gamma=0.005),0.10551790900290416,0.10551790900290416
+DFERCD group-disjoint folds,mrsv,1,0.1,cmd_img,1033,0.97,person-adaptive (gamma=0.02),0.10067763794772508,0.10067763794772508
+DFERCD group-disjoint folds,mrsv,2,0.05,cmd_1,1537,0.99,static (calibrated on source),0.014313597918022121,0.0247234873129473
+DFERCD group-disjoint folds,mrsv,2,0.05,cmd_1,1537,0.99,person-adaptive (gamma=0.005),0.04424202992843201,0.09954456733897202
+DFERCD group-disjoint folds,mrsv,2,0.05,cmd_1,1537,0.99,person-adaptive (gamma=0.02),0.0494469746258946,0.1346779440468445
+DFERCD group-disjoint folds,mrsv,2,0.05,cmd_4,2299,0.99,static (calibrated on source),0.1448455850369726,0.28534145280556766
+DFERCD group-disjoint folds,mrsv,2,0.05,cmd_4,2299,0.99,person-adaptive (gamma=0.005),0.048281861678990866,0.29708568943018704
+DFERCD group-disjoint folds,mrsv,2,0.05,cmd_4,2299,0.99,person-adaptive (gamma=0.02),0.04915180513266638,0.3453675511091779
+DFERCD group-disjoint folds,mrsv,2,0.05,cmd_8,3385,0.99,static (calibrated on source),0.0014771048744460858,0.002658788774002954
+DFERCD group-disjoint folds,mrsv,2,0.05,cmd_8,3385,0.99,person-adaptive (gamma=0.005),0.04549483013293944,0.09571639586410635
+DFERCD group-disjoint folds,mrsv,2,0.05,cmd_8,3385,0.99,person-adaptive (gamma=0.02),0.047858197932053176,0.14711964549483014
+DFERCD group-disjoint folds,mrsv,2,0.1,cmd_1,1537,0.97,static (calibrated on source),0.06961613532856213,0.10084580351333768
+DFERCD group-disjoint folds,mrsv,2,0.1,cmd_1,1537,0.97,person-adaptive (gamma=0.005),0.09433962264150944,0.17957059206245934
+DFERCD group-disjoint folds,mrsv,2,0.1,cmd_1,1537,0.97,person-adaptive (gamma=0.02),0.0988939492517892,0.21275211450878334
+DFERCD group-disjoint folds,mrsv,2,0.1,cmd_4,2299,0.97,static (calibrated on source),0.20313179643323184,0.39843410178338406
+DFERCD group-disjoint folds,mrsv,2,0.1,cmd_4,2299,0.97,person-adaptive (gamma=0.005),0.09830361026533276,0.39582427142235754
+DFERCD group-disjoint folds,mrsv,2,0.1,cmd_4,2299,0.97,person-adaptive (gamma=0.02),0.09917355371900827,0.44149630274032187
+DFERCD group-disjoint folds,mrsv,2,0.1,cmd_8,3385,0.97,static (calibrated on source),0.009748892171344165,0.018316100443131464
+DFERCD group-disjoint folds,mrsv,2,0.1,cmd_8,3385,0.97,person-adaptive (gamma=0.005),0.0930576070901034,0.20324963072378138
+DFERCD group-disjoint folds,mrsv,2,0.1,cmd_8,3385,0.97,person-adaptive (gamma=0.02),0.09630723781388478,0.27031019202363366
+DFERCD group-disjoint folds,mrsv,3,0.05,cmd_11,3188,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,3,0.05,cmd_11,3188,1.01,person-adaptive (gamma=0.005),0.04611041405269762,0.21392722710163112
+DFERCD group-disjoint folds,mrsv,3,0.05,cmd_11,3188,1.01,person-adaptive (gamma=0.02),0.049247176913425346,0.2801129234629862
+DFERCD group-disjoint folds,mrsv,3,0.05,cmd_5,1296,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,3,0.05,cmd_5,1296,1.01,person-adaptive (gamma=0.005),0.037037037037037035,0.33796296296296297
+DFERCD group-disjoint folds,mrsv,3,0.05,cmd_5,1296,1.01,person-adaptive (gamma=0.02),0.046296296296296294,0.4791666666666667
+DFERCD group-disjoint folds,mrsv,3,0.05,cmd_6,2383,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,3,0.05,cmd_6,2383,1.01,person-adaptive (gamma=0.005),0.042383550146873686,0.1527486361728913
+DFERCD group-disjoint folds,mrsv,3,0.05,cmd_6,2383,1.01,person-adaptive (gamma=0.02),0.04825849769198489,0.1829626521191775
+DFERCD group-disjoint folds,mrsv,3,0.05,cmd_A,136,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,3,0.05,cmd_A,136,1.01,person-adaptive (gamma=0.005),0.0,0.6102941176470589
+DFERCD group-disjoint folds,mrsv,3,0.05,cmd_A,136,1.01,person-adaptive (gamma=0.02),0.0,0.8823529411764706
+DFERCD group-disjoint folds,mrsv,3,0.1,cmd_11,3188,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,3,0.1,cmd_11,3188,1.01,person-adaptive (gamma=0.005),0.09096612296110414,0.31085319949811796
+DFERCD group-disjoint folds,mrsv,3,0.1,cmd_11,3188,1.01,person-adaptive (gamma=0.02),0.09880803011292347,0.3779799247176913
+DFERCD group-disjoint folds,mrsv,3,0.1,cmd_5,1296,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,3,0.1,cmd_5,1296,1.01,person-adaptive (gamma=0.005),0.08024691358024691,0.45601851851851855
+DFERCD group-disjoint folds,mrsv,3,0.1,cmd_5,1296,1.01,person-adaptive (gamma=0.02),0.0941358024691358,0.5748456790123457
+DFERCD group-disjoint folds,mrsv,3,0.1,cmd_6,2383,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,3,0.1,cmd_6,2383,1.01,person-adaptive (gamma=0.005),0.08938313050776332,0.22031053294167016
+DFERCD group-disjoint folds,mrsv,3,0.1,cmd_6,2383,1.01,person-adaptive (gamma=0.02),0.09777591271506504,0.25052454888795633
+DFERCD group-disjoint folds,mrsv,3,0.1,cmd_A,136,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,3,0.1,cmd_A,136,1.01,person-adaptive (gamma=0.005),0.0,0.8014705882352942
+DFERCD group-disjoint folds,mrsv,3,0.1,cmd_A,136,1.01,person-adaptive (gamma=0.02),0.0,0.9411764705882353
+DFERCD group-disjoint folds,mrsv,4,0.05,cmd_12,245,0.99,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,4,0.05,cmd_12,245,0.99,person-adaptive (gamma=0.005),0.0,0.0
+DFERCD group-disjoint folds,mrsv,4,0.05,cmd_12,245,0.99,person-adaptive (gamma=0.02),0.0163265306122449,0.05714285714285714
+DFERCD group-disjoint folds,mrsv,4,0.05,cmd_77,579,0.99,static (calibrated on source),0.039723661485319514,0.039723661485319514
+DFERCD group-disjoint folds,mrsv,4,0.05,cmd_77,579,0.99,person-adaptive (gamma=0.005),0.039723661485319514,0.039723661485319514
+DFERCD group-disjoint folds,mrsv,4,0.05,cmd_77,579,0.99,person-adaptive (gamma=0.02),0.044905008635578586,0.05699481865284974
+DFERCD group-disjoint folds,mrsv,4,0.05,cmd_9,4430,0.99,static (calibrated on source),0.4961625282167043,0.6148984198645598
+DFERCD group-disjoint folds,mrsv,4,0.05,cmd_9,4430,0.99,person-adaptive (gamma=0.005),0.042437923250564336,0.18442437923250565
+DFERCD group-disjoint folds,mrsv,4,0.05,cmd_9,4430,0.99,person-adaptive (gamma=0.02),0.04424379232505643,0.1986455981941309
+DFERCD group-disjoint folds,mrsv,4,0.05,cmd_imgi,271,0.99,static (calibrated on source),0.2730627306273063,0.2730627306273063
+DFERCD group-disjoint folds,mrsv,4,0.05,cmd_imgi,271,0.99,person-adaptive (gamma=0.005),0.05904059040590406,0.05904059040590406
+DFERCD group-disjoint folds,mrsv,4,0.05,cmd_imgi,271,0.99,person-adaptive (gamma=0.02),0.05166051660516605,0.05166051660516605
+DFERCD group-disjoint folds,mrsv,4,0.1,cmd_12,245,0.98,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mrsv,4,0.1,cmd_12,245,0.98,person-adaptive (gamma=0.005),0.004081632653061225,0.02040816326530612
+DFERCD group-disjoint folds,mrsv,4,0.1,cmd_12,245,0.98,person-adaptive (gamma=0.02),0.0326530612244898,0.15918367346938775
+DFERCD group-disjoint folds,mrsv,4,0.1,cmd_77,579,0.98,static (calibrated on source),0.11226252158894647,0.11226252158894647
+DFERCD group-disjoint folds,mrsv,4,0.1,cmd_77,579,0.98,person-adaptive (gamma=0.005),0.0846286701208981,0.08808290155440414
+DFERCD group-disjoint folds,mrsv,4,0.1,cmd_77,579,0.98,person-adaptive (gamma=0.02),0.09153713298791019,0.13126079447322972
+DFERCD group-disjoint folds,mrsv,4,0.1,cmd_9,4430,0.98,static (calibrated on source),0.54627539503386,0.6751693002257336
+DFERCD group-disjoint folds,mrsv,4,0.1,cmd_9,4430,0.98,person-adaptive (gamma=0.005),0.08577878103837472,0.23544018058690744
+DFERCD group-disjoint folds,mrsv,4,0.1,cmd_9,4430,0.98,person-adaptive (gamma=0.02),0.08871331828442439,0.25553047404063206
+DFERCD group-disjoint folds,mrsv,4,0.1,cmd_imgi,271,0.98,static (calibrated on source),0.36900369003690037,0.36900369003690037
+DFERCD group-disjoint folds,mrsv,4,0.1,cmd_imgi,271,0.98,person-adaptive (gamma=0.005),0.11439114391143912,0.11439114391143912
+DFERCD group-disjoint folds,mrsv,4,0.1,cmd_imgi,271,0.98,person-adaptive (gamma=0.02),0.1033210332103321,0.1033210332103321
+DFERCD group-disjoint folds,mv,0,0.05,cmd_0,6261,0.75,static (calibrated on source),0.022680083053825267,0.05861683437150615
+DFERCD group-disjoint folds,mv,0,0.05,cmd_0,6261,0.75,person-adaptive (gamma=0.005),0.034818719054464146,0.3708672735984667
+DFERCD group-disjoint folds,mv,0,0.05,cmd_0,6261,0.75,person-adaptive (gamma=0.02),0.0340201245807379,0.4884203801309695
+DFERCD group-disjoint folds,mv,0,0.05,cmd_22,47,0.75,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,0,0.05,cmd_22,47,0.75,person-adaptive (gamma=0.005),0.0,0.0
+DFERCD group-disjoint folds,mv,0,0.05,cmd_22,47,0.75,person-adaptive (gamma=0.02),0.0,0.0
+DFERCD group-disjoint folds,mv,0,0.05,cmd_44,352,0.75,static (calibrated on source),0.0,0.014204545454545454
+DFERCD group-disjoint folds,mv,0,0.05,cmd_44,352,0.75,person-adaptive (gamma=0.005),0.0,0.022727272727272728
+DFERCD group-disjoint folds,mv,0,0.05,cmd_44,352,0.75,person-adaptive (gamma=0.02),0.014204545454545454,0.13636363636363635
+DFERCD group-disjoint folds,mv,0,0.05,cmd_55,278,0.75,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,0,0.05,cmd_55,278,0.75,person-adaptive (gamma=0.005),0.0,0.0
+DFERCD group-disjoint folds,mv,0,0.05,cmd_55,278,0.75,person-adaptive (gamma=0.02),0.01079136690647482,0.01079136690647482
+DFERCD group-disjoint folds,mv,0,0.1,cmd_0,6261,0.68,static (calibrated on source),0.0782622584251717,0.22584251716978118
+DFERCD group-disjoint folds,mv,0,0.1,cmd_0,6261,0.68,person-adaptive (gamma=0.005),0.06979715700367353,0.5000798594473727
+DFERCD group-disjoint folds,mv,0,0.1,cmd_0,6261,0.68,person-adaptive (gamma=0.02),0.06788053026673055,0.5567800670819358
+DFERCD group-disjoint folds,mv,0,0.1,cmd_22,47,0.68,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,0,0.1,cmd_22,47,0.68,person-adaptive (gamma=0.005),0.0,0.0
+DFERCD group-disjoint folds,mv,0,0.1,cmd_22,47,0.68,person-adaptive (gamma=0.02),0.0,0.0
+DFERCD group-disjoint folds,mv,0,0.1,cmd_44,352,0.68,static (calibrated on source),0.0,0.02556818181818182
+DFERCD group-disjoint folds,mv,0,0.1,cmd_44,352,0.68,person-adaptive (gamma=0.005),0.011363636363636364,0.08238636363636363
+DFERCD group-disjoint folds,mv,0,0.1,cmd_44,352,0.68,person-adaptive (gamma=0.02),0.06534090909090909,0.29545454545454547
+DFERCD group-disjoint folds,mv,0,0.1,cmd_55,278,0.68,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,0,0.1,cmd_55,278,0.68,person-adaptive (gamma=0.005),0.0035971223021582736,0.0035971223021582736
+DFERCD group-disjoint folds,mv,0,0.1,cmd_55,278,0.68,person-adaptive (gamma=0.02),0.06474820143884892,0.07913669064748201
+DFERCD group-disjoint folds,mv,1,0.05,cmd_13,16,0.9,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,1,0.05,cmd_13,16,0.9,person-adaptive (gamma=0.005),0.0,0.0
+DFERCD group-disjoint folds,mv,1,0.05,cmd_13,16,0.9,person-adaptive (gamma=0.02),0.0,0.0
+DFERCD group-disjoint folds,mv,1,0.05,cmd_2,942,0.9,static (calibrated on source),0.012738853503184714,0.27388535031847133
+DFERCD group-disjoint folds,mv,1,0.05,cmd_2,942,0.9,person-adaptive (gamma=0.005),0.0435244161358811,0.4416135881104034
+DFERCD group-disjoint folds,mv,1,0.05,cmd_2,942,0.9,person-adaptive (gamma=0.02),0.04670912951167728,0.5987261146496815
+DFERCD group-disjoint folds,mv,1,0.05,cmd_3,1355,0.9,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,1,0.05,cmd_3,1355,0.9,person-adaptive (gamma=0.005),0.01992619926199262,0.02214022140221402
+DFERCD group-disjoint folds,mv,1,0.05,cmd_3,1355,0.9,person-adaptive (gamma=0.02),0.03911439114391144,0.07011070110701106
+DFERCD group-disjoint folds,mv,1,0.05,cmd_33,1797,0.9,static (calibrated on source),0.0,0.0005564830272676684
+DFERCD group-disjoint folds,mv,1,0.05,cmd_33,1797,0.9,person-adaptive (gamma=0.005),0.035058430717863104,0.09126321647189761
+DFERCD group-disjoint folds,mv,1,0.05,cmd_33,1797,0.9,person-adaptive (gamma=0.02),0.04618809126321647,0.17640511964385086
+DFERCD group-disjoint folds,mv,1,0.05,cmd_7,1620,0.9,static (calibrated on source),0.019753086419753086,0.03641975308641975
+DFERCD group-disjoint folds,mv,1,0.05,cmd_7,1620,0.9,person-adaptive (gamma=0.005),0.02962962962962963,0.059876543209876544
+DFERCD group-disjoint folds,mv,1,0.05,cmd_7,1620,0.9,person-adaptive (gamma=0.02),0.04259259259259259,0.13209876543209875
+DFERCD group-disjoint folds,mv,1,0.05,cmd_img,1033,0.9,static (calibrated on source),0.5653436592449177,0.5653436592449177
+DFERCD group-disjoint folds,mv,1,0.05,cmd_img,1033,0.9,person-adaptive (gamma=0.005),0.06776379477250725,0.06776379477250725
+DFERCD group-disjoint folds,mv,1,0.05,cmd_img,1033,0.9,person-adaptive (gamma=0.02),0.05421103581800581,0.05421103581800581
+DFERCD group-disjoint folds,mv,1,0.1,cmd_13,16,0.81,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,1,0.1,cmd_13,16,0.81,person-adaptive (gamma=0.005),0.0,0.0
+DFERCD group-disjoint folds,mv,1,0.1,cmd_13,16,0.81,person-adaptive (gamma=0.02),0.0,0.0
+DFERCD group-disjoint folds,mv,1,0.1,cmd_2,942,0.81,static (calibrated on source),0.06475583864118896,0.4723991507430998
+DFERCD group-disjoint folds,mv,1,0.1,cmd_2,942,0.81,person-adaptive (gamma=0.005),0.1029723991507431,0.6411889596602972
+DFERCD group-disjoint folds,mv,1,0.1,cmd_2,942,0.81,person-adaptive (gamma=0.02),0.09766454352441614,0.732484076433121
+DFERCD group-disjoint folds,mv,1,0.1,cmd_3,1355,0.81,static (calibrated on source),0.008118081180811807,0.008856088560885609
+DFERCD group-disjoint folds,mv,1,0.1,cmd_3,1355,0.81,person-adaptive (gamma=0.005),0.07084870848708487,0.08118081180811808
+DFERCD group-disjoint folds,mv,1,0.1,cmd_3,1355,0.81,person-adaptive (gamma=0.02),0.0907749077490775,0.17416974169741697
+DFERCD group-disjoint folds,mv,1,0.1,cmd_33,1797,0.81,static (calibrated on source),0.004451864218141347,0.011129660545353366
+DFERCD group-disjoint folds,mv,1,0.1,cmd_33,1797,0.81,person-adaptive (gamma=0.005),0.09181969949916527,0.23094045631608237
+DFERCD group-disjoint folds,mv,1,0.1,cmd_33,1797,0.81,person-adaptive (gamma=0.02),0.09682804674457429,0.30328324986087923
+DFERCD group-disjoint folds,mv,1,0.1,cmd_7,1620,0.81,static (calibrated on source),0.08148148148148149,0.13148148148148148
+DFERCD group-disjoint folds,mv,1,0.1,cmd_7,1620,0.81,person-adaptive (gamma=0.005),0.08271604938271605,0.13703703703703704
+DFERCD group-disjoint folds,mv,1,0.1,cmd_7,1620,0.81,person-adaptive (gamma=0.02),0.09259259259259259,0.2351851851851852
+DFERCD group-disjoint folds,mv,1,0.1,cmd_img,1033,0.81,static (calibrated on source),0.7308809293320426,0.7318489835430784
+DFERCD group-disjoint folds,mv,1,0.1,cmd_img,1033,0.81,person-adaptive (gamma=0.005),0.1345595353339787,0.1345595353339787
+DFERCD group-disjoint folds,mv,1,0.1,cmd_img,1033,0.81,person-adaptive (gamma=0.02),0.10842207163601161,0.10842207163601161
+DFERCD group-disjoint folds,mv,2,0.05,cmd_1,1537,0.96,static (calibrated on source),0.08653220559531555,0.11450878334417697
+DFERCD group-disjoint folds,mv,2,0.05,cmd_1,1537,0.96,person-adaptive (gamma=0.005),0.05204944697462589,0.13858165256994145
+DFERCD group-disjoint folds,mv,2,0.05,cmd_1,1537,0.96,person-adaptive (gamma=0.02),0.05074821080026025,0.17957059206245934
+DFERCD group-disjoint folds,mv,2,0.05,cmd_4,2299,0.96,static (calibrated on source),0.10743801652892562,0.22140060896041758
+DFERCD group-disjoint folds,mv,2,0.05,cmd_4,2299,0.96,person-adaptive (gamma=0.005),0.048281861678990866,0.22749021313614615
+DFERCD group-disjoint folds,mv,2,0.05,cmd_4,2299,0.96,person-adaptive (gamma=0.02),0.05002174858634189,0.3018703784254024
+DFERCD group-disjoint folds,mv,2,0.05,cmd_8,3385,0.96,static (calibrated on source),0.002363367799113737,0.014180206794682423
+DFERCD group-disjoint folds,mv,2,0.05,cmd_8,3385,0.96,person-adaptive (gamma=0.005),0.04549483013293944,0.1296898079763663
+DFERCD group-disjoint folds,mv,2,0.05,cmd_8,3385,0.96,person-adaptive (gamma=0.02),0.04756277695716396,0.14741506646971936
+DFERCD group-disjoint folds,mv,2,0.1,cmd_1,1537,0.92,static (calibrated on source),0.20754716981132076,0.27651268705270005
+DFERCD group-disjoint folds,mv,2,0.1,cmd_1,1537,0.92,person-adaptive (gamma=0.005),0.10670136629798309,0.2257644762524398
+DFERCD group-disjoint folds,mv,2,0.1,cmd_1,1537,0.92,person-adaptive (gamma=0.02),0.1014964216005205,0.2674040338321405
+DFERCD group-disjoint folds,mv,2,0.1,cmd_4,2299,0.92,static (calibrated on source),0.21357111787733798,0.3727707698999565
+DFERCD group-disjoint folds,mv,2,0.1,cmd_4,2299,0.92,person-adaptive (gamma=0.005),0.10004349717268378,0.3266637668551544
+DFERCD group-disjoint folds,mv,2,0.1,cmd_4,2299,0.92,person-adaptive (gamma=0.02),0.10047846889952153,0.42235754675946063
+DFERCD group-disjoint folds,mv,2,0.1,cmd_8,3385,0.92,static (calibrated on source),0.012112259970457902,0.0395864106351551
+DFERCD group-disjoint folds,mv,2,0.1,cmd_8,3385,0.92,person-adaptive (gamma=0.005),0.09364844903988183,0.21122599704579026
+DFERCD group-disjoint folds,mv,2,0.1,cmd_8,3385,0.92,person-adaptive (gamma=0.02),0.09719350073855244,0.2528803545051699
+DFERCD group-disjoint folds,mv,3,0.05,cmd_11,3188,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,3,0.05,cmd_11,3188,1.01,person-adaptive (gamma=0.005),0.04736511919698871,0.15652446675031367
+DFERCD group-disjoint folds,mv,3,0.05,cmd_11,3188,1.01,person-adaptive (gamma=0.02),0.04956085319949812,0.2311794228356336
+DFERCD group-disjoint folds,mv,3,0.05,cmd_5,1296,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,3,0.05,cmd_5,1296,1.01,person-adaptive (gamma=0.005),0.046296296296296294,0.3873456790123457
+DFERCD group-disjoint folds,mv,3,0.05,cmd_5,1296,1.01,person-adaptive (gamma=0.02),0.04938271604938271,0.4876543209876543
+DFERCD group-disjoint folds,mv,3,0.05,cmd_6,2383,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,3,0.05,cmd_6,2383,1.01,person-adaptive (gamma=0.005),0.04657994125052455,0.16072177926982795
+DFERCD group-disjoint folds,mv,3,0.05,cmd_6,2383,1.01,person-adaptive (gamma=0.02),0.04867813680234998,0.1867394041124633
+DFERCD group-disjoint folds,mv,3,0.05,cmd_A,136,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,3,0.05,cmd_A,136,1.01,person-adaptive (gamma=0.005),0.0,0.4852941176470588
+DFERCD group-disjoint folds,mv,3,0.05,cmd_A,136,1.01,person-adaptive (gamma=0.02),0.0,0.875
+DFERCD group-disjoint folds,mv,3,0.1,cmd_11,3188,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,3,0.1,cmd_11,3188,1.01,person-adaptive (gamma=0.005),0.09473023839397741,0.2525094102885822
+DFERCD group-disjoint folds,mv,3,0.1,cmd_11,3188,1.01,person-adaptive (gamma=0.02),0.09912170639899624,0.32151819322459224
+DFERCD group-disjoint folds,mv,3,0.1,cmd_5,1296,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,3,0.1,cmd_5,1296,1.01,person-adaptive (gamma=0.005),0.09490740740740741,0.48919753086419754
+DFERCD group-disjoint folds,mv,3,0.1,cmd_5,1296,1.01,person-adaptive (gamma=0.02),0.09799382716049383,0.5802469135802469
+DFERCD group-disjoint folds,mv,3,0.1,cmd_6,2383,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,3,0.1,cmd_6,2383,1.01,person-adaptive (gamma=0.005),0.09567771716323961,0.2224087284934956
+DFERCD group-disjoint folds,mv,3,0.1,cmd_6,2383,1.01,person-adaptive (gamma=0.02),0.09819555182543013,0.24506924045321024
+DFERCD group-disjoint folds,mv,3,0.1,cmd_A,136,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,3,0.1,cmd_A,136,1.01,person-adaptive (gamma=0.005),0.0,0.7279411764705882
+DFERCD group-disjoint folds,mv,3,0.1,cmd_A,136,1.01,person-adaptive (gamma=0.02),0.0,0.9411764705882353
+DFERCD group-disjoint folds,mv,4,0.05,cmd_12,245,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,4,0.05,cmd_12,245,1.01,person-adaptive (gamma=0.005),0.02040816326530612,0.02040816326530612
+DFERCD group-disjoint folds,mv,4,0.05,cmd_12,245,1.01,person-adaptive (gamma=0.02),0.02857142857142857,0.06938775510204082
+DFERCD group-disjoint folds,mv,4,0.05,cmd_77,579,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,4,0.05,cmd_77,579,1.01,person-adaptive (gamma=0.005),0.03281519861830743,0.03281519861830743
+DFERCD group-disjoint folds,mv,4,0.05,cmd_77,579,1.01,person-adaptive (gamma=0.02),0.04145077720207254,0.046632124352331605
+DFERCD group-disjoint folds,mv,4,0.05,cmd_9,4430,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,4,0.05,cmd_9,4430,1.01,person-adaptive (gamma=0.005),0.04153498871331828,0.1905191873589165
+DFERCD group-disjoint folds,mv,4,0.05,cmd_9,4430,1.01,person-adaptive (gamma=0.02),0.04334085778781038,0.19774266365688487
+DFERCD group-disjoint folds,mv,4,0.05,cmd_imgi,271,1.01,static (calibrated on source),0.0,0.0
+DFERCD group-disjoint folds,mv,4,0.05,cmd_imgi,271,1.01,person-adaptive (gamma=0.005),0.04428044280442804,0.04428044280442804
+DFERCD group-disjoint folds,mv,4,0.05,cmd_imgi,271,1.01,person-adaptive (gamma=0.02),0.04797047970479705,0.04797047970479705
+DFERCD group-disjoint folds,mv,4,0.1,cmd_12,245,0.98,static (calibrated on source),0.024489795918367346,0.024489795918367346
+DFERCD group-disjoint folds,mv,4,0.1,cmd_12,245,0.98,person-adaptive (gamma=0.005),0.053061224489795916,0.08571428571428572
+DFERCD group-disjoint folds,mv,4,0.1,cmd_12,245,0.98,person-adaptive (gamma=0.02),0.061224489795918366,0.14285714285714285
+DFERCD group-disjoint folds,mv,4,0.1,cmd_77,579,0.98,static (calibrated on source),0.07081174438687392,0.07081174438687392
+DFERCD group-disjoint folds,mv,4,0.1,cmd_77,579,0.98,person-adaptive (gamma=0.005),0.08117443868739206,0.08290155440414508
+DFERCD group-disjoint folds,mv,4,0.1,cmd_77,579,0.98,person-adaptive (gamma=0.02),0.08981001727115717,0.11226252158894647
+DFERCD group-disjoint folds,mv,4,0.1,cmd_9,4430,0.98,static (calibrated on source),0.5939051918735891,0.7318284424379232
+DFERCD group-disjoint folds,mv,4,0.1,cmd_9,4430,0.98,person-adaptive (gamma=0.005),0.08510158013544018,0.23724604966139956
+DFERCD group-disjoint folds,mv,4,0.1,cmd_9,4430,0.98,person-adaptive (gamma=0.02),0.08645598194130925,0.24401805869074492
+DFERCD group-disjoint folds,mv,4,0.1,cmd_imgi,271,0.98,static (calibrated on source),0.25461254612546125,0.25461254612546125
+DFERCD group-disjoint folds,mv,4,0.1,cmd_imgi,271,0.98,person-adaptive (gamma=0.005),0.11439114391143912,0.11439114391143912
+DFERCD group-disjoint folds,mv,4,0.1,cmd_imgi,271,0.98,person-adaptive (gamma=0.02),0.1033210332103321,0.1033210332103321

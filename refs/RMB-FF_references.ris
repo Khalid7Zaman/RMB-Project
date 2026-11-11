@@ -1,0 +1,913 @@
+TY  - JOUR
+AU  - Breazeal, Cynthia
+TI  - Emotion and sociable humanoid robots
+JO  - International Journal of Human-Computer Studies
+T2  - International Journal of Human-Computer Studies
+PY  - 2003
+VL  - 59
+IS  - 1-2
+SP  - 119
+EP  - 155
+DO  - 10.1016/S1071-5819(03)00018-1
+UR  - https://doi.org/10.1016/S1071-5819(03)00018-1
+ID  - breazeal2003
+ER  - 
+
+TY  - JOUR
+AU  - Fong, Terrence
+AU  - Nourbakhsh, Illah
+AU  - Dautenhahn, Kerstin
+TI  - A survey of socially interactive robots
+JO  - Robotics and Autonomous Systems
+T2  - Robotics and Autonomous Systems
+PY  - 2003
+VL  - 42
+IS  - 3-4
+SP  - 143
+EP  - 166
+DO  - 10.1016/S0921-8890(02)00372-X
+UR  - https://doi.org/10.1016/S0921-8890(02)00372-X
+ID  - fong2003
+ER  - 
+
+TY  - JOUR
+AU  - Rawal, Niyati
+AU  - Stock-Homburg, Ruth Maria
+TI  - Facial Emotion Expressions in Human-Robot Interaction: A Survey
+JO  - International Journal of Social Robotics
+T2  - International Journal of Social Robotics
+PY  - 2022
+VL  - 14
+IS  - 7
+SP  - 1583
+EP  - 1604
+DO  - 10.1007/s12369-022-00867-0
+UR  - https://doi.org/10.1007/s12369-022-00867-0
+ID  - rawal2022
+ER  - 
+
+TY  - JOUR
+AU  - Belpaeme, Tony
+AU  - Kennedy, James
+AU  - Ramachandran, Aditi
+AU  - Scassellati, Brian
+AU  - Tanaka, Fumihide
+TI  - Social robots for education: A review
+JO  - Science Robotics
+T2  - Science Robotics
+PY  - 2018
+VL  - 3
+IS  - 21
+SP  - eaat5954
+DO  - 10.1126/scirobotics.aat5954
+UR  - https://doi.org/10.1126/scirobotics.aat5954
+ID  - belpaeme2018
+ER  - 
+
+TY  - JOUR
+AU  - Shi, Weisong
+AU  - Cao, Jie
+AU  - Zhang, Quan
+AU  - Li, Youhuizi
+AU  - Xu, Lanyu
+TI  - Edge Computing: Vision and Challenges
+JO  - IEEE Internet of Things Journal
+T2  - IEEE Internet of Things Journal
+PY  - 2016
+VL  - 3
+IS  - 5
+SP  - 637
+EP  - 646
+DO  - 10.1109/JIOT.2016.2579198
+UR  - https://doi.org/10.1109/JIOT.2016.2579198
+ID  - shi2016
+ER  - 
+
+TY  - JOUR
+AU  - Shangguan, Zixuan
+AU  - Dong, Yanjie
+AU  - Guo, Song
+AU  - Leung, Victor C. M.
+AU  - Deen, M. Jamal
+AU  - Hu, Xiping
+TI  - Facial Expression Analysis and Its Potentials in IoT Systems: A Contemporary Survey
+JO  - ACM Computing Surveys
+T2  - ACM Computing Surveys
+PY  - 2026
+VL  - 58
+IS  - 2
+SP  - 1
+EP  - 39
+DO  - 10.1145/3737456
+UR  - https://doi.org/10.1145/3737456
+ID  - shangguan2026
+ER  - 
+
+TY  - JOUR
+AU  - Muhammad, Ghulam
+AU  - Hossain, M. Shamim
+TI  - Emotion Recognition for Cognitive Edge Computing Using Deep Learning
+JO  - IEEE Internet of Things Journal
+T2  - IEEE Internet of Things Journal
+PY  - 2021
+VL  - 8
+IS  - 23
+SP  - 16894
+EP  - 16901
+DO  - 10.1109/JIOT.2021.3058587
+UR  - https://doi.org/10.1109/JIOT.2021.3058587
+ID  - muhammad2021
+ER  - 
+
+TY  - JOUR
+AU  - Hossain, M. Shamim
+AU  - Muhammad, Ghulam
+TI  - Emotion-Aware Connected Healthcare Big Data Towards 5G
+JO  - IEEE Internet of Things Journal
+T2  - IEEE Internet of Things Journal
+PY  - 2018
+VL  - 5
+IS  - 4
+SP  - 2399
+EP  - 2406
+DO  - 10.1109/JIOT.2017.2772959
+UR  - https://doi.org/10.1109/JIOT.2017.2772959
+ID  - hossain2018
+ER  - 
+
+TY  - JOUR
+AU  - Li, Shan
+AU  - Deng, Weihong
+TI  - Deep Facial Expression Recognition: A Survey
+JO  - IEEE Transactions on Affective Computing
+T2  - IEEE Transactions on Affective Computing
+PY  - 2022
+VL  - 13
+IS  - 3
+SP  - 1195
+EP  - 1215
+DO  - 10.1109/TAFFC.2020.2981446
+UR  - https://doi.org/10.1109/TAFFC.2020.2981446
+ID  - li2022survey
+ER  - 
+
+TY  - JOUR
+AU  - Khan, Taimoor
+AU  - Yasir, Muhammad
+AU  - Choi, Chang
+TI  - Attention-enhanced optimized deep ensemble network for effective facial emotion recognition
+JO  - Alexandria Engineering Journal
+T2  - Alexandria Engineering Journal
+PY  - 2025
+VL  - 119
+SP  - 111
+EP  - 123
+DO  - 10.1016/j.aej.2025.01.078
+UR  - https://doi.org/10.1016/j.aej.2025.01.078
+ID  - khan2025aej
+ER  - 
+
+TY  - JOUR
+AU  - Zaman, Khalid
+AU  - Zhaoyun, Sun
+AU  - Shah, Babar
+AU  - Hussain, Tariq
+AU  - Shah, Sayyed Mudassar
+AU  - Ali, Farman
+AU  - Khan, Umer Sadiq
+TI  - A novel driver emotion recognition system based on deep ensemble classification
+JO  - Complex & Intelligent Systems
+T2  - Complex & Intelligent Systems
+PY  - 2023
+VL  - 9
+IS  - 6
+SP  - 6927
+EP  - 6952
+DO  - 10.1007/s40747-023-01100-9
+UR  - https://doi.org/10.1007/s40747-023-01100-9
+ID  - zaman2023
+ER  - 
+
+TY  - JOUR
+AU  - Zaman, Khalid
+AU  - Zengkang, Gan
+AU  - Zhaoyun, Sun
+AU  - Shah, Sayyed Mudassar
+AU  - Riaz, Waqar
+AU  - Ji, Jiancheng (Charles)
+AU  - Hussain, Tariq
+AU  - Attar, Razaz Waheeb
+TI  - A Novel Emotion Recognition System for Human–Robot Interaction (HRI) Using Deep Ensemble Classification
+JO  - International Journal of Intelligent Systems
+T2  - International Journal of Intelligent Systems
+PY  - 2025
+VL  - 2025
+IS  - 1
+SP  - 6611276
+DO  - 10.1155/int/6611276
+UR  - https://doi.org/10.1155/int/6611276
+ID  - zaman2025
+ER  - 
+
+TY  - JOUR
+AU  - Zaman, Khalid
+AU  - Khan, Rafiullah
+AU  - Zengkang, Gan
+AU  - Khan, Sajjad Ullah
+AU  - Ali, Farman
+AU  - Hussain, Tariq
+TI  - Accurately recognizing driver emotions through using CNN fused features and NasNet-large model
+JO  - Alexandria Engineering Journal
+T2  - Alexandria Engineering Journal
+PY  - 2026
+VL  - 134
+SP  - 177
+EP  - 196
+DO  - 10.1016/j.aej.2025.12.010
+UR  - https://doi.org/10.1016/j.aej.2025.12.010
+ID  - zaman2026
+ER  - 
+
+TY  - JOUR
+AU  - Barrett, Lisa Feldman
+AU  - Adolphs, Ralph
+AU  - Marsella, Stacy
+AU  - Martinez, Aleix M.
+AU  - Pollak, Seth D.
+TI  - Emotional Expressions Reconsidered: Challenges to Inferring Emotion From Human Facial Movements
+JO  - Psychological Science in the Public Interest
+T2  - Psychological Science in the Public Interest
+PY  - 2019
+VL  - 20
+IS  - 1
+SP  - 1
+EP  - 68
+DO  - 10.1177/1529100619832930
+UR  - https://doi.org/10.1177/1529100619832930
+ID  - barrett2019
+ER  - 
+
+TY  - JOUR
+AU  - Goodfellow, Ian J.
+AU  - Erhan, Dumitru
+AU  - Carrier, Pierre Luc
+AU  - Courville, Aaron
+AU  - Mirza, Mehdi
+AU  - Hamner, Ben
+AU  - Cukierski, Will
+AU  - Tang, Yichuan
+AU  - Thaler, David
+AU  - Lee, Dong-Hyun
+AU  - Zhou, Yingbo
+AU  - Ramaiah, Chetan
+AU  - Feng, Fangxiang
+AU  - Li, Ruifan
+AU  - Wang, Xiaojie
+AU  - Athanasakis, Dimitris
+AU  - Shawe-Taylor, John
+AU  - Milakov, Maxim
+AU  - Park, John
+AU  - Ionescu, Radu
+AU  - Popescu, Marius
+AU  - Grozea, Cristian
+AU  - Bergstra, James
+AU  - Xie, Jingjing
+AU  - Romaszko, Lukasz
+AU  - Xu, Bing
+AU  - Chuang, Zhang
+AU  - Bengio, Yoshua
+TI  - Challenges in representation learning: A report on three machine learning contests
+JO  - Neural Networks
+T2  - Neural Networks
+PY  - 2015
+VL  - 64
+SP  - 59
+EP  - 63
+DO  - 10.1016/j.neunet.2014.09.005
+UR  - https://doi.org/10.1016/j.neunet.2014.09.005
+ID  - goodfellow2015
+ER  - 
+
+TY  - JOUR
+AU  - Li, Shan
+AU  - Deng, Weihong
+TI  - A Deeper Look at Facial Expression Dataset Bias
+JO  - IEEE Transactions on Affective Computing
+T2  - IEEE Transactions on Affective Computing
+PY  - 2022
+VL  - 13
+IS  - 2
+SP  - 881
+EP  - 893
+DO  - 10.1109/TAFFC.2020.2973158
+UR  - https://doi.org/10.1109/TAFFC.2020.2973158
+ID  - li2022bias
+ER  - 
+
+TY  - JOUR
+AU  - Kapoor, Sayash
+AU  - Narayanan, Arvind
+TI  - Leakage and the reproducibility crisis in machine-learning-based science
+JO  - Patterns
+T2  - Patterns
+PY  - 2023
+VL  - 4
+IS  - 9
+SP  - 100804
+DO  - 10.1016/j.patter.2023.100804
+UR  - https://doi.org/10.1016/j.patter.2023.100804
+ID  - kapoor2023
+ER  - 
+
+TY  - JOUR
+AU  - Shafer, Glenn
+AU  - Vovk, Vladimir
+TI  - A tutorial on conformal prediction
+JO  - Journal of Machine Learning Research
+T2  - Journal of Machine Learning Research
+PY  - 2008
+VL  - 9
+SP  - 371
+EP  - 421
+UR  - https://www.jmlr.org/papers/v9/shafer08a.html
+ID  - shafer2008
+ER  - 
+
+TY  - BOOK
+AU  - Vovk, Vladimir
+AU  - Gammerman, Alexander
+AU  - Shafer, Glenn
+TI  - Algorithmic Learning in a Random World
+PB  - Springer, Cham
+PY  - 2022
+DO  - 10.1007/978-3-031-06649-8
+UR  - https://doi.org/10.1007/978-3-031-06649-8
+ID  - vovk2022
+ER  - 
+
+TY  - JOUR
+AU  - Angelopoulos, Anastasios N.
+AU  - Bates, Stephen
+TI  - Conformal Prediction: A Gentle Introduction
+JO  - Foundations and Trends in Machine Learning
+T2  - Foundations and Trends in Machine Learning
+PY  - 2023
+VL  - 16
+IS  - 4
+SP  - 494
+EP  - 591
+DO  - 10.1561/2200000101
+UR  - https://doi.org/10.1561/2200000101
+ID  - angelopoulos2023
+ER  - 
+
+TY  - JOUR
+AU  - Bates, Stephen
+AU  - Angelopoulos, Anastasios
+AU  - Lei, Lihua
+AU  - Malik, Jitendra
+AU  - Jordan, Michael
+TI  - Distribution-free, Risk-controlling Prediction Sets
+JO  - Journal of the ACM
+T2  - Journal of the ACM
+PY  - 2021
+VL  - 68
+IS  - 6
+SP  - 1
+EP  - 34
+DO  - 10.1145/3478535
+UR  - https://doi.org/10.1145/3478535
+ID  - bates2021
+ER  - 
+
+TY  - JOUR
+AU  - Angelopoulos, Anastasios N.
+AU  - Bates, Stephen
+AU  - Candès, Emmanuel J.
+AU  - Jordan, Michael I.
+AU  - Lei, Lihua
+TI  - Learn then test: Calibrating predictive algorithms to achieve risk control
+JO  - The Annals of Applied Statistics
+T2  - The Annals of Applied Statistics
+PY  - 2025
+VL  - 19
+IS  - 2
+SP  - 1641
+EP  - 1662
+DO  - 10.1214/24-AOAS1998
+UR  - https://doi.org/10.1214/24-AOAS1998
+ID  - angelopoulos2025ltt
+ER  - 
+
+TY  - CPAPER
+AU  - Gibbs, Isaac
+AU  - Candès, Emmanuel
+TI  - Adaptive Conformal Inference Under Distribution Shift
+T2  - Advances in Neural Information Processing Systems 34 (NeurIPS 2021)
+PY  - 2021
+VL  - 34
+SP  - 1660
+EP  - 1672
+UR  - https://proceedings.neurips.cc/paper/2021/hash/0d441de75945e5acbc865406fc9a2559-Abstract.html
+ID  - gibbs2021
+ER  - 
+
+TY  - JOUR
+AU  - Barber, Rina Foygel
+AU  - Candès, Emmanuel J.
+AU  - Ramdas, Aaditya
+AU  - Tibshirani, Ryan J.
+TI  - Conformal prediction beyond exchangeability
+JO  - The Annals of Statistics
+T2  - The Annals of Statistics
+PY  - 2023
+VL  - 51
+IS  - 2
+SP  - 816
+EP  - 845
+DO  - 10.1214/23-AOS2276
+UR  - https://doi.org/10.1214/23-AOS2276
+ID  - barber2023
+ER  - 
+
+TY  - UNPB
+AU  - Jia, Zijun
+AU  - Yu, Jinsong
+AU  - Long, Hongyu
+AU  - Tang, Diyin
+TI  - Coverage-Guaranteed Speech Emotion Recognition via Calibrated Uncertainty-Adaptive Prediction Sets
+T2  - arXiv preprint arXiv:2503.22712
+PY  - 2025
+UR  - https://arxiv.org/abs/2503.22712
+ID  - jia2025
+ER  - 
+
+TY  - UNPB
+AU  - Lidard, Justin
+AU  - Pham, Hang
+AU  - Bachman, Ariel
+AU  - Boateng, Bryan
+AU  - Majumdar, Anirudha
+TI  - Risk-Calibrated Human-Robot Interaction via Set-Valued Intent Prediction
+T2  - arXiv preprint arXiv:2403.15959
+PY  - 2024
+UR  - https://arxiv.org/abs/2403.15959
+ID  - lidard2024
+ER  - 
+
+TY  - UNPB
+AU  - Dou, Yifan
+AU  - Lian, Shikan
+AU  - Li, Shibo
+TI  - Conformal Cascade: Distribution-Free Accuracy Guarantees for Multi-Tier LLM Inference
+T2  - arXiv preprint arXiv:2607.25018
+PY  - 2026
+UR  - https://arxiv.org/abs/2607.25018
+ID  - dou2026
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Kai
+AU  - Peng, Xiaojiang
+AU  - Yang, Jianfei
+AU  - Meng, Debin
+AU  - Qiao, Yu
+TI  - Region Attention Networks for Pose and Occlusion Robust Facial Expression Recognition
+JO  - IEEE Transactions on Image Processing
+T2  - IEEE Transactions on Image Processing
+PY  - 2020
+VL  - 29
+SP  - 4057
+EP  - 4069
+DO  - 10.1109/TIP.2019.2956143
+UR  - https://doi.org/10.1109/TIP.2019.2956143
+ID  - wang2020ran
+ER  - 
+
+TY  - JOUR
+AU  - Li, Yong
+AU  - Zeng, Jiabei
+AU  - Shan, Shiguang
+AU  - Chen, Xilin
+TI  - Occlusion Aware Facial Expression Recognition Using CNN With Attention Mechanism
+JO  - IEEE Transactions on Image Processing
+T2  - IEEE Transactions on Image Processing
+PY  - 2019
+VL  - 28
+IS  - 5
+SP  - 2439
+EP  - 2450
+DO  - 10.1109/TIP.2018.2886767
+UR  - https://doi.org/10.1109/TIP.2018.2886767
+ID  - li2019acnn
+ER  - 
+
+TY  - JOUR
+AU  - Ma, Fuyan
+AU  - Sun, Bin
+AU  - Li, Shutao
+TI  - Facial Expression Recognition With Visual Transformers and Attentional Selective Fusion
+JO  - IEEE Transactions on Affective Computing
+T2  - IEEE Transactions on Affective Computing
+PY  - 2023
+VL  - 14
+IS  - 2
+SP  - 1236
+EP  - 1248
+DO  - 10.1109/TAFFC.2021.3122146
+UR  - https://doi.org/10.1109/TAFFC.2021.3122146
+ID  - ma2023vtff
+ER  - 
+
+TY  - JOUR
+AU  - Ganaie, M. A.
+AU  - Hu, Minghui
+AU  - Malik, A. K.
+AU  - Tanveer, M.
+AU  - Suganthan, P. N.
+TI  - Ensemble deep learning: A review
+JO  - Engineering Applications of Artificial Intelligence
+T2  - Engineering Applications of Artificial Intelligence
+PY  - 2022
+VL  - 115
+SP  - 105151
+DO  - 10.1016/j.engappai.2022.105151
+UR  - https://doi.org/10.1016/j.engappai.2022.105151
+ID  - ganaie2022
+ER  - 
+
+TY  - JOUR
+AU  - Hossain, M. Shamim
+AU  - Muhammad, Ghulam
+TI  - Emotion recognition using deep learning approach from audio-visual emotional big data
+JO  - Information Fusion
+T2  - Information Fusion
+PY  - 2019
+VL  - 49
+SP  - 69
+EP  - 78
+DO  - 10.1016/j.inffus.2018.09.008
+UR  - https://doi.org/10.1016/j.inffus.2018.09.008
+ID  - hossain2019
+ER  - 
+
+TY  - JOUR
+AU  - Safavi, Farshad
+AU  - Patel, Kulin
+AU  - Vinjamuri, Ramana
+TI  - Facial Expression Recognition With an Efficient Mix Transformer for Affective Human-Robot Interaction
+JO  - IEEE Transactions on Affective Computing
+T2  - IEEE Transactions on Affective Computing
+PY  - 2025
+VL  - 16
+IS  - 4
+SP  - 3081
+EP  - 3094
+DO  - 10.1109/TAFFC.2025.3567966
+UR  - https://doi.org/10.1109/TAFFC.2025.3567966
+ID  - safavi2025
+ER  - 
+
+TY  - JOUR
+AU  - Zepf, Sebastian
+AU  - Hernandez, Javier
+AU  - Schmitt, Alexander
+AU  - Minker, Wolfgang
+AU  - Picard, Rosalind W.
+TI  - Driver Emotion Recognition for Intelligent Vehicles: A Survey
+JO  - ACM Computing Surveys
+T2  - ACM Computing Surveys
+PY  - 2021
+VL  - 53
+IS  - 3
+SP  - 1
+EP  - 30
+DO  - 10.1145/3388790
+UR  - https://doi.org/10.1145/3388790
+ID  - zepf2021
+ER  - 
+
+TY  - CPAPER
+AU  - Guo, Chuan
+AU  - Pleiss, Geoff
+AU  - Sun, Yu
+AU  - Weinberger, Kilian Q.
+TI  - On Calibration of Modern Neural Networks
+T2  - Proceedings of the 34th International Conference on Machine Learning (ICML), PMLR
+PY  - 2017
+VL  - 70
+SP  - 1321
+EP  - 1330
+UR  - https://proceedings.mlr.press/v70/guo17a.html
+ID  - guo2017
+ER  - 
+
+TY  - UNPB
+AU  - Inoshita, Keito
+AU  - Ueno, Takato
+TI  - Interpretable Uncertainty Routing Separating Emotion Ambiguity from Distribution Shift in Facial Expression Recognition
+T2  - arXiv preprint arXiv:2606.22725
+PY  - 2026
+UR  - https://arxiv.org/abs/2606.22725
+ID  - inoshita2026
+ER  - 
+
+TY  - CPAPER
+AU  - Howard, Andrew
+AU  - Sandler, Mark
+AU  - Chen, Bo
+AU  - Wang, Weijun
+AU  - Chen, Liang-Chieh
+AU  - Tan, Mingxing
+AU  - Chu, Grace
+AU  - Vasudevan, Vijay
+AU  - Zhu, Yukun
+AU  - Pang, Ruoming
+AU  - Adam, Hartwig
+AU  - Le, Quoc
+TI  - Searching for MobileNetV3
+T2  - Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)
+PY  - 2019
+SP  - 1314
+EP  - 1324
+DO  - 10.1109/ICCV.2019.00140
+UR  - https://doi.org/10.1109/ICCV.2019.00140
+ID  - howard2019
+ER  - 
+
+TY  - CPAPER
+AU  - Dosovitskiy, Alexey
+AU  - Beyer, Lucas
+AU  - Kolesnikov, Alexander
+AU  - Weissenborn, Dirk
+AU  - Zhai, Xiaohua
+AU  - Unterthiner, Thomas
+AU  - Dehghani, Mostafa
+AU  - Minderer, Matthias
+AU  - Heigold, Georg
+AU  - Gelly, Sylvain
+AU  - Uszkoreit, Jakob
+AU  - Houlsby, Neil
+TI  - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+T2  - Proceedings of the International Conference on Learning Representations (ICLR)
+PY  - 2021
+UR  - https://openreview.net/forum?id=YicbFdNTTy
+ID  - dosovitskiy2021
+ER  - 
+
+TY  - JOUR
+AU  - Steiner, Andreas
+AU  - Kolesnikov, Alexander
+AU  - Zhai, Xiaohua
+AU  - Wightman, Ross
+AU  - Uszkoreit, Jakob
+AU  - Beyer, Lucas
+TI  - How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers
+JO  - Transactions on Machine Learning Research
+T2  - Transactions on Machine Learning Research
+PY  - 2022
+UR  - https://openreview.net/forum?id=4nPswr1KcP
+ID  - steiner2022
+ER  - 
+
+TY  - CPAPER
+AU  - Radosavovic, Ilija
+AU  - Kosaraju, Raj Prateek
+AU  - Girshick, Ross
+AU  - He, Kaiming
+AU  - Dollar, Piotr
+TI  - Designing Network Design Spaces
+T2  - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+PY  - 2020
+SP  - 10425
+EP  - 10433
+DO  - 10.1109/CVPR42600.2020.01044
+UR  - https://doi.org/10.1109/CVPR42600.2020.01044
+ID  - radosavovic2020
+ER  - 
+
+TY  - JOUR
+AU  - Hu, Jie
+AU  - Shen, Li
+AU  - Albanie, Samuel
+AU  - Sun, Gang
+AU  - Wu, Enhua
+TI  - Squeeze-and-Excitation Networks
+JO  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+T2  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+PY  - 2020
+VL  - 42
+IS  - 8
+SP  - 2011
+EP  - 2023
+DO  - 10.1109/TPAMI.2019.2913372
+UR  - https://doi.org/10.1109/TPAMI.2019.2913372
+ID  - hu2020
+ER  - 
+
+TY  - CPAPER
+AU  - He, Kaiming
+AU  - Zhang, Xiangyu
+AU  - Ren, Shaoqing
+AU  - Sun, Jian
+TI  - Deep Residual Learning for Image Recognition
+T2  - Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+PY  - 2016
+SP  - 770
+EP  - 778
+DO  - 10.1109/CVPR.2016.90
+UR  - https://doi.org/10.1109/CVPR.2016.90
+ID  - he2016
+ER  - 
+
+TY  - JOUR
+AU  - Russakovsky, Olga
+AU  - Deng, Jia
+AU  - Su, Hao
+AU  - Krause, Jonathan
+AU  - Satheesh, Sanjeev
+AU  - Ma, Sean
+AU  - Huang, Zhiheng
+AU  - Karpathy, Andrej
+AU  - Khosla, Aditya
+AU  - Bernstein, Michael
+AU  - Berg, Alexander C.
+AU  - Fei-Fei, Li
+TI  - ImageNet Large Scale Visual Recognition Challenge
+JO  - International Journal of Computer Vision
+T2  - International Journal of Computer Vision
+PY  - 2015
+VL  - 115
+IS  - 3
+SP  - 211
+EP  - 252
+DO  - 10.1007/s11263-015-0816-y
+UR  - https://doi.org/10.1007/s11263-015-0816-y
+ID  - russakovsky2015
+ER  - 
+
+TY  - CPAPER
+AU  - Cui, Yin
+AU  - Jia, Menglin
+AU  - Lin, Tsung-Yi
+AU  - Song, Yang
+AU  - Belongie, Serge
+TI  - Class-Balanced Loss Based on Effective Number of Samples
+T2  - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+PY  - 2019
+SP  - 9260
+EP  - 9269
+DO  - 10.1109/CVPR.2019.00949
+UR  - https://doi.org/10.1109/CVPR.2019.00949
+ID  - cui2019
+ER  - 
+
+TY  - JOUR
+AU  - Lin, Tsung-Yi
+AU  - Goyal, Priya
+AU  - Girshick, Ross
+AU  - He, Kaiming
+AU  - Dollar, Piotr
+TI  - Focal Loss for Dense Object Detection
+JO  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+T2  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+PY  - 2020
+VL  - 42
+IS  - 2
+SP  - 318
+EP  - 327
+DO  - 10.1109/TPAMI.2018.2858826
+UR  - https://doi.org/10.1109/TPAMI.2018.2858826
+ID  - lin2020
+ER  - 
+
+TY  - CPAPER
+AU  - Loshchilov, Ilya
+AU  - Hutter, Frank
+TI  - Decoupled Weight Decay Regularization
+T2  - Proceedings of the International Conference on Learning Representations (ICLR)
+PY  - 2019
+UR  - https://openreview.net/forum?id=Bkg6RiCqY7
+ID  - loshchilov2019
+ER  - 
+
+TY  - JOUR
+AU  - Baltrusaitis, Tadas
+AU  - Ahuja, Chaitanya
+AU  - Morency, Louis-Philippe
+TI  - Multimodal Machine Learning: A Survey and Taxonomy
+JO  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+T2  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+PY  - 2019
+VL  - 41
+IS  - 2
+SP  - 423
+EP  - 443
+DO  - 10.1109/TPAMI.2018.2798607
+UR  - https://doi.org/10.1109/TPAMI.2018.2798607
+ID  - baltrusaitis2019
+ER  - 
+
+TY  - JOUR
+AU  - Harris, Charles R.
+AU  - Millman, K. Jarrod
+AU  - van der Walt, Stefan J.
+AU  - Gommers, Ralf
+AU  - Virtanen, Pauli
+AU  - Cournapeau, David
+AU  - Wieser, Eric
+AU  - Taylor, Julian
+AU  - Berg, Sebastian
+AU  - Smith, Nathaniel J.
+AU  - Kern, Robert
+AU  - Picus, Matti
+AU  - Hoyer, Stephan
+AU  - van Kerkwijk, Marten H.
+AU  - Brett, Matthew
+AU  - Haldane, Allan
+AU  - del Rio, Jaime Fernandez
+AU  - Wiebe, Mark
+AU  - Peterson, Pearu
+AU  - Gerard-Marchant, Pierre
+AU  - Sheppard, Kevin
+AU  - Reddy, Tyler
+AU  - Weckesser, Warren
+AU  - Abbasi, Hameer
+AU  - Gohlke, Christoph
+AU  - Oliphant, Travis E.
+TI  - Array programming with NumPy
+JO  - Nature
+T2  - Nature
+PY  - 2020
+VL  - 585
+IS  - 7825
+SP  - 357
+EP  - 362
+DO  - 10.1038/s41586-020-2649-2
+UR  - https://doi.org/10.1038/s41586-020-2649-2
+ID  - harris2020
+ER  - 
+
+TY  - JOUR
+AU  - Virtanen, Pauli
+AU  - Gommers, Ralf
+AU  - Oliphant, Travis E.
+AU  - Haberland, Matt
+AU  - Reddy, Tyler
+AU  - Cournapeau, David
+AU  - Burovski, Evgeni
+AU  - Peterson, Pearu
+AU  - Weckesser, Warren
+AU  - Bright, Jonathan
+AU  - van der Walt, Stefan J.
+AU  - Brett, Matthew
+AU  - Wilson, Joshua
+AU  - Millman, K. Jarrod
+AU  - Mayorov, Nikolay
+AU  - Nelson, Andrew R. J.
+AU  - Jones, Eric
+AU  - Kern, Robert
+AU  - Larson, Eric
+AU  - Carey, C J
+AU  - Polat, Ilhan
+AU  - Feng, Yu
+AU  - Moore, Eric W.
+AU  - VanderPlas, Jake
+AU  - Laxalde, Denis
+AU  - Perktold, Josef
+AU  - Cimrman, Robert
+AU  - Henriksen, Ian
+AU  - Quintero, E. A.
+AU  - Harris, Charles R.
+AU  - Archibald, Anne M.
+AU  - Ribeiro, Antonio H.
+AU  - Pedregosa, Fabian
+AU  - van Mulbregt, Paul
+AU  - SciPy 1.0 Contributors
+TI  - SciPy 1.0: fundamental algorithms for scientific computing in Python
+JO  - Nature Methods
+T2  - Nature Methods
+PY  - 2020
+VL  - 17
+IS  - 3
+SP  - 261
+EP  - 272
+DO  - 10.1038/s41592-019-0686-2
+UR  - https://doi.org/10.1038/s41592-019-0686-2
+ID  - virtanen2020
+ER  - 
+
+TY  - JOUR
+AU  - Hunter, John D.
+TI  - Matplotlib: A 2D Graphics Environment
+JO  - Computing in Science & Engineering
+T2  - Computing in Science & Engineering
+PY  - 2007
+VL  - 9
+IS  - 3
+SP  - 90
+EP  - 95
+DO  - 10.1109/MCSE.2007.55
+UR  - https://doi.org/10.1109/MCSE.2007.55
+ID  - hunter2007
+ER  - 

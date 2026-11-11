@@ -1,0 +1,17 @@
+protocol,branches,test_f1,test_acc,folds
+frame-level (leaky),late_mrsv,97.32 ± 0.23,97.43 ± 0.23,5
+frame-level (leaky),late_mv,96.98 ± 0.06,97.09 ± 0.07,5
+frame-level (leaky),m,95.44 ± 0.25,95.61 ± 0.24,5
+frame-level (leaky),mrsv,96.77 ± 0.26,96.92 ± 0.24,5
+frame-level (leaky),mv,96.94 ± 0.16,97.07 ± 0.13,5
+frame-level (leaky),r,89.93 ± 0.38,90.38 ± 0.34,5
+frame-level (leaky),s,92.36 ± 0.19,92.70 ± 0.20,5
+frame-level (leaky),v,94.00 ± 0.51,94.32 ± 0.49,5
+group-disjoint,late_mrsv,18.48 ± 9.32,24.78 ± 11.96,5
+group-disjoint,late_mv,20.15 ± 11.97,26.09 ± 13.79,5
+group-disjoint,m,14.10 ± 6.61,20.17 ± 9.50,5
+group-disjoint,mrsv,18.20 ± 7.38,25.04 ± 11.12,5
+group-disjoint,mv,18.01 ± 7.84,25.26 ± 11.94,5
+group-disjoint,r,16.88 ± 6.39,21.69 ± 9.02,5
+group-disjoint,s,16.61 ± 6.54,20.76 ± 9.43,5
+group-disjoint,v,22.73 ± 10.37,28.50 ± 11.73,5

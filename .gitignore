@@ -1,0 +1,25 @@
+# Data, weights and large run outputs are not versioned
+data/*
+!data/README.md
+weights/*
+!weights/README.md
+outputs/features/
+outputs/runs*/
+outputs/manifests_original/
+logs/
+*.safetensors
+*.pt
+*.pth
+*.npy
+*.npz
+*.zip
+*.rar
+*.tar.gz
+*.log
+*.out
+*.err
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+manuscript/
+*.docx
